@@ -251,3 +251,108 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [10:17:45]ACCESS: Logout: *no key*/(new player)
 [10:17:45]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-1984611505 || BYOND v508
 [10:18:30]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+
+
+Starting up. 11:14.20
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[11:14:20]ADMIN: Loading Banlistjob
+[11:14:20]ADMIN: Loading jobban_rank
+[11:14:20]ADMIN: jobban_keylist was empty
+[11:14:20]ADMIN: Loading appearance_rank
+[11:14:20]ADMIN: appearance_keylist was empty
+[11:14:20]ADMIN: Updating jobbanfile!
+[11:14:20]ADMIN: Loading Banlist
+[11:14:52]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[11:16:00]ADMIN: Cairo283 has started the game.
+[11:16:01]ACCESS: Logout: *no key*/(Cairo283)
+[11:16:01]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:16:31]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:16:31]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:16:57]ADMIN: Cairo283/(Matthew Rhinehart) admin-called the emergency shuttle.
+[11:17:07]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:17:13]EMOTE: monkey (185)/ : <B>The monkey (185)</B> jumps!
+[11:17:36]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:17:36]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:17:51]ADMIN: Cairo283/(Matthew Rhinehart) used gibself.
+[11:17:53]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:17:53]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:18:15]ADMIN: Cairo283/(Matthew Rhinehart) teleported *no key*/(hivebot)
+[11:18:31]ADMIN: Cairo283/(Matthew Rhinehart) teleported *no key*/(monkey (185))
+[11:18:43]ADMIN: Cairo283/(Matthew Rhinehart) assumed direct control of the monkey (185).
+[11:18:43]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:18:43]ACCESS: Login: cairo283/(monkey (185)) from 127.0.0.1-2795721299 || BYOND v508
+[11:19:07]ACCESS: Logout: *no key*/(monkey (185))
+[11:19:07]ACCESS: Login: cairo283/(monkey (185)) from 127.0.0.1-2795721299 || BYOND v508
+[11:19:09]SAY: space bear/ : GRR!
+[11:19:38]ACCESS: Logout: cairo283[DC]/(monkey (185))
+
+
+Starting up. 16:42.24
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[16:42:24]ADMIN: Loading Banlistjob
+[16:42:24]ADMIN: Loading jobban_rank
+[16:42:24]ADMIN: jobban_keylist was empty
+[16:42:24]ADMIN: Loading appearance_rank
+[16:42:24]ADMIN: appearance_keylist was empty
+[16:42:24]ADMIN: Updating jobbanfile!
+[16:42:24]ADMIN: Loading Banlist
+[16:43:21]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[16:43:41]ADMIN: Cairo283 has started the game.
+[16:43:42]ACCESS: Logout: *no key*/(Cairo283)
+[16:43:42]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[16:44:00]ADMIN: Cairo283/(Matthew Rhinehart) deleted the blast door at (127,108,1)
+[16:44:36]ADMIN: Cairo283/(Matthew Rhinehart) deleted the storage room #4 at (123,116,1)
+[16:45:21]SAY: mouse/ : Squeek!
+[16:47:15]EMOTE: space bear/ : <B>The space bear</B> stomps
+[16:49:04]ADMIN: Cairo283/(Matthew Rhinehart) teleported *no key*/(hivebot)
+[16:49:34]EMOTE: monkey (793)/ : <B>The monkey (793)</B> jumps!
+[16:49:37]ADMIN: Cairo283/(Matthew Rhinehart) has wizard'ed Matthew Rhinehart.
+[16:49:39]ADMIN: Cairo283/(Matthew Rhinehart) has changeling'ed Matthew Rhinehart.
+[16:49:40]EMOTE: monkey (793)/ : <B>The monkey (793)</B> jumps!
+[16:49:45]ADMIN: Cairo283/(Matthew Rhinehart) has traitor'ed Matthew Rhinehart.
+[16:49:45]ADMIN: Cairo283/(Zero-G HiveSun Commander) has nuke op'ed Matthew Rhinehart.
+[16:50:03]ADMIN: Cairo283/(Melvyn Rhinehart) turned Matthew Rhinehart into abductor.
+[16:50:07]ADMIN: Cairo283/(Melvyn Rhinehart) attempted to give Matthew Rhinehart an uplink.
+[16:50:35]ACCESS: Logout: Cairo283[DC]/(Melvyn Rhinehart)
