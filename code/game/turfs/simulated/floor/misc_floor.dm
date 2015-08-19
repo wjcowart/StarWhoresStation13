@@ -90,6 +90,7 @@
 	name = "snow"
 	icon = 'icons/turf/snow.dmi'
 	icon_state = "snow"
+	stepsound = "concrete" //no stepsound yet
 
 /turf/simulated/floor/plating/snow/ex_act(severity, target)
 	contents_explosion(severity, target)

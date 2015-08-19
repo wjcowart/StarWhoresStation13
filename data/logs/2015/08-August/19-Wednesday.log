@@ -1,0 +1,79 @@
+
+
+Starting up. 06:50.52
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[06:50:52]ADMIN: Loading Banlistjob
+[06:50:52]ADMIN: Banlistjob is empty.
+[06:50:52]ADMIN: Banlistjob missing base dir.
+Database connection failed. Reverting to the legacy ban system.
+[06:50:52]ADMIN: Loading jobban_rank
+[06:50:52]ADMIN: jobban_keylist was empty
+[06:50:52]ADMIN: Loading appearance_rank
+[06:50:52]ADMIN: appearance_keylist was empty
+[06:50:52]ADMIN: Updating jobbanfile!
+[06:50:52]ADMIN: Loading Banlist
+[06:50:52]ADMIN: Banlist is empty.
+[06:50:52]ADMIN: Banlist missing base dir.
+[06:52:35]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-1984611505 || BYOND v508
+[06:53:16]ACCESS: Logout: Wjcowart[DC]/(Wjcowart)
+
+
+Starting up. 06:58.48
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[06:58:48]ADMIN: Loading Banlistjob
+[06:58:48]ADMIN: Loading jobban_rank
+[06:58:48]ADMIN: jobban_keylist was empty
+[06:58:48]ADMIN: Loading appearance_rank
+[06:58:48]ADMIN: appearance_keylist was empty
+[06:58:48]ADMIN: Updating jobbanfile!
+[06:58:48]ADMIN: Loading Banlist
+[06:59:46]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-1984611505 || BYOND v508
+[06:59:59]ADMIN: Wjcowart has started the game.
+[07:00:05]ADMIN: Wjcowart has started the game.
+[07:00:33]ADMIN: Wjcowart/(Wjcowart) toggled OOC.
+[07:00:34]ADMIN: Wjcowart/(Wjcowart) toggled OOC.
+[07:01:23]ADMIN: Wjcowart has started the game.
+[07:01:43]ADMIN: Wjcowart/(Wjcowart) spawned /atom/movable/overlay at (17,34,2)
+[07:01:50]ACCESS: Logout: Wjcowart[DC]/(Wjcowart)
