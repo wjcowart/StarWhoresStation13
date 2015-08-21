@@ -253,11 +253,7 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [10:18:30]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
 
 
-<<<<<<< HEAD
 Starting up. 11:14.20
-=======
-Starting up. 13:18.02
->>>>>>> origin/master
 ---------------------
 Adding game mode abduction (abduction) to configuration.
 Adding game mode blob (blob) to configuration.
@@ -280,7 +276,6 @@ Adding game mode wizard (wizard) to configuration.
 Unknown setting in configuration: 'use_recursive_explosions'
 Saved mode is 'extended'
 Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
-<<<<<<< HEAD
 [11:14:20]ADMIN: Loading Banlistjob
 [11:14:20]ADMIN: Loading jobban_rank
 [11:14:20]ADMIN: jobban_keylist was empty
@@ -314,26 +309,6 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 
 
 Starting up. 16:42.24
-=======
-[13:18:02]ADMIN: Loading Banlistjob
-[13:18:02]ADMIN: Loading jobban_rank
-[13:18:02]ADMIN: jobban_keylist was empty
-[13:18:02]ADMIN: Loading appearance_rank
-[13:18:02]ADMIN: appearance_keylist was empty
-[13:18:02]ADMIN: Updating jobbanfile!
-[13:18:02]ADMIN: Loading Banlist
-[13:18:24]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-1984611505 || BYOND v508
-[13:18:40]ADMIN: Wjcowart has started the game.
-[13:18:40]ACCESS: Logout: *no key*/(Wjcowart)
-[13:18:40]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-1984611505 || BYOND v508
-[13:18:47]SAY: space bear/ : Growl!
-[13:19:00]ACCESS: Logout: *no key*/(Mariabella Benford)
-[13:19:00]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-1984611505 || BYOND v508
-[13:19:43]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
-
-
-Starting up. 13:30.30
->>>>>>> origin/master
 ---------------------
 Adding game mode abduction (abduction) to configuration.
 Adding game mode blob (blob) to configuration.
@@ -356,7 +331,6 @@ Adding game mode wizard (wizard) to configuration.
 Unknown setting in configuration: 'use_recursive_explosions'
 Saved mode is 'extended'
 Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
-<<<<<<< HEAD
 [16:42:24]ADMIN: Loading Banlistjob
 [16:42:24]ADMIN: Loading jobban_rank
 [16:42:24]ADMIN: jobban_keylist was empty
@@ -382,22 +356,3 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [16:50:03]ADMIN: Cairo283/(Melvyn Rhinehart) turned Matthew Rhinehart into abductor.
 [16:50:07]ADMIN: Cairo283/(Melvyn Rhinehart) attempted to give Matthew Rhinehart an uplink.
 [16:50:35]ACCESS: Logout: Cairo283[DC]/(Melvyn Rhinehart)
-=======
-[13:30:30]ADMIN: Loading Banlistjob
-[13:30:30]ADMIN: Loading jobban_rank
-[13:30:30]ADMIN: jobban_keylist was empty
-[13:30:30]ADMIN: Loading appearance_rank
-[13:30:30]ADMIN: appearance_keylist was empty
-[13:30:30]ADMIN: Updating jobbanfile!
-[13:30:30]ADMIN: Loading Banlist
-[13:30:47]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-1984611505 || BYOND v508
-[13:31:14]GAME: Explosion with size (1, 2, 3, 0) in area Space (127,79,1)
-[13:31:20]ADMIN: Wjcowart has started the game.
-[13:31:20]ACCESS: Logout: *no key*/(Wjcowart)
-[13:31:20]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-1984611505 || BYOND v508
-[13:32:24]SAY: mouse/ : Squeek?
-[13:33:10]SAY: space bear/ : Growl!
-[13:34:11]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
-[13:34:13]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> whimpers.
-[13:34:16]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
->>>>>>> origin/master
