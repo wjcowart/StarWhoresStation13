@@ -376,3 +376,388 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [13:27:19]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> screams!
 [13:27:48]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to Shaft Miner.
 [13:28:24]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+
+
+Starting up. 17:50.32
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[17:50:32]ADMIN: Loading Banlistjob
+[17:50:32]ADMIN: Loading jobban_rank
+[17:50:32]ADMIN: jobban_keylist was empty
+[17:50:32]ADMIN: Loading appearance_rank
+[17:50:32]ADMIN: appearance_keylist was empty
+[17:50:32]ADMIN: Updating jobbanfile!
+[17:50:32]ADMIN: Loading Banlist
+[17:50:49]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-1984611505 || BYOND v508
+[17:51:21]ADMIN: Wjcowart has started the game.
+[17:51:22]ACCESS: Logout: *no key*/(Wjcowart)
+[17:51:22]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-1984611505 || BYOND v508
+[17:51:41]ACCESS: Login: Cairo283/(Cairo283) from 96.50.107.66-2795721299 || BYOND v508
+[17:51:54]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[17:52:12]ACCESS: Logout: *no key*/(Cairo283)
+[17:52:12]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[17:52:19]SAY: space bear/ : RAWR!
+[17:53:07]EMOTE: mouse/ : <B>The mouse</B> shakes
+[17:53:49]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[17:54:46]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> twitches violently.
+[17:55:03]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> twitches violently.
+[17:55:09]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> blinks rapidly.
+[17:55:41]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> blinks rapidly.
+[17:56:02]SAY: grey baby slime (528)/ : Blop...
+[17:57:11]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[17:57:22]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> screams!
+[17:58:14]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[17:58:19]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to new-russian soldier.
+[17:59:41]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[17:59:49]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Wjcowart/(Mariabella Benford)
+[17:59:59]ADMIN: PM: Cairo283/(Matthew Rhinehart)->Wjcowart/(Mariabella Benford): Hurry up, faggot
+[18:00:14]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Wjcowart/(Mariabella Benford) to Assistant.
+[18:00:36]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Wjcowart/(Mariabella Benford) to Botanist.
+[18:01:50]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Wjcowart/(Mariabella Benford) to new-russian soldier.
+[18:02:19]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/carbon/alien/humanoid/sentinel
+[18:02:43]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/carbon/alien/humanoid/queen/large
+[18:02:56]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/alien/queen/large
+[18:02:57]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/alien/queen/large
+[18:02:57]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/alien/queen/large
+[18:02:58]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/alien/queen/large
+[18:03:20]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> whimpers.
+[18:03:22]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:03:30]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs painfuly!
+[18:03:32]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> whimpers.
+[18:03:36]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:03:40]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:04:02]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> whimpers.
+[18:04:04]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> coughs painfuly!
+[18:04:08]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:04:13]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> harvests methane from uranus at mach 3!
+[18:04:17]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> coughs painfuly!
+[18:04:19]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:04:21]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:04:29]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:04:40]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> groans in pain!
+[18:04:43]WHISPER: Mariabella Benford/Wjcowart : my
+[18:04:43]WHISPER: Mariabella Benford/Wjcowart : my
+[18:04:46]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:04:50]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:04:53]WHISPER: Mariabella Benford/Wjcowart : my asthma
+[18:04:53]WHISPER: Mariabella Benford/Wjcowart : my asthma
+[18:05:01]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:05:05]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:06:43]ACCESS: Logout: *no key*/(Mariabella Benford)
+[18:06:43]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-1984611505 || BYOND v508
+[18:07:02]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:02]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:03]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:04]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:04]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:04]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:04]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:04]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:04]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:05]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:06]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:06]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:06]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:06]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:06]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:07]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:07]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:08]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:08]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:08]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:08]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:10]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:10]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:11]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:11]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:14]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:15]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:16]ADMIN: Wjcowart/(Mariabella Benford) created a /mob/living/simple_animal/hostile/carp/eyeball
+[18:07:21]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:07:26]ACCESS: Logout: *no key*/(Mariabella Benford)
+[18:07:26]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-1984611505 || BYOND v508
+[18:07:42]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:43]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:07:49]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:49]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:51]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:57]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:57]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:07:59]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:01]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:05]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:05]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:08:12]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> seizes up and falls limp, her eyes dead and lifeless...
+[18:08:18]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:18]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:18]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:47]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:48]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:50]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:50]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:50]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:08:52]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:09:00]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:09:00]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:09:03]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:04]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:10]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:12]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:09:13]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> seizes up and falls limp, her eyes dead and lifeless...
+[18:09:14]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:09:15]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:15]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:15]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:15]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:15]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:15]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:38]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:38]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:38]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:38]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:38]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Mariabella Benford!
+[18:09:42]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:09:44]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:09:44]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:09:44]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:09:54]ADMIN: Wjcowart/(Mariabella Benford) has alienized Wjcowart.
+[18:09:54]ADMIN: Wjcowart/(Mariabella Benford) made Wjcowart/(Mariabella Benford) into an alien.
+[18:09:55]ACCESS: Logout: *no key*/(Mariabella Benford)
+[18:09:55]ACCESS: Login: Wjcowart/(alien sentinel (665)) from 127.0.0.1-1984611505 || BYOND v508
+[18:09:57]EMOTE: eyeball/ : <B>The eyeball</B> nashes at the alien sentinel (665)!
+[18:10:10]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:10:10]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:10:12]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:10:14]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:10:17]ADMIN: Wjcowart/(alien sentinel (665)) healed / Revived Wjcowart/(alien sentinel (665))
+[18:10:18]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:10:18]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:10:26]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:10:42]EMOTE: eyeball/ : <B>The eyeball</B> nashes at Matthew Rhinehart!
+[18:11:08]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:12:01]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:12:02]ADMIN: Cairo283/(Matthew Rhinehart) has used rudimentary transformation on Cairo283/(Matthew Rhinehart). Transforming to drone; deletemob=1
+[18:12:02]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[18:12:02]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[18:12:21]ADMIN: Wjcowart/(alien sentinel (665)) has used rudimentary transformation on Wjcowart/(alien sentinel (665)). Transforming to coffee; deletemob=1
+[18:12:21]ACCESS: Logout: *no key*/(alien sentinel (665))
+[18:12:21]ACCESS: Login: Wjcowart/(alien sentinel (665)) from 127.0.0.1-1984611505 || BYOND v508
+[18:12:44]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Wjcowart/(alien sentinel (665))
+[18:12:55]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Wjcowart/(alien sentinel (665))
+[18:12:57]ADMIN: Wjcowart/(alien sentinel (665)) has used rudimentary transformation on Wjcowart/(alien sentinel (665)). Transforming to constructarmored; deletemob=1
+[18:12:57]ACCESS: Logout: *no key*/(alien sentinel (665))
+[18:12:57]ACCESS: Login: Wjcowart/(alien sentinel (665)) from 127.0.0.1-1984611505 || BYOND v508
+[18:13:13]ADMIN: SubtlePM: Wjcowart/(alien sentinel (665)) -> Cairo283/(Matthew Rhinehart) : ass
+[18:13:42]ADMIN: Cairo283/(Matthew Rhinehart) spawned /mob/living/simple_animal/hostile/tree at (25,72,4)
+[18:13:44]EMOTE: pine tree/ : <B>The pine tree</B> growls at the alien sentinel (665).
+[18:13:50]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[18:13:54]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[18:13:57]EMOTE: pine tree/ : <B>The pine tree</B> growls at the alien sentinel (665).
+[18:14:01]EMOTE: pine tree/ : <B>The pine tree</B> growls at the alien sentinel (665).
+[18:14:03]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[18:14:15]ADMIN: Cairo283/(Matthew Rhinehart) has entered build mode.
+[18:14:17]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (25,72,4)
+[18:14:18]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) deleted the floor at (25,72,4)
+[18:14:19]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (25,72,4)
+[18:14:19]ADMIN: Wjcowart/(alien sentinel (665)) has used rudimentary transformation on Wjcowart/(alien sentinel (665)). Transforming to monkey; deletemob=1
+[18:14:19]ACCESS: Logout: *no key*/(alien sentinel (665))
+[18:14:19]ACCESS: Login: Wjcowart/(alien sentinel (665)) from 127.0.0.1-1984611505 || BYOND v508
+[18:14:20]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (26,71,4)
+[18:14:21]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (26,72,4)
+[18:14:22]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (27,71,4)
+[18:14:23]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (27,72,4)
+[18:14:25]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (25,71,4)
+[18:14:26]ADMIN: Wjcowart/(alien sentinel (665)) attempting to humanize Wjcowart/(alien sentinel (665))
+[18:14:30]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) deleted the floor at (27,72,4)
+[18:14:31]ACCESS: Logout: *no key*/(alien sentinel (665))
+[18:14:31]ACCESS: Login: Wjcowart/(alien sentinel (665)) from 127.0.0.1-1984611505 || BYOND v508
+[18:14:32]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (27,72,4)
+[18:14:37]ADMIN: Cairo283/(Matthew Rhinehart) has left build mode.
+[18:14:51]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Wjcowart/(alien sentinel (665)) to death commando.
+[18:15:01]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Wjcowart/(alien sentinel (665)) to syndie space operative melee.
+[18:15:12]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:15:25]ADMIN: Wjcowart(wjcowart) smote Matthew Rhinehart (cairo283) in gib for 1000 damage.
+[18:15:29]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[18:15:29]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[18:15:56]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of *no key*/(Teagan Newbern) to syndie space operative ranged.
+[18:16:11]ADMIN: Cairo283/(Matthew Rhinehart) assumed direct control of Unknown.
+[18:16:11]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[18:16:11]ACCESS: Login: cairo283/(Teagan Newbern) from 96.50.107.66-2795721299 || BYOND v508
+[18:16:13]ADMIN: Wjcowart/(alien sentinel (665)) assumed direct control of Payton Logue.
+[18:16:13]ACCESS: Logout: *no key*/(alien sentinel (665))
+[18:16:13]ACCESS: Login: wjcowart/(Payton Logue) from 127.0.0.1-1984611505 || BYOND v508
+[18:16:42]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:16:49]ADMIN: cairo283/(Teagan Newbern) teleported wjcowart/(Admin)
+[18:17:03]ADMIN: wjcowart/(Admin) used secret virus
+[18:17:33]GAME: wjcowart/(Admin) summoned guns!
+[18:17:33]ADMIN: wjcowart/(Admin) used secret guns
+[18:17:35]GAME: wjcowart/(Admin) summoned guns!
+[18:17:35]ADMIN: wjcowart/(Admin) used secret guns
+[18:17:35]GAME: wjcowart/(Admin) summoned guns!
+[18:17:35]ADMIN: wjcowart/(Admin) used secret guns
+[18:17:35]GAME: wjcowart/(Admin) summoned guns!
+[18:17:35]ADMIN: wjcowart/(Admin) used secret guns
+[18:17:37]ADMIN: cairo283/(Teagan Newbern) deleted Mineral deposit at (72,41,4)
+[18:17:41]ADMIN: cairo283/(Teagan Newbern) deleted Mineral deposit at (72,40,4)
+[18:17:47]ADMIN: cairo283/(Teagan Newbern) deleted Mineral deposit at (71,40,4)
+[18:17:47]EMOTE: Julia Hanford/ : <B>Julia Hanford</B> coughs!
+[18:17:52]ADMIN: cairo283/(Teagan Newbern) deleted Mineral deposit at (71,39,4)
+[18:17:56]EMOTE: Julia Hanford/ : <B>Julia Hanford</B> coughs!
+[18:17:56]ADMIN: cairo283/(Teagan Newbern) deleted Mineral deposit at (70,39,4)
+[18:18:02]EMOTE: Meat pizza/ : <B>Meat pizza</B> looks at Unknown!
+[18:18:06]EMOTE: Meat pizza/ : <B>Meat pizza</B> looks at Unknown!
+[18:18:29]ADMIN: cairo283/(Teagan Newbern) healed / Revived cairo283/(Teagan Newbern)
+[18:18:34]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[18:18:48]GAME: cairo283/(Teagan Newbern) has primed a cleaner grenade casing for detonation at Clown Planet (78,54,4).
+[18:18:56]ADMIN: cairo283/(Teagan Newbern) healed / Revived cairo283/(Teagan Newbern)
+[18:19:05]GAME: cairo283/(Teagan Newbern) has primed a cleaner grenade casing for detonation at Clown Planet (75,58,4).
+[18:19:09]GAME: wjcowart/(Admin) summoned magic!
+[18:19:09]ADMIN: wjcowart/(Admin) used secret magic
+[18:19:09]GAME: wjcowart/(Admin) summoned magic!
+[18:19:09]ADMIN: wjcowart/(Admin) used secret magic
+[18:19:45]WHISPER: Admin/wjcowart : STI`KALY
+[18:19:45]WHISPER: Admin/wjcowart : STI`KALY
+[18:19:55]WHISPER: Unknown/cairo283 : STI`KALY
+[18:19:55]WHISPER: Unknown/cairo283 : STI`KALY
+[18:20:08]ADMIN: cairo283/(Teagan Newbern) healed / Revived cairo283/(Teagan Newbern)
+[18:20:16]ADMIN: wjcowart/(Admin) healed / Revived wjcowart/(Admin)
+[18:21:03]EMOTE: Jermaine Mills/ : <B>Jermaine Mills</B> sneezes.
+[18:21:16]GAME: wjcowart/(Admin) summoned magic!
+[18:21:16]ADMIN: wjcowart/(Admin) used secret magic
+[18:21:51]ADMIN: wjcowart/(Admin) used there can be only one.
+[18:21:51]ADMIN: wjcowart/(Admin) used secret onlyone
+[18:22:08]GAME: Summon Events was enabled!
+[18:22:08]ADMIN: wjcowart/(Admin) used secret events
+[18:22:48]ADMIN: cairo283/(Teagan Newbern) jumped to 1,1,1 in Space
+[18:22:57]ADMIN: cairo283/(Teagan Newbern) teleported wjcowart/(Admin)
+[18:23:07]ADMIN: cairo283/(Teagan Newbern) healed / Revived cairo283/(Teagan Newbern)
+[18:23:13]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:23:30]EMOTE: alien sentinel (829)/ : <B>The alien sentinel (829)</B> gasps!
+[18:23:38]EMOTE: alien sentinel (829)/ : <B>The alien sentinel (829)</B> gasps!
+[18:23:42]ADMIN: cairo283/(Teagan Newbern) has used rudimentary transformation on cairo283/(Teagan Newbern). Transforming to crab; deletemob=1
+[18:23:42]ACCESS: Logout: *no key*/(Teagan Newbern)
+[18:23:42]ACCESS: Login: cairo283/(Teagan Newbern) from 96.50.107.66-2795721299 || BYOND v508
+[18:23:46]EMOTE: alien sentinel (829)/ : <B>The alien sentinel (829)</B> gasps!
+[18:24:03]EMOTE: alien sentinel (829)/ : <B>The alien sentinel (829)</B> gasps!
+[18:24:03]EMOTE: alien queen/ : <B>The alien queen</B> gasps!
+[18:24:03]EMOTE: Admin/wjcowart : <B>Admin</B> coughs!
+[18:24:09]EMOTE: Melvyn Rosensteel/ : <B>Melvyn Rosensteel</B> whimpers.
+[18:24:09]EMOTE: Jermaine Mills/ : <B>Jermaine Mills</B> groans in pain!
+[18:24:11]EMOTE: alien queen/ : <B>The alien queen</B> gasps!
+[18:24:12]EMOTE: Jermaine Mills/ : <B>Jermaine Mills</B> moans!
+[18:24:14]EMOTE: Melvyn Rosensteel/ : <B>Melvyn Rosensteel</B> gasps!
+[18:24:16]EMOTE: Jermaine Mills/ : <B>Jermaine Mills</B> whimpers.
+[18:24:16]ACCESS: Logout: wjcowart[DC]/(Admin)
+[18:24:18]EMOTE: Keegan Moon/ : <B>Keegan Moon</B> gasps!
+[18:24:18]ACCESS: Logout: cairo283[DC]/(Teagan Newbern)
