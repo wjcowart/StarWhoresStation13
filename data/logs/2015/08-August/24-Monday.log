@@ -1,0 +1,38 @@
+
+
+Starting up. 09:59.17
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[09:59:17]ADMIN: Loading Banlistjob
+[09:59:17]ADMIN: Loading jobban_rank
+[09:59:17]ADMIN: jobban_keylist was empty
+[09:59:17]ADMIN: Loading appearance_rank
+[09:59:17]ADMIN: appearance_keylist was empty
+[09:59:17]ADMIN: Updating jobbanfile!
+[09:59:17]ADMIN: Loading Banlist
+[09:59:29]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[09:59:56]ADMIN: Wjcowart has started the game.
+[09:59:57]ACCESS: Logout: *no key*/(Wjcowart)
+[09:59:57]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[10:02:39]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:05:20]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
