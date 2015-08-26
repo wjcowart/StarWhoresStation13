@@ -29,7 +29,7 @@ OOC_DURING_ROUND
 
 ### EMOJI ###
 #Comment this out if you want to disable emojis
-EMOJIS
+##EMOJIS
 
 ### MOB MOVEMENT ###
 
@@ -113,29 +113,29 @@ PROBABILITY SANDBOX 0
 #CONTINUOUS_ROUND_MALF
 
 ## The amount of time it takes for the emergency shuttle to be called, from round start.
-SHUTTLE_REFUEL_DELAY 18000
+SHUTTLE_REFUEL_DELAY 9000
 
 ## Variables calculate how number of antagonists will scale to population.
 ## Used as (Antagonists = Population / Coeff)
 ## Set to 0 to disable scaling and use default numbers instead.
-TRAITOR_SCALING_COEFF 8
-CHANGELING_SCALING_COEFF 13 
+TRAITOR_SCALING_COEFF 6
+CHANGELING_SCALING_COEFF 12 
 
 ## Variables calculate how number of open security officer positions will scale to population.
 ## Used as (Officers = Population / Coeff)
 ## Set to 0 to disable scaling and use default numbers instead.
-SECURITY_SCALING_COEFF 8
+SECURITY_SCALING_COEFF 6
 
 # The number of objectives traitors get.
 # Not including escaping/hijacking.
-TRAITOR_OBJECTIVES_AMOUNT 3
+TRAITOR_OBJECTIVES_AMOUNT 4
 
 ## Uncomment to prohibit jobs that start with loyalty
 ## implants from being most antagonists.
-PROTECT_ROLES_FROM_ANTAGONIST
+## PROTECT_ROLES_FROM_ANTAGONIST
 
 ## If non-human species are barred from joining as a head/security
-ENFORCE_HUMAN_AUTHORITY
+## ENFORCE_HUMAN_AUTHORITY
 
 ## If late-joining players have a chance to become a traitor/changeling
 ALLOW_LATEJOIN_ANTAGONISTS
