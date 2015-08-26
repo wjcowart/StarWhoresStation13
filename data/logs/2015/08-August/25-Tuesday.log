@@ -120,3 +120,241 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [09:29:44]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
 [09:31:18]EMOTE: monkey (422)/ : <B>The monkey (422)</B> jumps!
 [09:31:57]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+
+
+Starting up. 16:55.24
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[16:55:24]ADMIN: Loading Banlistjob
+[16:55:24]ADMIN: Loading jobban_rank
+[16:55:24]ADMIN: jobban_keylist was empty
+[16:55:24]ADMIN: Loading appearance_rank
+[16:55:24]ADMIN: appearance_keylist was empty
+[16:55:24]ADMIN: Updating jobbanfile!
+[16:55:24]ADMIN: Loading Banlist
+[16:55:44]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-1276243634 || BYOND v508
+[16:56:25]ACCESS: Login: Wjcowart/(Wjcowart) from 99.195.226.133-1984611505 || BYOND v508
+[16:56:45]ADMIN: Cairo283 has started the game.
+[16:56:46]ACCESS: Logout: *no key*/(Cairo283)
+[16:56:46]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-1276243634 || BYOND v508
+[16:56:47]ACCESS: Logout: *no key*/(Wjcowart)
+[16:56:47]ACCESS: Login: Wjcowart/(Mariabella Benford) from 99.195.226.133-1984611505 || BYOND v508
+[16:56:56]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the chief engineer's rubber stamp.
+[16:56:57]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Wjcowart/(Mariabella Benford)
+[16:57:42]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[16:58:15]SAY: space bear/ : Rawr!
+[16:59:03]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[16:59:11]GAME: Cairo283/(Matthew Rhinehart) fired a grenade (teargas grenade casing) from a grenade launcher (grenade launcher).
+[16:59:13]GAME: A chemical smoke reaction has taken place in (Brig | 101, 166)[ Condensed Capsaicin ]. Last associated key is cairo283.
+[16:59:43]SAY: Hudson/ : RAWR!
+[16:59:43]SAY: mouse/ : SQUEEK!
+[16:59:48]ACCESS: Login: TheZackHack/(TheZackHack) from 68.186.54.31-1534416386 || BYOND v506
+[17:00:02]GAME: Cairo283/(Matthew Rhinehart) fired a grenade (teargas grenade casing) from a grenade launcher (grenade launcher).
+[17:00:04]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[17:00:04]GAME: A chemical smoke reaction has taken place in (Medbay | 89, 141)[ Condensed Capsaicin ]. Last associated key is cairo283.
+[17:00:07]GAME: Cairo283/(Matthew Rhinehart) fired a grenade (teargas grenade casing) from a grenade launcher (grenade launcher).
+[17:00:09]GAME: A chemical smoke reaction has taken place in (Medbay | 93, 143)[ Condensed Capsaicin ]. Last associated key is cairo283.
+[17:00:13]EMOTE: space bear/ : <B>The space bear</B> stomps
+[17:00:40]EMOTE: space bear/ : <B>The space bear</B> stomps
+[17:00:43]SAY: space bear/ : GRR!
+[17:01:02]SAY: space bear/ : Growl!
+[17:01:05]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[17:01:14]SAY: space bear/ : Growl!
+[17:01:18]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:01:29]EMOTE: space bear/ : <B>The space bear</B> stomps
+[17:01:44]EMOTE: Ian/ : <B>Ian</B> shivers.
+[17:02:07]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:02:11]ADMIN: Cairo283/(Matthew Rhinehart) deleted the girder at (189,178,1)
+[17:02:11]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:02:17]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:02:19]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:02:19]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:23]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:24]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Mariabella Benford
+[17:02:25]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:25]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:26]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:02:32]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:02:38]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[17:02:38]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Mariabella Benford
+[17:02:40]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:40]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:40]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:40]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:49]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> moans!
+[17:02:53]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:02:53]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[17:02:53]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:02:53]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:02:53]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:02:53]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Matthew Rhinehart
+[17:02:57]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:03:03]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[17:03:05]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:05]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:05]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:14]ADMIN: Cairo283/(Matthew Rhinehart) has toggled Cairo283/(Matthew Rhinehart)'s nodamage to On
+[17:03:15]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:20]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:03:20]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:03:20]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:03:20]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Matthew Rhinehart
+[17:03:25]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[17:03:27]EMOTE: space bear/ : <B>The space bear</B> stomps
+[17:03:41]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:41]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Mariabella Benford
+[17:03:43]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:43]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:45]ACCESS: Logout: *no key*/(TheZackHack)
+[17:03:45]ACCESS: Login: TheZackHack/(Tyler Calavon) from 68.186.54.31-1534416386 || BYOND v506
+[17:03:45]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[17:03:46]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:03:54]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[17:03:59]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:04:00]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[17:04:01]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Mariabella Benford
+[17:04:01]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:04:03]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:04:11]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:04:13]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[17:04:17]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[17:04:20]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:04:26]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:04:26]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:04:30]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:04:30]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Matthew Rhinehart
+[17:04:50]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[17:05:00]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:05:02]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:05:04]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:05:04]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Matthew Rhinehart
+[17:06:08]EMOTE: space bear/ : <B>The space bear</B> grawls
+[17:06:27]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:06:27]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Matthew Rhinehart
+[17:06:28]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:06:29]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:06:33]EMOTE: Poly/ : <B>Poly</B> squawks.
+[17:06:51]EMOTE: Hudson/ : <B>Hudson</B> rawrs
+[17:07:15]SAY: Mariabella Benford/Wjcowart : WHAT HTE FUCK
+[17:07:17]SAY: Mariabella Benford/Wjcowart : WHO IS YOU
+[17:07:26]SAY: Tyler Calavon/TheZackHack : Come again?
+[17:07:26]SAY: Matthew Rhinehart/Cairo283 : God damn, someone joined this shit?
+[17:07:33]SAY: Matthew Rhinehart/Cairo283 : Congrats
+[17:07:34]SAY: Mariabella Benford/Wjcowart : Who the fuck is you
+[17:07:41]SAY: Matthew Rhinehart/Cairo283 : You are the frist non-dev on this server
+[17:07:49]SAY: Tyler Calavon/TheZackHack : Is that a good or a bad thing?
+[17:07:53]SAY: Matthew Rhinehart/Cairo283 : I dunno
+[17:08:02]SAY: Mariabella Benford/Wjcowart : Gold star
+[17:08:02]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[17:08:08]SAY: space bear/ : Growl!
+[17:08:18]SAY: Tyler Calavon/TheZackHack : Is this a custom map?
+[17:08:23]SAY: Matthew Rhinehart/Cairo283 : Yeah
+[17:08:23]SAY: Tyler Calavon/TheZackHack : I haven&#39;t seen it before.
+[17:08:46]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[17:08:46]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[17:08:52]SAY: Tyler Calavon/TheZackHack : How big is it?
+[17:08:59]SAY: Hudson/ : Growl!
+[17:09:00]SAY: Mariabella Benford/Wjcowart : Welcome to the unofficial dev team
+[17:09:05]SAY: Mariabella Benford/Wjcowart : Look around
+[17:09:11]SAY: Mariabella Benford/Wjcowart : No access on the doors yet
+[17:09:39]EMOTE: Ian/ : <B>Ian</B> yaps.
+[17:09:55]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:09:55]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:09:56]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:09:56]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Matthew Rhinehart
+[17:09:57]ADMIN: Wjcowart/(Mariabella Benford) is viewing TheZackHack/(Tyler Calavon)'s unlocked snowflakes
+[17:09:59]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:10:02]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Matthew Rhinehart
+[17:10:12]SAY: Tyler Calavon/TheZackHack : <i>So custom sounds then too?</i>
+[17:10:15]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:10:24]ACCESS: Logout: *no key*/(Mariabella Benford)
+[17:10:24]ACCESS: Login: Wjcowart/(Mariabella Benford) from 99.195.226.133-1984611505 || BYOND v508
+[17:10:50]EMOTE: monkey (114)/ : <B>The monkey (114)</B> jumps!
+[17:10:58]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[17:11:05]ADMIN: Wjcowart/(Mariabella Benford) jumped to @Wjcowart[DC]/(Mariabella Benford)
+[17:11:28]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[17:11:47]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[17:11:57]ADMIN: Wjcowart/(Mariabella Benford) deleted Head of Personnel Office at (119,178,1)
+[17:11:59]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[17:12:37]ACCESS: Logout: *no key*/(Mariabella Benford)
+[17:12:37]ACCESS: Login: Wjcowart/(Mariabella Benford) from 99.195.226.133-1984611505 || BYOND v508
+[17:12:43]SAY: Mariabella Benford/Wjcowart : Ayy
+[17:12:54]SAY: Tyler Calavon/TheZackHack : Can I get an all access id? Some of the rooms are still locked
+[17:13:08]SAY: Tyler Calavon/TheZackHack : From what I&#39;ve seen, it looks pretty good.
+[17:13:15]SAY: Mariabella Benford/Wjcowart : Thanks
+[17:13:29]SAY: Mariabella Benford/Wjcowart : Any suggestions, just admin help them
+[17:13:34]SAY: Tyler Calavon/TheZackHack : So are you the only one that&#39;s worked on it, or is there more like a team?
+[17:13:40]SAY: Mariabella Benford/Wjcowart : Me and that other guy
+[17:13:44]SAY: Tyler Calavon/TheZackHack : I guess it&#39;s centered around starwars then?
+[17:13:46]ADMIN: Cairo283/(Matthew Rhinehart) made all SMESs powered
+[17:13:46]ADMIN: Cairo283/(Matthew Rhinehart) used secret quickpower
+[17:13:46]SAY: Tyler Calavon/TheZackHack : And cool
+[17:13:50]SAY: Mariabella Benford/Wjcowart : Ish
+[17:13:55]ADMIN: Cairo283/(Matthew Rhinehart) used secret whiteout
+[17:13:57]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[17:14:01]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : How about inspired by then?
+[17:14:03]SAY: Mariabella Benford/Wjcowart : Originally it was, but it&#39;s sort of developed into this
+[17:14:16]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : How long have you guys been working on it?
+[17:14:20]SAY: Mariabella Benford/Wjcowart : Generic ice planet
+[17:14:26]SAY: Mariabella Benford/Wjcowart : &#39;bout a week
+[17:14:31]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Nice
+[17:14:32]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[17:14:32]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-1276243634 || BYOND v508
+[17:14:32]SAY: mouse/ : SQUEEK!
+[17:14:45]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : What build is it based off of?
+[17:14:51]SAY: Mariabella Benford/Wjcowart : Hippie code
+[17:15:31]ADMIN: Cairo283/(Matthew Rhinehart) deleted the grenade launcher at (95,142,1)
+[17:15:38]SAY: space bear/ : RAWR!
+[17:15:40]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Does hippie have pods?
+[17:15:50]SAY: Mariabella Benford/Wjcowart : Yeah
+[17:16:11]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Oh, cool
+[17:16:28]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : I haven&#39;t actually been on a server that had pods, I&#39;ll have to try it out sometime
+[17:16:45]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Do you plan on making it a full blown server?
+[17:16:54]SAY: Mariabella Benford/Wjcowart : Eventually yeah
+[17:17:08]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : It seems kind of slow right now though, is that intentional or just performance issues?
+[17:17:18]SAY: Mariabella Benford/Wjcowart : Being hosted on a toaster
+[17:17:29]SAY: Mariabella Benford/Wjcowart : Renting a server soon
+[17:17:46]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Alright, cool
+[17:18:05]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Could I get a copy of the build?
+[17:18:13]EMOTE: Ian/ : <B>Ian</B> shivers.
+[17:18:26]SAY: Mariabella Benford/Wjcowart : If you can find it
+[17:18:38]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Do you have it on github?
+[17:18:40]SAY: Mariabella Benford/Wjcowart : It&#39;s on github
+[17:18:53]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Do you have a link?
+[17:19:01]ADMIN: PM: Cairo283/(Matthew Rhinehart)->TheZackHack/(Tyler Calavon): https://github.com/wjcowart/StarWhoresStation13
+[17:19:10]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : Alright, thanks
+[17:19:24]SAY: Tyler Calavon (as Mariabella Benford)/TheZackHack : I&#39;ll have to check it out on my own sometime.
+[17:20:07]SAY: mouse/ : Squeek?
+[17:21:03]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:21:14]ACCESS: Logout: *no key*/(Mariabella Benford)
+[17:21:14]ACCESS: Login: Wjcowart/(Mariabella Benford) from 99.195.226.133-1984611505 || BYOND v508
+[17:21:54]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[17:22:34]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:22:40]ACCESS: Logout: TheZackHack[DC]/(Tyler Calavon)
+[17:23:05]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[17:23:45]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:24:08]EMOTE: Ian/ : <B>Ian</B> woofs!
+[17:24:14]ACCESS: Logout: *no key*/(Mariabella Benford)
+[17:24:14]ACCESS: Login: Wjcowart/(Mariabella Benford) from 99.195.226.133-1984611505 || BYOND v508
+[17:24:21]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+[17:24:27]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
