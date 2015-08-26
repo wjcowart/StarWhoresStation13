@@ -1,0 +1,827 @@
+
+
+Starting up. 10:14.39
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[10:14:40]ADMIN: Loading Banlistjob
+[10:14:40]ADMIN: Loading jobban_rank
+[10:14:40]ADMIN: jobban_keylist was empty
+[10:14:40]ADMIN: Loading appearance_rank
+[10:14:40]ADMIN: appearance_keylist was empty
+[10:14:40]ADMIN: Updating jobbanfile!
+[10:14:40]ADMIN: Loading Banlist
+[10:14:56]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[10:15:14]ADMIN: Wjcowart has started the game.
+[10:15:14]ACCESS: Logout: *no key*/(Wjcowart)
+[10:15:14]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[10:15:15]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:15:19]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:15:23]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the chief engineer's rubber stamp.
+[10:15:23]SAY: space bear/ : Rawr!
+[10:15:27]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[10:15:48]SAY: grey baby slime (121)/ : Rawr...
+[10:15:56]ADMIN: Wjcowart/(Mariabella Benford) modified Cell 6's pixel_y to 32
+[10:15:59]SAY: space bear/ : RAWR!
+[10:16:05]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[10:16:24]SAY: Hudson/ : Rawr!
+[10:16:32]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:17:00]SAY: mouse/ : SQUEEK!
+[10:17:04]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:17:10]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[10:17:27]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:17:48]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:18:09]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:18:55]SAY: space bear/ : Rawr!
+[10:19:12]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:19:23]SAY: Poly/ : Wire the solars, you lazy bums!
+[10:19:38]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:19:48]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[10:20:07]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[10:20:18]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:20:39]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:21:21]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[10:21:25]SAY: grey baby slime (542)/ : Brother...
+[10:22:34]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+[10:23:18]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:23:24]SAY: space bear/ : GRR!
+[10:23:41]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:23:51]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[10:23:52]SAY: space bear/ : Growl!
+[10:24:21]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[10:24:44]SAY: space bear/ : RAWR!
+[10:24:59]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:25:03]SAY: space bear/ : Rawr!
+[10:25:05]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:25:20]SAY: Ian/ : YAP!
+[10:25:22]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[10:25:30]EMOTE: Hudson/ : <B>Hudson</B> stomps
+[10:26:17]SAY: space bear/ : Rawr!
+[10:26:31]SAY: space bear/ : Growl!
+[10:26:46]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:26:59]ADMIN: Wjcowart/(Mariabella Benford) deleted the remote door-control at (122,111,1)
+[10:27:13]SAY: space bear/ : RAWR!
+[10:27:28]SAY: space bear/ : Rawr!
+[10:27:36]SAY: mouse/ : Squeek?
+[10:28:04]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:28:25]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:28:46]SAY: space bear/ : GRR!
+[10:29:24]ACCESS: Login: Jathl156/(Jathl156) from 186.86.103.11-3615202195 || BYOND v508
+[10:29:34]SAY: space bear/ : RAWR!
+[10:29:38]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:29:59]SAY: space bear/ : Rawr!
+[10:30:01]SAY: space bear/ : GRR!
+[10:30:14]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[10:31:53]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:31:59]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[10:32:12]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:32:51]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[10:33:14]SAY: space bear/ : GRR!
+[10:33:37]EMOTE: Ian/ : <B>Ian</B> pants.
+[10:33:41]SAY: Ian/ : Bark!
+[10:34:11]SAY: space bear/ : Growl!
+[10:34:11]SAY: mouse/ : Squeek?
+[10:34:36]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:34:38]SAY: space bear/ : Rawr!
+[10:34:49]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[10:35:33]SAY: Poly/ : Wire the solars, you lazy bums!
+[10:35:43]SAY: space bear/ : Growl!
+[10:35:45]SAY: space bear/ : RAWR!
+[10:35:49]SAY: Hudson/ : Rawr!
+[10:36:36]SAY: Ian/ : YAP!
+[10:36:40]SAY: space bear/ : Rawr!
+[10:36:44]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:37:16]SAY: mouse/ : SQUEEK!
+[10:37:37]SAY: space bear/ : Growl!
+[10:37:45]SAY: grey baby slime (753)/ : Lonely...
+[10:37:53]ACCESS: Logout: *no key*/(Jathl156)
+[10:37:53]ACCESS: Login: Jathl156/(Duke Larson) from 186.86.103.11-3615202195 || BYOND v508
+[10:37:58]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[10:38:02]SAY: grey baby slime (121)/ : Rawr...
+[10:38:12]SAY: space bear/ : GRR!
+[10:38:35]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[10:38:40]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:38:44]SAY: mouse/ : Squeek?
+[10:39:22]SAY: space bear/ : RAWR!
+[10:39:39]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:39:58]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[10:40:06]ACCESS: Logout: Jathl156[DC]/(Duke Larson)
+[10:40:06]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:40:14]SAY: Hudson/ : Rawr!
+[10:40:19]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:41:05]ACCESS: Login: Jathl156/(Duke Larson) from 186.86.103.11-3615202195 || BYOND v508
+[10:41:15]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[10:41:38]SAY: Duke Larson/Jathl156 : Hello . .
+[10:41:45]EMOTE: Ian/ : <B>Ian</B> pants.
+[10:41:52]SAY: Mariabella Benford/Wjcowart : Oh shit
+[10:41:53]SAY: Mariabella Benford/Wjcowart : HEY
+[10:42:12]ADMIN: Wjcowart/(Mariabella Benford) jumped to Jathl156/(Duke Larson)
+[10:42:14]SAY: Mariabella Benford/Wjcowart : Yo
+[10:42:24]SAY: Mariabella Benford/Wjcowart : Welcome to the unofficial dev team
+[10:42:30]SAY: Duke Larson/Jathl156 : Thanks . .
+[10:42:48]SAY: Mariabella Benford/Wjcowart : Feel free to check out the station
+[10:43:36]SAY: Mariabella Benford/Wjcowart : Admin PM any thoughts or suggustions
+[10:43:40]SAY: Duke Larson/Jathl156 : Unmm...
+[10:43:51]OOC: Duke Larson/Jathl156 : Good Station . .
+[10:44:07]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[10:44:33]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/card/id/captains_spare
+[10:44:34]ADMIN: HELP: Jathl156/(Duke Larson): Event ? - heard by 1 non-AFK admins who have +BAN.
+[10:44:36]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/card/id/captains_spare
+[10:44:36]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/card/id/captains_spare
+[10:44:45]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:44:54]SAY: space bear/ : RAWR!
+[10:45:09]ADMIN: PM: Wjcowart/(Mariabella Benford)->Jathl156/(Duke Larson): come again?
+[10:45:36]SAY: Mariabella Benford (as Captain)/Wjcowart : Like
+[10:45:40]SAY: Mariabella Benford (as Captain)/Wjcowart : Do you want an event?
+[10:45:47]SAY: Mariabella Benford (as Captain)/Wjcowart : Or are you asking if we HAVE events
+[10:45:55]ACCESS: Login: HiroTheWolf/(HiroTheWolf) from 99.160.1.184-111983411 || BYOND v508
+[10:46:03]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:46:15]SAY: Duke Larson/Jathl156 : Watch a movie where the monster comes changeling north snow
+[10:46:20]SAY: Duke Larson/Jathl156 : The changeling
+[10:46:24]SAY: mouse/ : Squeek!
+[10:46:26]SAY: space bear/ : Rawr!
+[10:46:48]SAY: Mariabella Benford (as Captain)/Wjcowart : Yeah, eventually the antags and events are going to be snow themed, but as of right now they are not
+[10:46:52]SAY: Duke Larson/Jathl156 : The film is the thing..
+[10:48:01]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:48:26]EMOTE: Ian/ : <B>Ian</B> woofs!
+[10:48:30]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:48:42]SAY: Mariabella Benford (as Captain)/Wjcowart : Anyway, we plan to have the server in a live beta test in about a week
+[10:49:02]SAY: Mariabella Benford (as Captain)/Wjcowart : So, tell your friends
+[10:49:08]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:49:46]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[10:49:52]ACCESS: Logout: *no key*/(HiroTheWolf)
+[10:49:52]ACCESS: Login: HiroTheWolf/(Leon Mathis) from 99.160.1.184-111983411 || BYOND v508
+[10:50:23]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:50:32]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:50:46]SAY: space bear/ : Rawr!
+[10:50:53]SAY: mouse/ : Squeek?
+[10:51:21]SAY: Duke Larson/Jathl156 : Hello
+[10:51:24]SAY: Leon Mathis/HiroTheWolf : Hm?
+[10:51:56]ADMIN: Wjcowart/(Mariabella Benford) made all SMESs powered
+[10:51:56]ADMIN: Wjcowart/(Mariabella Benford) used secret quickpower
+[10:51:57]ADMIN: Wjcowart/(Mariabella Benford) made all areas powered
+[10:52:00]ADMIN: Wjcowart/(Mariabella Benford) used secret power
+[10:52:02]SAY: Leon Mathis/HiroTheWolf : Where are we going?
+[10:52:05]SAY: space bear/ : GRR!
+[10:52:14]SAY: Duke Larson/Jathl156 : Free
+[10:52:15]SAY: Leon Mathis/HiroTheWolf : Hm?
+[10:52:25]SAY: Leon Mathis/HiroTheWolf : ...uhh
+[10:52:32]SAY: Leon Mathis/HiroTheWolf : What am I supposed to do with this?
+[10:52:44]SAY: Leon Mathis/HiroTheWolf : ....
+[10:52:46]SAY: Mariabella Benford (as Captain)/Wjcowart : The spare ID is for exploring
+[10:52:49]SAY: Mariabella Benford (as Captain)/Wjcowart : Welcome to the dev team
+[10:52:50]SAY: Leon Mathis/HiroTheWolf : Ah
+[10:52:57]SAY: Leon Mathis/HiroTheWolf : Pok
+[10:53:00]SAY: Leon Mathis/HiroTheWolf : Ok
+[10:53:41]SAY: Ian/ : Woof!
+[10:54:02]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[10:54:07]SAY: mouse/ : SQUEEK!
+[10:54:18]SAY: Duke Larson/Jathl156 : My new job is
+[10:54:25]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[10:54:51]SAY: grey baby slime (542)/ : Rawr...
+[10:55:16]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[10:55:27]EMOTE: Poly/ : <B>Poly</B> bawks!
+[10:55:29]SAY: grey baby slime (542)/ : Brother...
+[10:55:53]SAY: Duke Larson/Jathl156 : Thanks for the id
+[10:55:58]SAY: Mariabella Benford (as Captain)/Wjcowart : You get to see a secret
+[10:56:04]SAY: Mariabella Benford (as Captain)/Wjcowart : Since you&#39;re sorta special
+[10:56:11]SAY: Mariabella Benford (as Captain)/Wjcowart : Come along
+[10:56:15]EMOTE: Poly/ : <B>Poly</B> squawks.
+[10:56:28]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:56:38]SAY: grey baby slime (542)/ : Brother...
+[10:56:38]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[10:56:40]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[10:56:52]SAY: Duke Larson/Jathl156 : Ambrosia Yes!!
+[10:56:53]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[10:56:55]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:56:56]SAY: Mariabella Benford (as Captain)/Wjcowart : Don&#39; tell nobody
+[10:57:07]SAY: Mariabella Benford (as Captain)/Wjcowart : I&#39;d like it to stay secret for as long as possible
+[10:57:08]SAY: space bear/ : Rawr!
+[10:58:02]SAY: space bear/ : RAWR!
+[10:58:19]ADMIN: Wjcowart/(Mariabella Benford) deleted the space vines at (123,142,1)
+[10:59:12]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:00:12]SAY: space bear/ : GRR!
+[11:00:21]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[11:00:33]SAY: grey baby slime (121)/ : Lonely...
+[11:00:40]SAY: space bear/ : GRR!
+[11:00:59]EMOTE: Hudson/ : <B>Hudson</B> stomps
+[11:01:39]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:01:43]EMOTE: Duke Larson/Jathl156 : <B>Duke Larson</B> drools.
+[11:01:57]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:02:21]SAY: Ian/ : AUUUUUU!
+[11:02:29]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:02:53]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[11:03:05]SAY: Leon Mathis/HiroTheWolf : 0What&#39;s going on
+[11:03:13]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[11:03:19]SAY: grey baby slime (753)/ : Brother...
+[11:03:24]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[11:03:34]SAY: Leon Mathis/HiroTheWolf : I have a plan
+[11:03:36]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:03:37]SAY: Leon Mathis/HiroTheWolf : Move sir
+[11:03:49]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[11:04:07]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:04:07]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[11:04:08]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[11:04:34]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[11:04:41]SAY: Ian/ : AUUUUUU!
+[11:04:56]SAY: grey baby slime (753)/ : I want to eat...
+[11:04:56]SAY: Ian/ : YAP!
+[11:04:58]SAY: Poly/ : Wire the solars, you lazy bums!
+[11:05:08]SAY: grey baby slime (542)/ : Brother...
+[11:05:10]SAY: space bear/ : Growl!
+[11:05:38]SAY: space bear/ : RAWR!
+[11:05:40]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:06:31]GAME: HiroTheWolf/(Leon Mathis) triggered a fueltank explosion.
+[11:06:31]GAME: Explosion with size (-1, 0, 2, 2) in area Space (149,57,1)
+[11:06:31]GAME: Explosion with size (0, 1, 5, 5) in area Space (149,57,1)
+[11:06:31]GAME: Explosion with size (-1, 0, 2, 2) in area Space (149,57,1)
+[11:06:39]SAY: Mariabella Benford (as Captain)/Wjcowart : Yo
+[11:06:46]SAY: Duke Larson/Jathl156 : Hello
+[11:06:53]EMOTE: Hudson/ : <B>Hudson</B> rawrs
+[11:07:06]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:07:11]ACCESS: Logout: HiroTheWolf[DC]/(Leon Mathis)
+[11:07:46]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:07:54]SAY: grey baby slime (753)/ : Brother...
+[11:07:55]ACCESS: Login: ShoyuMusubi/(ShoyuMusubi) from 184.99.114.151-1402328277 || BYOND v507
+[11:07:56]SAY: grey baby slime (121)/ : Where is the food?
+[11:08:02]ADMIN: Wjcowart/(Mariabella Benford) jumped to ShoyuMusubi/(ShoyuMusubi)
+[11:08:07]SAY: Mariabella Benford (as Captain)/Wjcowart : Oh
+[11:08:10]OOC: ShoyuMusubi/ShoyuMusubi : Boop.
+[11:08:16]ADMIN: Wjcowart/(Mariabella Benford) jumped to Jathl156/(Duke Larson)
+[11:08:23]ADMIN: Wjcowart/(Mariabella Benford) teleported ShoyuMusubi/(ShoyuMusubi)
+[11:08:57]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:08:57]SAY: space bear/ : Rawr!
+[11:08:59]SAY: space bear/ : Rawr!
+[11:09:29]EMOTE: Mariabella Benford (as Captain)/Wjcowart : <B>Mariabella Benford (as Captain)</B> gasps!
+[11:09:33]SAY: Ian/ : Bark!
+[11:09:48]SAY: space bear/ : GRR!
+[11:09:52]GAME: Wjcowart/(Mariabella Benford) has primed a weedkiller grenade casing for detonation at Central Primary Hallway (140,142,1).
+[11:09:57]GAME: A chemical smoke reaction has taken place in (Quartermasters | 166, 142)[ Plant-B-Gone ]. Last associated key is wjcowart.
+[11:10:10]SAY: Duke Larson/Jathl156 : <i>Captain Warning!!</i>
+[11:10:14]GAME: Wjcowart/(Mariabella Benford) has primed a weedkiller grenade casing for detonation at Engineering Lounge (176,140,1).
+[11:10:19]GAME: A chemical smoke reaction has taken place in (Engineering | 176, 132)[ Plant-B-Gone ]. Last associated key is wjcowart.
+[11:10:30]OOC: Duke Larson/Jathl156 : Lag ?
+[11:10:40]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:10:41]OOC: Mariabella Benford (as Captain)/Wjcowart : hosted on a toaster
+[11:11:31]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:11:31]SAY: space bear/ : RAWR!
+[11:11:41]EMOTE: Poly/ : <B>Poly</B> bawks!
+[11:11:59]ADMIN: Wjcowart/(Mariabella Benford) jumped to ShoyuMusubi/(ShoyuMusubi)
+[11:12:21]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:12:36]SAY: space bear/ : Rawr!
+[11:12:46]SAY: space bear/ : Growl!
+[11:12:57]SAY: space bear/ : Growl!
+[11:13:16]SAY: Hudson/ : Rawr!
+[11:13:18]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[11:13:37]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:13:53]ACCESS: Logout: *no key*/(ShoyuMusubi)
+[11:13:53]ACCESS: Login: ShoyuMusubi/(Bryce King) from 184.99.114.151-1402328277 || BYOND v507
+[11:13:58]SAY: Bryce King/ShoyuMusubi : <i>Wazzzzup</i>
+[11:14:22]SAY: Bryce King/ShoyuMusubi : Woooah
+[11:14:23]SAY: Bryce King/ShoyuMusubi : Interesting
+[11:15:03]SAY: Bryce King/ShoyuMusubi : What.
+[11:15:51]EMOTE: Poly/ : <B>Poly</B> squawks.
+[11:16:01]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:16:15]SAY: Bryce King/ShoyuMusubi : Eyyy boi
+[11:16:18]SAY: Mariabella Benford (as Captain)/Wjcowart : Ayy
+[11:16:24]SAY: Mariabella Benford (as Captain)/Wjcowart : Give it a looksee
+[11:16:36]SAY: Bryce King (as Captain)/ShoyuMusubi : HMPH
+[11:16:48]SAY: Mariabella Benford (as Captain)/Wjcowart : Let me know any thoughts complaints ideas
+[11:16:49]SAY: Mariabella Benford (as Captain)/Wjcowart : Ect
+[11:16:57]SAY: Bryce King (as Captain)/ShoyuMusubi : Got it.
+[11:17:04]OOC: Bryce King (as Captain)/ShoyuMusubi : Internet really isn&#39;t that bad.
+[11:17:32]SAY: space bear/ : Rawr!
+[11:17:37]OOC: Bryce King (as Captain)/ShoyuMusubi : For the most part..
+[11:17:38]SAY: Hudson/ : RAWR!
+[11:17:53]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[11:17:59]OOC: Mariabella Benford (as Captain)/Wjcowart : wew
+[11:18:03]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:18:41]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:18:41]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[11:18:43]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:18:56]ACCESS: Login: RyanBlazuh/(RyanBlazuh) from 31.154.91.145-3848459123 || BYOND v507
+[11:19:04]ACCESS: Logout: Jathl156[DC]/(Duke Larson)
+[11:19:08]EMOTE: Hudson/ : <B>Hudson</B> rawrs
+[11:19:25]EMOTE: Hudson/ : <B>Hudson</B> stomps
+[11:19:36]ADMIN: HELP: RyanBlazuh/(RyanBlazuh): H-e-l-l-o! - heard by 1 non-AFK admins who have +BAN.
+[11:19:40]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[11:19:46]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[11:19:47]ADMIN: PM: Wjcowart/(Mariabella Benford)->RyanBlazuh/(RyanBlazuh): ayy
+[11:19:56]ADMIN: PM: RyanBlazuh/(RyanBlazuh)->Wjcowart/(Mariabella Benford): I am new to this server, mind showing me AROUND?
+[11:20:08]ADMIN: PM: Wjcowart/(Mariabella Benford)->RyanBlazuh/(RyanBlazuh): sure thing.
+[11:20:11]ACCESS: Logout: *no key*/(Mariabella Benford)
+[11:20:11]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[11:20:11]ADMIN: @Wjcowart[DC]/(Mariabella Benford) jumped to RyanBlazuh/(RyanBlazuh)
+[11:20:22]ADMIN: Wjcowart/(Mariabella Benford) jumped to ShoyuMusubi/(Bryce King)
+[11:20:29]ACCESS: Logout: *no key*/(Mariabella Benford)
+[11:20:29]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[11:20:36]SAY: Bryce King (as Captain)/ShoyuMusubi : <i>Owchi.</i>
+[11:20:47]SAY: Poly/ : Check the singlo, you chucklefucks!
+[11:20:49]ACCESS: Logout: *no key*/(RyanBlazuh)
+[11:20:49]ACCESS: Login: RyanBlazuh/(Jack Dar) from 31.154.91.145-3848459123 || BYOND v507
+[11:20:49]SAY: grey baby slime (542)/ : Rawr...
+[11:20:58]ADMIN: PM: RyanBlazuh/(Farty Party)->Wjcowart/(Mariabella Benford): Alright that
+[11:21:00]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:21:05]ADMIN: PM: RyanBlazuh/(Farty Party)->Wjcowart/(Mariabella Benford): This station looks new O_O
+[11:21:08]ADMIN: PM: Wjcowart/(Mariabella Benford)->RyanBlazuh/(Farty Party): be warned it's still in pre-alpha. not everything is mapped in yet, and not everything mapped in is working
+[11:21:14]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[11:21:18]SAY: Mariabella Benford (as Captain)/Wjcowart : Yo
+[11:21:28]SAY: Mariabella Benford (as Captain)/Wjcowart : Welcome to the dev team and all that
+[11:21:32]SAY: Farty Party/RyanBlazuh : Oh ho
+[11:21:33]SAY: Mariabella Benford (as Captain)/Wjcowart : This way is mining
+[11:21:37]SAY: Farty Party/RyanBlazuh : Right..
+[11:21:37]SAY: Mariabella Benford (as Captain)/Wjcowart : It doesn&#39;t exist yet
+[11:21:40]EMOTE: Hudson/ : <B>Hudson</B> stomps
+[11:21:47]SAY: Farty Party/RyanBlazuh : This rock looks blu
+[11:22:01]SAY: Mariabella Benford (as Captain)/Wjcowart : And this is where mining will be
+[11:22:04]SAY: Farty Party/RyanBlazuh : Ah.
+[11:22:06]SAY: Mariabella Benford (as Captain)/Wjcowart : Eventually
+[11:22:07]SAY: space bear/ : GRR!
+[11:22:17]SAY: grey baby slime (753)/ : I want to eat...
+[11:22:24]SAY: grey baby slime (753)/ : Where is the food?
+[11:22:24]SAY: Mariabella Benford (as Captain)/Wjcowart : Grab an id
+[11:22:33]SAY: Mariabella Benford (as Captain)/Wjcowart : This is hte hanger
+[11:22:35]SAY: Mariabella Benford (as Captain)/Wjcowart : The*
+[11:22:43]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:22:49]SAY: Mariabella Benford (as Captain)/Wjcowart : Restroom here and workout room on the right
+[11:22:57]SAY: Farty Party/RyanBlazuh : I c-can-
+[11:22:58]SAY: Bryce King (as Captain)/ShoyuMusubi : BAD CLOWN
+[11:22:59]SAY: Mariabella Benford (as Captain)/Wjcowart : Heh
+[11:23:08]SAY: Farty Party/RyanBlazuh : He will pay.
+[11:23:11]SAY: Farty Party/RyanBlazuh : Anyways
+[11:23:11]SAY: Farty Party/RyanBlazuh : Next?
+[11:23:19]SAY: Farty Party/RyanBlazuh : Why maintanences?
+[11:23:22]SAY: Mariabella Benford (as Captain)/Wjcowart : Engineering and cargo to the left
+[11:23:22]SAY: Farty Party/RyanBlazuh : It&#39;s not even useful
+[11:23:39]SAY: Farty Party/RyanBlazuh : <i>It&#39;s medical.</i>
+[11:23:39]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:23:46]SAY: Farty Party/RyanBlazuh : Wait
+[11:23:47]SAY: Mariabella Benford (as Captain)/Wjcowart : I meant the right
+[11:23:48]SAY: Farty Party/RyanBlazuh : Its medical though
+[11:23:49]SAY: Farty Party/RyanBlazuh : Not..
+[11:23:50]SAY: space bear/ : Rawr!
+[11:23:50]SAY: Mariabella Benford (as Captain)/Wjcowart : I&#39;m autistic
+[11:23:50]SAY: Farty Party/RyanBlazuh : Uh
+[11:23:53]SAY: Farty Party/RyanBlazuh : Lol
+[11:24:02]SAY: space bear/ : Growl!
+[11:24:11]SAY: Farty Party/RyanBlazuh : It looks like a nice station
+[11:24:13]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[11:24:15]SAY: Farty Party/RyanBlazuh : That I can continue building even
+[11:24:23]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:24:27]SAY: Farty Party/RyanBlazuh : Looks nice, with all the other dispensers.
+[11:24:37]SAY: Mariabella Benford (as Captain)/Wjcowart : Still got a lot of polishing to do, but thanks
+[11:24:47]SAY: Farty Party/RyanBlazuh : I can help if you want, just message me on BYOND
+[11:24:57]SAY: Mariabella Benford (as Captain)/Wjcowart : You got skype?
+[11:25:03]SAY: Farty Party/RyanBlazuh : No, my mom has only.
+[11:25:08]SAY: Farty Party/RyanBlazuh : I can&#39;t set up a skype acc.
+[11:25:08]SAY: Mariabella Benford (as Captain)/Wjcowart : Aha
+[11:25:13]SAY: Farty Party/RyanBlazuh : Also I am 19, don&#39;t ask.
+[11:25:16]SAY: Mariabella Benford (as Captain)/Wjcowart : ...
+[11:25:38]SAY: Farty Party/RyanBlazuh : Heh
+[11:25:43]SAY: Mariabella Benford (as Captain)/Wjcowart : Again... like I said
+[11:25:43]EMOTE: Mariabella Benford (as Captain)/Wjcowart : <B>Mariabella Benford (as Captain)</B> gasps!
+[11:25:43]EMOTE: Farty Party/RyanBlazuh : <B>Farty Party</B> gasps!
+[11:25:44]SAY: Mariabella Benford (as Captain)/Wjcowart : Polish
+[11:25:45]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:25:45]EMOTE: Farty Party/RyanBlazuh : <B>Farty Party</B> gasps!
+[11:25:47]SAY: Farty Party/RyanBlazuh : The pod is niec.
+[11:25:54]SAY: Farty Party/RyanBlazuh : Needs air though
+[11:25:54]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[11:26:09]SAY: Bryce King (as Captain)/ShoyuMusubi : Big maps are cool
+[11:26:11]SAY: Bryce King (as Captain)/ShoyuMusubi : I like big maps
+[11:26:25]SAY: Mariabella Benford (as Captain)/Wjcowart : Heh
+[11:26:28]SAY: Bryce King (as Captain)/ShoyuMusubi : Woops.
+[11:26:28]SAY: Mariabella Benford (as Captain)/Wjcowart : Oww
+[11:26:43]SAY: grey baby slime (121)/ : Purr...
+[11:26:47]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:26:56]ADMIN: PM: Wjcowart/(Mariabella Benford)->ShoyuMusubi/(Bryce King): psst... the captain's bedsheet is heavily armored, don't tell anybody
+[11:27:04]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[11:27:10]SAY: space bear/ : Growl!
+[11:27:17]SAY: grey baby slime (542)/ : Blop...
+[11:27:21]OOC: Farty Party/RyanBlazuh : this lag..
+[11:27:21]EMOTE: Farty Party/RyanBlazuh : <B>Farty Party</B> gasps!
+[11:27:27]SAY: Bryce King (as Captain)/ShoyuMusubi : CLOWN
+[11:27:27]EMOTE: Farty Party/RyanBlazuh : <B>Farty Party</B> groans in pain!
+[11:27:27]SAY: Bryce King (as Captain)/ShoyuMusubi : WHY
+[11:27:39]WHISPER: Farty Party/RyanBlazuh : cause fuck you
+[11:27:39]WHISPER: Farty Party/RyanBlazuh : cause fuck you
+[11:27:42]EMOTE: Farty Party/RyanBlazuh : <B>Farty Party</B> coughs painfuly!
+[11:27:42]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived RyanBlazuh/(Farty Party)
+[11:27:42]SAY: Bryce King (as Captain)/ShoyuMusubi : ADMUN POWERS GO
+[11:27:45]SAY: Farty Party/RyanBlazuh : For hitting me with a electrocode
+[11:27:46]SAY: Farty Party/RyanBlazuh : For no reason
+[11:27:53]SAY: Bryce King (as Captain)/ShoyuMusubi : Your a clown.
+[11:27:54]SAY: Bryce King (as Captain)/ShoyuMusubi : Kek
+[11:27:57]SAY: Farty Party/RyanBlazuh : Lagg
+[11:28:03]SAY: Mariabella Benford (as Captain)/Wjcowart : Hosted on a toaster
+[11:28:07]SAY: grey baby slime (542)/ : Brother...
+[11:28:26]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:28:47]OOC: Farty Party/RyanBlazuh : Just because I am a clown, doesnt mean you can attack me. It&#39;s still a human, bitch! You&#39;re a little autistic shit that can get banned easily, man! You think you&#39;ve won? Think again! If I was a admin, I would ban the shit OUTTA YOU! You are gonna pay, you fucking bitch, you little autistic shit, Just go away!
+[11:28:53]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:29:00]SAY: space bear/ : Rawr!
+[11:29:00]OOC: Bryce King (as Captain)/ShoyuMusubi : LOL
+[11:29:12]OOC: Farty Party/RyanBlazuh : My banhammer will never get lost, I am the most robust shit ever someone known1
+[11:29:12]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:29:34]OOC: Farty Party/RyanBlazuh : lag.
+[11:29:42]SAY: grey baby slime (121)/ : Blorble...
+[11:29:49]OOC: Farty Party/RyanBlazuh : Of course I will lose with lag!
+[11:29:59]OOC: Farty Party/RyanBlazuh : Also you&#39;re abusing the rules and laws.
+[11:30:19]ADMIN: Wjcowart/(Mariabella Benford) gave RyanBlazuh/(Farty Party) the spell /obj/effect/proc_holder/spell/targeted/explosion/fireball.
+[11:30:21]SAY: Bryce King (as Captain)/ShoyuMusubi : Shit
+[11:30:31]SAY: Bryce King (as Captain)/ShoyuMusubi : LAGGG
+[11:30:33]OOC: Farty Party/RyanBlazuh : fuck this server, this sucks, it has no rules anyway.
+[11:30:41]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[11:30:47]OOC: Farty Party/RyanBlazuh : this lag sucks too
+[11:31:02]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[11:31:41]OOC: Mariabella Benford (as Captain)/Wjcowart : I detect some butthurt
+[11:31:45]OOC: Mariabella Benford (as Captain)/Wjcowart : scram kiddo
+[11:31:50]EMOTE: Poly/ : <B>Poly</B> looks in Bryce King (as Captain)'s direction and takes flight.
+[11:31:53]OOC: Unknown/RyanBlazuh : cause you are a autistic little kid bruh
+[11:31:57]OOC: Unknown/RyanBlazuh : 420 blaze it bruh
+[11:32:10]OOC: Mariabella Benford (as Captain)/Wjcowart : :P damn, you caught me... seen through my ruse
+[11:32:19]SAY: grey baby slime (121)/ : Blop...
+[11:32:34]OOC: Unknown/RyanBlazuh : Why does this server has alot of lag anyway?
+[11:32:44]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[11:32:50]OOC: Mariabella Benford (as Captain)/Wjcowart : I&#39;ve said it like 20 times today, it&#39;s hosted on a toaster
+[11:33:02]OOC: Unknown/RyanBlazuh : You said it 0 times.
+[11:33:05]EMOTE: Ian/ : <B>Ian</B> barks!
+[11:33:06]OOC: Unknown/RyanBlazuh : Maybe even negative times.
+[11:33:21]SAY: Bryce King (as Captain)/ShoyuMusubi : Dangggg
+[11:33:21]OOC: Mariabella Benford (as Captain)/Wjcowart : I didn&#39;t say &#34;20 times to you&#34;
+[11:33:30]OOC: Unknown/RyanBlazuh : You said I am a toaster.
+[11:33:32]OOC: Bryce King (as Captain)/ShoyuMusubi : This man is a true clown
+[11:33:33]OOC: Mariabella Benford (as Captain)/Wjcowart : scram niggeroonie before I kick ya in the teeth
+[11:33:37]SAY: space bear/ : Growl!
+[11:33:40]OOC: Unknown/RyanBlazuh : Also, who ya callin&#39; a horse, bitch?
+[11:34:06]EMOTE: Ian/ : <B>Ian</B> yaps.
+[11:34:16]OOC: Mariabella Benford (as Captain)/Wjcowart : you, now go eat some oats or some shit
+[11:34:29]SAY: Bryce King (as Captain)/ShoyuMusubi : IM CLEANING OUT MY OFFICE
+[11:34:31]SAY: Bryce King (as Captain)/ShoyuMusubi : AND SETTING UP T COMMS
+[11:34:42]SAY: Mariabella Benford (as Captain)/Wjcowart : Goodie
+[11:34:51]SAY: Bryce King (as Captain)/ShoyuMusubi : IF I can move
+[11:34:59]EMOTE: Poly/ : <B>Poly</B> looks in Bryce King (as Captain)'s direction and takes flight.
+[11:35:04]SAY: Bryce King (as Captain)/ShoyuMusubi : Wheres my bag?
+[11:35:12]SAY: Bryce King (as Captain)/ShoyuMusubi : Shit
+[11:35:25]SAY: Mariabella Benford (as Captain)/Wjcowart : Who bag?
+[11:35:28]SAY: Mariabella Benford (as Captain)/Wjcowart : Which one
+[11:35:31]SAY: Bryce King (as Captain)/ShoyuMusubi : My bag.
+[11:35:33]SAY: Bryce King (as Captain)/ShoyuMusubi : Dropped it earlier
+[11:35:35]SAY: Bryce King (as Captain)/ShoyuMusubi : Its engineering bag
+[11:35:36]SAY: Mariabella Benford (as Captain)/Wjcowart : Ah
+[11:35:48]OOC: Unknown/RyanBlazuh : You autistic kid. You little idiot. You have a psyhical hole in your brain, where it shouldn&#39;t be. Your PC is a toaster. So put your hand in it, It&#39;ll spray cum on your face, you little bitch. Keep crying, babe, makes you feel better, right? I&#39;ll kidnap you, you little mushroom, Look at your name, &#34;Wjcowart&#34;, Oh man, this is unoriginal! I&#39;ve seen worse names than it, it&#39;s not the worst one! You callin&#39; me a horse, callin&#39; me a clown, Ain&#39;t nobody got time fo&#39; that. Love you too, babe, keep hating, keep your fingers moving, you can&#39;t even cum, bruh!
+[11:35:52]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:35:56]EMOTE: Poly/ : <B>Poly</B> looks in Bryce King (as Captain)'s direction and takes flight.
+[11:36:04]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:36:16]OOC: Bryce King (as Captain)/ShoyuMusubi : Uhm. What?
+[11:36:16]OOC: Unknown/RyanBlazuh : Also, are we on a rap battle? :D
+[11:36:25]EMOTE: mouse/ : <B>The mouse</B> shakes
+[11:36:35]OOC: Mariabella Benford (as Captain)/Wjcowart : jesus fuck, just... scram before I kick you
+[11:36:38]SAY: Bryce King (as Captain)/ShoyuMusubi : HE STOLE MY FUCKING WRENCH
+[11:36:40]SAY: Bryce King (as Captain)/ShoyuMusubi : FUCK YOU POLY
+[11:36:42]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[11:36:44]OOC: Unknown/RyanBlazuh : I can&#39;t scream :D
+[11:36:52]OOC: Unknown/RyanBlazuh : Cry baby.
+[11:36:53]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:36:57]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:36:57]EMOTE: Poly/ : <B>Poly</B> looks in Bryce King (as Captain)'s direction and takes flight.
+[11:37:16]ADMIN: Wjcowart/(Mariabella Benford) booted RyanBlazuh/(Farty Party).
+[11:37:16]ACCESS: Logout: RyanBlazuh[DC]/(Farty Party)
+[11:37:18]WHISPER: Bryce King (as Captain)/ShoyuMusubi : Halp
+[11:37:18]WHISPER: Bryce King (as Captain)/ShoyuMusubi : Halp
+[11:37:20]WHISPER: Bryce King (as Captain)/ShoyuMusubi : He critted me rofl
+[11:37:20]WHISPER: Bryce King (as Captain)/ShoyuMusubi : He critted me rofl
+[11:37:21]ACCESS: Login: Zurro13/(Zurro13) from 46.30.167.151-3036731375 || BYOND v507
+[11:37:22]EMOTE: Bryce King (as Captain)/ShoyuMusubi : <B>Bryce King (as Captain)</B> gasps!
+[11:37:24]EMOTE: Bryce King (as Captain)/ShoyuMusubi : <B>Bryce King (as Captain)</B> gasps!
+[11:37:28]EMOTE: Bryce King (as Captain)/ShoyuMusubi : <B>Bryce King (as Captain)</B> gasps!
+[11:37:35]EMOTE: Bryce King (as Captain)/ShoyuMusubi : <B>Bryce King (as Captain)</B> whimpers.
+[11:37:41]EMOTE: Bryce King (as Captain)/ShoyuMusubi : <B>Bryce King (as Captain)</B> moans!
+[11:37:43]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived *no key*/(Poly)
+[11:37:43]EMOTE: Bryce King (as Captain)/ShoyuMusubi : <B>Bryce King (as Captain)</B> whimpers.
+[11:37:45]EMOTE: Bryce King (as Captain)/ShoyuMusubi : <B>Bryce King (as Captain)</B> moans!
+[11:37:51]WHISPER: Bryce King (as Captain)/ShoyuMusubi : WHAT
+[11:37:51]WHISPER: Bryce King (as Captain)/ShoyuMusubi : WHAT
+[11:37:53]WHISPER: Bryce King (as Captain)/ShoyuMusubi : HES NOT DEAD
+[11:37:53]WHISPER: Bryce King (as Captain)/ShoyuMusubi : HES NOT DEAD
+[11:37:53]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived ShoyuMusubi/(Bryce King)
+[11:38:05]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived ShoyuMusubi/(Bryce King)
+[11:38:44]SAY: Mariabella Benford (as Captain)/Wjcowart : Better than network television
+[11:38:52]SAY: Bryce King (as Captain)/ShoyuMusubi : Yup
+[11:38:56]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:38:56]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:39:03]SAY: Bryce King (as Captain)/ShoyuMusubi : I cant move yo
+[11:39:11]SAY: Bryce King (as Captain)/ShoyuMusubi : This internet is hilarious
+[11:39:35]SAY: Mariabella Benford (as Captain)/Wjcowart : Welcome to the realities of living in the god damned boonies is buttfuck alabama
+[11:39:54]SAY: Bryce King (as Captain)/ShoyuMusubi : Yayyy!
+[11:40:08]EMOTE: Ian/ : <B>Ian</B> barks!
+[11:40:39]EMOTE: Hudson/ : <B>Hudson</B> stomps
+[11:40:52]SAY: Bryce King (as Captain)/ShoyuMusubi : Holy balls
+[11:40:58]SAY: mouse/ : Squeek!
+[11:41:07]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[11:41:21]SAY: Bryce King (as Captain)/ShoyuMusubi : Eyyy man, ima hop and get some breakfast
+[11:41:26]SAY: Mariabella Benford (as Captain)/Wjcowart : Kay
+[11:41:26]SAY: Bryce King (as Captain)/ShoyuMusubi : Be back in a bit.
+[11:41:30]ACCESS: Logout: ShoyuMusubi[DC]/(Bryce King)
+[11:41:31]ACCESS: Logout: Zurro13[DC]/(Zurro13)
+[11:41:41]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+[11:41:49]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:41:51]SAY: grey baby slime (542)/ : Blop...
+[11:42:12]SAY: grey baby slime (753)/ : Rawr...
+[11:42:14]SAY: grey baby slime (121)/ : Blop...
+[11:43:36]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[11:44:26]SAY: grey baby slime (121)/ : Rawr...
+[11:44:39]SAY: space bear/ : RAWR!
+[11:45:44]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:46:28]SAY: space bear/ : Rawr!
+[11:46:32]EMOTE: Hudson/ : <B>Hudson</B> stomps
+[11:46:47]ACCESS: Login: Mrmaster21/(Mrmaster21) from 73.178.180.56-1452488404 || BYOND v507
+[11:46:51]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:48:02]SAY: grey baby slime (753)/ : Lonely...
+[11:48:20]ACCESS: Logout: *no key*/(Mrmaster21)
+[11:48:20]ACCESS: Login: Mrmaster21/(Alex Raman) from 73.178.180.56-1452488404 || BYOND v507
+[11:49:01]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:49:18]SAY: grey baby slime (753)/ : Where is the food?
+[11:50:01]ACCESS: Logout: Mrmaster21[DC]/(Alex Raman)
+
+
+Starting up. 12:10.35
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[12:10:35]ADMIN: Loading Banlistjob
+[12:10:35]ADMIN: Loading jobban_rank
+[12:10:35]ADMIN: jobban_keylist was empty
+[12:10:35]ADMIN: Loading appearance_rank
+[12:10:35]ADMIN: appearance_keylist was empty
+[12:10:35]ADMIN: Updating jobbanfile!
+[12:10:35]ADMIN: Loading Banlist
+[12:10:48]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[12:11:30]ADMIN: Wjcowart has started the game.
+[12:11:31]ACCESS: Logout: *no key*/(Wjcowart)
+[12:11:31]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[12:11:48]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:12:03]EMOTE: Poly/ : <B>Poly</B> squawks.
+[12:12:09]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[12:12:18]SAY: Ian/ : YAP!
+[12:12:26]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[12:12:31]ADMIN: Wjcowart/(Mariabella Benford) admin-called the emergency shuttle.
+[12:12:57]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[12:13:00]EMOTE: space bear/ : <B>The space bear</B> stomps
+[12:13:21]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:13:23]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[12:13:29]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:13:44]EMOTE: monkey (20)/ : <B>The monkey (20)</B> jumps!
+[12:14:00]SAY: Hudson/ : Rawr!
+[12:14:06]ACCESS: Login: ShoyuMusubi/(ShoyuMusubi) from 184.99.114.151-2383503689 || BYOND v507
+[12:14:18]ADMIN: HELP: ShoyuMusubi/(ShoyuMusubi): NOOB :D - heard by 1 non-AFK admins who have +BAN.
+[12:14:23]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[12:14:24]ADMIN: PM: Wjcowart/(Mariabella Benford)->ShoyuMusubi/(ShoyuMusubi): howdy
+[12:14:29]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:14:31]ADMIN: PM: ShoyuMusubi/(ShoyuMusubi)->Wjcowart/(Mariabella Benford): Howdy dowdy.
+[12:14:51]ADMIN: PM: Wjcowart/(Mariabella Benford)->ShoyuMusubi/(ShoyuMusubi): that admin pm sound STILL gives me a mini panic attack every time
+[12:14:59]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:15:06]ADMIN: PM: ShoyuMusubi/(ShoyuMusubi)->Wjcowart/(Mariabella Benford): Lelz
+[12:15:09]SAY: space bear/ : GRR!
+[12:15:24]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[12:15:53]EMOTE: space bear/ : <B>The space bear</B> stomps
+[12:15:55]EMOTE: space bear/ : <B>The space bear</B> stomps
+[12:16:06]SAY: Ian/ : Bark!
+[12:16:10]SAY: space bear/ : Growl!
+[12:16:25]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[12:16:29]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:16:54]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:16:54]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[12:17:00]SAY: space bear/ : Rawr!
+[12:17:27]ADMIN: Wjcowart/(Mariabella Benford) made all SMESs powered
+[12:17:27]ADMIN: Wjcowart/(Mariabella Benford) used secret quickpower
+[12:17:28]ADMIN: Wjcowart/(Mariabella Benford) made all areas powered
+[12:17:31]ADMIN: Wjcowart/(Mariabella Benford) used secret power
+[12:17:42]SAY: Poly/ : Check the singlo, you chucklefucks!
+[12:17:42]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[12:17:44]SAY: mouse/ : Squeek?
+[12:19:14]EMOTE: space bear/ : <B>The space bear</B> stomps
+[12:19:39]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:20:30]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:22:06]EMOTE: mouse/ : <B>The mouse</B> shakes
+[12:22:23]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[12:22:46]EMOTE: monkey (326)/ : <B>The monkey (326)</B> jumps!
+[12:22:50]SAY: Mariabella Benford/Wjcowart : <i>Uhh</i>
+[12:22:51]SAY: Mariabella Benford/Wjcowart : <i>Huh</i>
+[12:22:55]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:23:02]SAY: Mariabella Benford/Wjcowart : <i>Problem</i>
+[12:23:32]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[12:23:35]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[12:23:39]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[12:23:43]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[12:23:49]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[12:23:53]SAY: grey baby slime (173)/ : Rawr...
+[12:24:01]ACCESS: Login: The duke of time/(The duke of time) from 46.208.78.90-3073957005 || BYOND v507
+[12:24:02]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> seizes up and falls limp, her eyes dead and lifeless...
+[12:24:02]SAY: space bear/ : RAWR!
+[12:24:35]EMOTE: mouse/ : <B>The mouse</B> shakes
+[12:24:54]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+[12:24:54]ACCESS: Logout: ShoyuMusubi[DC]/(ShoyuMusubi)
+[12:24:54]ACCESS: Logout: The duke of time[DC]/(The duke of time)
+
+
+Starting up. 12:26.53
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[12:26:53]ADMIN: Loading Banlistjob
+[12:26:53]ADMIN: Loading jobban_rank
+[12:26:53]ADMIN: jobban_keylist was empty
+[12:26:53]ADMIN: Loading appearance_rank
+[12:26:53]ADMIN: appearance_keylist was empty
+[12:26:53]ADMIN: Updating jobbanfile!
+[12:26:53]ADMIN: Loading Banlist
+[12:27:06]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[12:27:24]ADMIN: Wjcowart has started the game.
+[12:27:25]ACCESS: Logout: *no key*/(Wjcowart)
+[12:27:25]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[12:27:25]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:27:29]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:27:43]ADMIN: Wjcowart/(Mariabella Benford) admin-called the emergency shuttle.
+[12:27:44]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:27:48]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the chief engineer's rubber stamp.
+[12:27:53]ADMIN: Wjcowart/(Mariabella Benford) made all SMESs powered
+[12:27:53]ADMIN: Wjcowart/(Mariabella Benford) used secret quickpower
+[12:28:51]SAY: space bear/ : Growl!
+[12:28:53]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[12:29:00]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[12:29:18]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[12:29:35]SAY: space bear/ : GRR!
+[12:29:52]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[12:30:34]EMOTE: mouse/ : <B>The mouse</B> shakes
+[12:30:47]SAY: mouse/ : Squeek?
+[12:30:59]EMOTE: monkey (55)/ : <B>The monkey (55)</B> jumps!
+[12:31:12]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[12:32:00]EMOTE: monkey (415)/ : <B>The monkey (415)</B> jumps!
+[12:32:13]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[12:32:15]SAY: space bear/ : RAWR!
+[12:32:17]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[12:33:35]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:33:47]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:33:54]SAY: mouse/ : SQUEEK!
+[12:34:25]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[12:34:33]SAY: space bear/ : GRR!
+[12:34:46]SAY: Hudson/ : Growl!
+[12:34:48]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:34:48]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:34:52]SAY: Ian/ : Woof!
+[12:34:54]EMOTE: monkey (415)/ : <B>The monkey (415)</B> jumps!
+[12:35:53]SAY: Hudson/ : RAWR!
+[12:35:57]SAY: mouse/ : Squeek!
+[12:36:16]SAY: space bear/ : Growl!
+[12:36:31]EMOTE: Ian/ : <B>Ian</B> shivers.
+[12:36:44]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[12:37:07]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:37:17]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[12:37:42]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:38:01]GAME: wjcowart(Mariabella Benford) has authorized early shuttle launch in (121,80,1)
+[12:38:50]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[12:38:54]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/storage/part_replacer
+[12:39:26]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/card/id/admin
+[12:39:30]GAME: wjcowart(Mariabella Benford) has authorized early shuttle launch in (121,80,1)
+[12:39:32]GAME: wjcowart(Mariabella Benford) has authorized early shuttle launch in (121,80,1)
+[12:39:37]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/card/id/admin
+[12:39:40]GAME: wjcowart(Mariabella Benford) has authorized early shuttle launch in (121,80,1)
+[12:39:44]GAME: wjcowart(Mariabella Benford) has authorized early shuttle launch in (121,80,1)
+[12:39:52]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/card/id/captains_spare
+[12:39:56]GAME: wjcowart(Mariabella Benford) has launched the emergency shuttle in (121,80,1) 46 seconds before launch.
+[12:40:37]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:41:48]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[12:42:05]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[12:42:07]GAME: Antagonists at round end were...
+[12:42:32]SAY: mouse/ : Squeek!
+[12:42:38]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+
+
+Starting up. 12:43.42
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[12:43:42]ADMIN: Loading Banlistjob
+[12:43:42]ADMIN: Loading jobban_rank
+[12:43:42]ADMIN: jobban_keylist was empty
+[12:43:42]ADMIN: Loading appearance_rank
+[12:43:42]ADMIN: appearance_keylist was empty
+[12:43:42]ADMIN: Updating jobbanfile!
+[12:43:42]ADMIN: Loading Banlist
+[12:43:43]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[12:44:00]ACCESS: Logout: Wjcowart[DC]/(Wjcowart)
+
+
+Starting up. 12:59.10
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[12:59:11]ADMIN: Loading Banlistjob
+[12:59:11]ADMIN: Loading jobban_rank
+[12:59:11]ADMIN: jobban_keylist was empty
+[12:59:11]ADMIN: Loading appearance_rank
+[12:59:11]ADMIN: appearance_keylist was empty
+[12:59:11]ADMIN: Updating jobbanfile!
+[12:59:11]ADMIN: Loading Banlist
+[12:59:20]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[12:59:42]ADMIN: Wjcowart has started the game.
+[12:59:42]ACCESS: Logout: *no key*/(Wjcowart)
+[12:59:42]ACCESS: Login: Wjcowart/(Mariabella Benford) from 127.0.0.1-3998006160 || BYOND v508
+[13:00:37]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[13:00:44]EMOTE: Ian/ : <B>Ian</B> yaps.
+[13:01:30]EMOTE: monkey (960)/ : <B>The monkey (960)</B> jumps!
