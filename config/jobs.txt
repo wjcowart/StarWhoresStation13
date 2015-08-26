@@ -15,7 +15,7 @@ Virologist=1
 Scientist=3
 Chemist=2
 
-Bartender=1
+Bartender=0
 Botanist=2
 Chef=1
 Janitor=1
@@ -33,7 +33,7 @@ Atmospheric Technician=4
 Cargo Technician=3
 Chaplain=1
 Lawyer=2
-Librarian=1
+Librarian=0
 
 AI=1
 Cyborg=1
