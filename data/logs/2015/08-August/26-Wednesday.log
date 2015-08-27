@@ -1307,3 +1307,316 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [14:19:39]EMOTE: Ian/ : <B>Ian</B> yaps.
 [14:19:41]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
 [14:20:08]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+
+
+Starting up. 17:46.07
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'meteor'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[17:46:08]ADMIN: Loading Banlistjob
+[17:46:08]ADMIN: Loading jobban_rank
+[17:46:08]ADMIN: jobban_keylist was empty
+[17:46:08]ADMIN: Loading appearance_rank
+[17:46:08]ADMIN: appearance_keylist was empty
+[17:46:08]ADMIN: Updating jobbanfile!
+[17:46:08]ADMIN: Loading Banlist
+[17:47:19]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[17:48:01]ADMIN: Cairo283/(Cairo283) set the mode as secret.
+[17:48:12]ADMIN: Cairo283/(Cairo283) set the mode as traitor.
+[17:48:26]ADMIN: Cairo283 has started the game.
+[17:48:49]ADMIN: Cairo283/(Cairo283) set the mode as secret.
+[17:48:55]ADMIN: Cairo283 has started the game.
+[17:48:56]GAME: Cairo283 (ckey) has been selected as a traitor
+[17:48:56]ACCESS: Logout: *no key*/(Cairo283)
+[17:48:56]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[17:49:15]SAY: Ian/ : YAP!
+[17:49:51]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[17:49:58]ACCESS: Login: Wjcowart/(Wjcowart) from 99.195.226.133-1984611505 || BYOND v508
+[17:50:31]SAY: grey baby slime (828)/ : Rawr...
+[17:50:32]ACCESS: Logout: *no key*/(Wjcowart)
+[17:50:32]ACCESS: Login: Wjcowart/(Mariabella Benford) from 99.195.226.133-1984611505 || BYOND v508
+[17:50:44]SAY: grey baby slime (828)/ : Blorble...
+[17:50:48]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[17:50:50]ADMIN: Cairo283/(Matthew Rhinehart) teleported Wjcowart/(Mariabella Benford)
+[17:51:47]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[17:52:14]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[17:52:16]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[17:52:16]SAY: Hudson/ : Growl!
+[17:52:39]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[17:52:56]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[17:53:00]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[17:53:23]SAY: Ian/ : YAP!
+[17:53:25]ADMIN: Cairo283/(Matthew Rhinehart) created a /obj/item/weapon/storage/part_replacer
+[17:53:30]SAY: space bear/ : GRR!
+[17:53:32]SAY: space bear/ : Rawr!
+[17:53:38]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:53:47]ADMIN: Cairo283/(Matthew Rhinehart) created a /obj/item/weapon/ore/uranium
+[17:54:01]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[17:54:09]SAY: grey baby slime (292)/ : Lonely...
+[17:54:26]EMOTE: Ian/ : <B>Ian</B> barks!
+[17:54:37]SAY: Ian/ : YAP!
+[17:54:49]SAY: space bear/ : GRR!
+[17:54:54]ADMIN: Wjcowart/(Mariabella Benford) made all areas powered
+[17:55:04]ADMIN: Wjcowart/(Mariabella Benford) used secret power
+[17:56:03]EMOTE: Poly/ : <B>Poly</B> looks in Matthew Rhinehart's direction and takes flight.
+[17:56:18]SAY: space bear/ : GRR!
+[17:56:37]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[17:56:51]EMOTE: space bear/ : <B>The space bear</B> stomps
+[17:57:15]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[17:57:50]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[17:58:07]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:58:09]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:58:24]EMOTE: Poly/ : <B>Poly</B> looks in the screwdriver's direction and takes flight.
+[17:58:28]SAY: space bear/ : Rawr!
+[17:58:30]EMOTE: Ian/ : <B>Ian</B> barks!
+[17:59:16]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:59:29]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:59:35]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[17:59:39]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:59:44]EMOTE: Poly/ : <B>Poly</B> looks in the screwdriver's direction and takes flight.
+[17:59:46]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Matthew Rhinehart
+[17:59:52]EMOTE: space bear/ : <B>The space bear</B> stares alertly at Mariabella Benford
+[18:00:11]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:00:11]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:00:13]SAY: space bear/ : RAWR!
+[18:00:16]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:00:24]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[18:00:30]SAY: space bear/ : RAWR!
+[18:00:32]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:00:38]SAY: space bear/ : Growl!
+[18:00:51]SAY: grey baby slime (828)/ : Lonely...
+[18:01:18]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[18:01:35]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[18:01:37]SAY: Hudson/ : Rawr!
+[18:01:45]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[18:02:22]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/machinery/computer/teleporter
+[18:02:36]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/mecha_parts/mecha_equipment/teleporter
+[18:02:40]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:02:48]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:02:54]ADMIN: Wjcowart/(Mariabella Benford) created a /obj/item/weapon/rcs
+[18:03:01]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[18:03:28]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[18:03:32]GAME: Wjcowart/(Mariabella Benford) has primed a incendiary grenade casing for detonation at Delivery Office (183,148,1).
+[18:03:37]GAME: Wjcowart/(Mariabella Benford) has primed a incendiary grenade casing for detonation at Delivery Office (183,148,1).
+[18:03:40]GAME: Wjcowart/(Mariabella Benford) has primed a incendiary grenade casing for detonation at Delivery Office (183,148,1).
+[18:03:56]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[18:04:04]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:04:06]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[18:04:12]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[18:04:21]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:04:40]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> makes a loud, muffled noise.
+[18:04:52]SAY: space bear/ : Rawr!
+[18:04:52]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> moans!
+[18:04:55]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:04:59]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[18:05:07]SAY: space bear/ : GRR!
+[18:05:07]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:05:36]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:05:47]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:05:56]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:05:58]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:06:00]EMOTE: Poly/ : <B>Poly</B> bawks!
+[18:06:00]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:06:10]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:06:24]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> assists global warming!
+[18:06:25]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts and waves their hand dismissively.
+[18:06:25]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts and waves their hand dismissively.
+[18:06:25]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts!
+[18:06:25]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts!
+[18:06:26]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts and pretends nothing happened.
+[18:06:26]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> toots.
+[18:06:26]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> rears up and lets loose a fart of tremendous magnitude!
+[18:06:26]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts and waves their hand dismissively.
+[18:06:26]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts!
+[18:06:26]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> harvests methane from uranus at mach 3!
+[18:06:27]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> <B><font color='red'>f</font><font color='blue'>a</font><font color='red'>r</font><font color='blue'>t</font><font color='red'>s</font></B>
+[18:06:27]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> toots.
+[18:06:27]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> assists global warming!
+[18:06:27]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> is a <b>farting</b> motherfucker!
+[18:06:27]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> is a <b>farting</b> motherfucker!
+[18:06:27]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> toots.
+[18:06:28]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> farts and pretends nothing happened.
+[18:06:44]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:06:54]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> seizes up and falls limp, her eyes dead and lifeless...
+[18:06:58]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[18:07:00]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:07:13]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:07:19]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:07:35]GAME: Wjcowart/(Mariabella Benford) triggered a fueltank explosion.
+[18:07:35]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering (175,132,1)
+[18:07:54]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:08:06]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[18:08:12]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:08:36]GAME: Wjcowart/(Mariabella Benford) triggered a fueltank explosion.
+[18:08:36]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (169,137,1)
+[18:08:40]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:09:23]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[18:09:28]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[18:09:30]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[18:09:32]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[18:09:34]GAME: Cairo283/(Matthew Rhinehart) fired a grenade (teargas grenade casing) from a grenade launcher (grenade launcher).
+[18:09:36]GAME: A chemical smoke reaction has taken place in (Armory | 90, 161)[ Condensed Capsaicin ]. Last associated key is cairo283.
+[18:09:38]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[18:09:49]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> screams!
+[18:09:55]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:10:05]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:10:16]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:10:29]GAME: Cairo283/(Matthew Rhinehart) has primed a teargas grenade casing for detonation at Armory (86,164,1).
+[18:10:34]GAME: A chemical smoke reaction has taken place in (Armory | 84, 163)[ Condensed Capsaicin ]. Last associated key is cairo283.
+[18:10:44]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> makes a loud, muffled noise.
+[18:10:49]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:10:56]ADMIN: Cairo283/(Matthew Rhinehart) has possessed the armory (/obj/machinery/door/airlock/security) at (86, 165, 1)
+[18:11:13]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[18:13:00]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[18:13:27]SAY: Mariabella Benford/Wjcowart : Should I pul arund?
+[18:13:44]SAY: grey baby slime (828)/ : Rawr...
+[18:13:45]ADMIN: Cairo283/(Matthew Rhinehart) deleted the reinforced wall at (131,184,1)
+[18:14:07]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[18:14:09]SAY: space bear/ : RAWR!
+[18:14:15]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> drools.
+[18:14:19]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> twitches violently.
+[18:14:24]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Wjcowart/(Mariabella Benford)
+[18:14:30]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> drools.
+[18:14:40]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> twitches violently.
+[18:14:50]GAME: cairo283<A HREF='?_src_=holder;adminmoreinfo=[mob_81]'>?</A> Matthew Rhinehart has triggered a gibtonite deposit reaction <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=183;Z=1'>Mine (JMP)</a>.
+[18:14:54]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:14:56]GAME: <A HREF='?_src_=holder;adminmoreinfo=[mob_81]'>?</A>  has triggered a gibtonite deposit reaction <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=182;Z=1'>Mine (JMP)</a>.
+[18:14:59]SAY: Ian/ : Bark!
+[18:15:01]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:15:06]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> twitches violently.
+[18:15:07]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:15:10]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:15:26]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:15:29]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:15:31]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:15:47]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:15:56]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:16:03]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:16:30]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[18:16:34]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:16:49]SAY: space bear/ : GRR!
+[18:16:51]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:16:51]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:16:52]ADMIN: Cairo283/(Matthew Rhinehart) teleported Wjcowart/(Mariabella Benford)
+[18:17:24]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> gasps!
+[18:17:33]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[18:17:46]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and pretends nothing happened.
+[18:18:02]SAY: space bear/ : Rawr!
+[18:18:08]GAME: Explosion with size (-1, 0, 3, 4) in area Robotics Lab (169,100,1)
+[18:18:29]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[18:18:30]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:18:36]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:18:36]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:18:44]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:19:05]SAY: grey baby slime (292)/ : Blop...
+[18:19:06]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:19:39]SAY: grey baby slime (292)/ : Brother...
+[18:19:39]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:19:49]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:20:21]SAY: red baby slime (145)/ : Blorble...
+[18:20:22]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/silicon/ai and /mob/living/carbon/alien/humanoid
+[18:20:33]ADMIN: Cairo283/(Matthew Rhinehart) deleted the inactive AI at (159,160,1)
+[18:20:38]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:39]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:39]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:39]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:40]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:40]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:40]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:41]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:41]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:41]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:42]ADMIN: Cairo283/(Matthew Rhinehart) created a /mob/living/simple_animal/hostile/poison/bees
+[18:20:42]EMOTE: Poly/ : <B>Poly</B> looks in the screwdriver's direction and takes flight.
+[18:20:54]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[18:21:07]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> coughs painfuly!
+[18:21:09]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> groans in pain!
+[18:21:12]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:21:13]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:21:40]EMOTE: Unknown/Cairo283 : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:21:45]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:21:55]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:21:55]EMOTE: Poly/ : <B>Poly</B> looks in the screwdriver's direction and takes flight.
+[18:22:16]SAY: space bear/ : Rawr!
+[18:22:20]EMOTE: Mariabella Benford/Wjcowart : <B>Mariabella Benford</B> whimpers.
+[18:22:23]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[18:22:23]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:22:44]ADMIN: Wjcowart/(Mariabella Benford) healed / Revived Wjcowart/(Mariabella Benford)
+[18:22:56]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:22:56]EMOTE: space bear/ : <B>The space bear</B> stomps
+[18:23:27]ADMIN: Wjcowart/(Mariabella Benford) deleted Mariabella Benford at (127,115,1)
+[18:23:27]ACCESS: Logout: *no key*/(Mariabella Benford)
+[18:23:27]ACCESS: Login: Wjcowart/(Mariabella Benford) from 99.195.226.133-1984611505 || BYOND v508
+[18:23:38]ADMIN: Cairo283/(Matthew Rhinehart) teleported Wjcowart/(Mariabella Benford)
+[18:23:47]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:23:49]SAY: space bear/ : GRR!
+[18:23:56]ADMIN: Wjcowart(wjcowart) smote Mariabella Benford (wjcowart) in gib for 111 damage.
+[18:24:01]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:24:16]ADMIN: Wjcowart(wjcowart) smote Unknown (cairo283) in burn for 5 damage.
+[18:24:24]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:24:25]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[18:24:41]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:24:50]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:24:55]ADMIN: DirectNarrate: Wjcowart/(Mariabella Benford) to (Unknown/Cairo283): your colon falls out of your ass
+[18:24:58]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:25:04]ADMIN: Wjcowart/(Mariabella Benford) AIized Cairo283/(Matthew Rhinehart)
+[18:25:04]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[18:25:04]ACCESS: Login: Cairo283/(Project 2501) from 127.0.0.1-2795721299 || BYOND v508
+[18:25:06]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:25:15]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:25:15]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:25:15]ADMIN: Cairo283/(Project 2501) attempting to monkeyize *no key*/(Matthew Rhinehart)
+[18:25:23]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:25:23]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:25:25]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:25:27]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:25:28]GAME: Cairo283/(Project 2501) made a vocal announcement with the following message: ASS BLAST USA.
+[18:25:32]EMOTE: monkey (972)/ : <B>The monkey (972)</B> gasps!
+[18:25:32]EMOTE: space bear/ : <B>The space bear</B> grawls
+[18:25:36]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:25:39]ADMIN: Wjcowart/(Mariabella Benford) has animalized Cairo283.
+[18:25:40]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:25:44]ACCESS: Logout: *no key*/(Project 2501)
+[18:25:44]ACCESS: Login: Cairo283/(Ian) from 127.0.0.1-2795721299 || BYOND v508
+[18:25:46]EMOTE: Ian/Cairo283 : <B>Ian</B> nuzzles the space bee swarm
+[18:25:48]EMOTE: Ian/Cairo283 : <B>Ian</B> nuzzles the space bee swarm
+[18:25:49]EMOTE: Ian/Cairo283 : <B>Ian</B> nuzzles the space bee swarm
+[18:25:51]ADMIN: Cairo283/(Ian) healed / Revived *no key*/(Matthew Rhinehart)
+[18:25:57]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:25:59]SAY: grey baby slime (924)/ : Brother...
+[18:25:59]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:25:59]ACCESS: Logout: *no key*/(Ian)
+[18:25:59]ACCESS: Login: Cairo283/(Ian) from 127.0.0.1-2795721299 || BYOND v508
+[18:26:01]ACCESS: Logout: *no key*/(Ian)
+[18:26:01]ACCESS: Login: Cairo283/(Ian) from 127.0.0.1-2795721299 || BYOND v508
+[18:26:01]SAY: Ian/ : YAP!
+[18:26:02]ADMIN: Cairo283/(Ian) healed / Revived *no key*/(Matthew Rhinehart)
+[18:26:03]ACCESS: Logout: *no key*/(Ian)
+[18:26:03]ACCESS: Login: Cairo283/(Ian) from 127.0.0.1-2795721299 || BYOND v508
+[18:26:05]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:26:11]ACCESS: Logout: *no key*/(Ian)
+[18:26:11]ACCESS: Login: Cairo283/(Ian) from 127.0.0.1-2795721299 || BYOND v508
+[18:26:12]ADMIN: Cairo283/(Ian) healed / Revived *no key*/(Matthew Rhinehart)
+[18:26:14]EMOTE: alien (617)/ : <B>The alien (617)</B> gasps!
+[18:26:17]ADMIN: Cairo283/(Ian) attempting to monkeyize *no key*/(Matthew Rhinehart)
+[18:26:20]ACCESS: Logout: Wjcowart[DC]/(Mariabella Benford)
+[18:26:22]ACCESS: Logout: Cairo283[DC]/(Ian)
