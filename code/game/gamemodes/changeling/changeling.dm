@@ -10,9 +10,9 @@ var/list/possible_changeling_IDs = list("Alpha","Beta","Gamma","Delta","Epsilon"
 	antag_flag = BE_CHANGELING
 	restricted_jobs = list("AI", "Cyborg")
 	protected_jobs = list("Security Officer", "Warden", "Detective", "Head of Security", "Captain", "Head of Personnel")
-	required_players = 15
+	required_players = 8
 	required_enemies = 1
-	recommended_enemies = 4
+	recommended_enemies = 2
 
 
 	var/const/prob_int_murder_target = 50 // intercept names the assassination target half the time
