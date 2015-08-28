@@ -1,0 +1,315 @@
+
+
+Starting up. 11:13.37
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[11:13:37]ADMIN: Loading Banlistjob
+[11:13:37]ADMIN: Loading jobban_rank
+[11:13:37]ADMIN: jobban_keylist was empty
+[11:13:37]ADMIN: Loading appearance_rank
+[11:13:37]ADMIN: appearance_keylist was empty
+[11:13:37]ADMIN: Updating jobbanfile!
+[11:13:37]ADMIN: Loading Banlist
+[11:13:55]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[11:14:24]ADMIN: Wjcowart has started the game.
+[11:14:24]GAME: Wjcowart (ckey) has been selected as a traitor
+[11:14:24]ACCESS: Logout: *no key*/(Wjcowart)
+[11:14:24]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:14:52]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[11:14:54]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:15:05]SAY: space bear/ : Rawr!
+[11:15:09]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:15:30]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[11:15:53]SAY: space bear/ : Growl!
+[11:16:26]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[11:17:23]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[11:17:25]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[11:17:29]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[11:17:32]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[11:17:32]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[11:17:57]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[11:18:30]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[11:18:43]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[11:18:45]SAY: grey baby slime (442)/ : Lonely...
+[11:19:12]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:19:24]ACCESS: Login: Santiagoflow111s/(Santiagoflow111s) from 186.86.103.11-3615202195 || BYOND v508
+[11:19:31]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[11:19:33]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:19:34]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+[11:19:41]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:19:46]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[11:19:50]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[11:19:52]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[11:20:11]SAY: grey baby slime (968)/ : Rawr...
+[11:20:13]EMOTE: space carp/ : <B>The space carp</B> nashes at the basilisk!
+[11:20:32]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:20:49]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:21:10]SAY: grey baby slime (442)/ : Rawr...
+[11:21:12]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[11:21:16]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:21:33]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:21:37]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:22:05]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:22:19]ACCESS: Logout: *no key*/(Santiagoflow111s)
+[11:22:19]ACCESS: Login: Santiagoflow111s/(Grayson Pfeifer) from 186.86.103.11-3615202195 || BYOND v508
+[11:22:19]EMOTE: monkey (220)/ : <B>The monkey (220)</B> jumps!
+[11:22:30]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:22:34]ADMIN: HELP: Santiagoflow111s/(Grayson Pfeifer): Hello.. - heard by 1 non-AFK admins who have +BAN.
+[11:22:39]ADMIN: PM: Wjcowart/(Shaun Rhinehart)->Santiagoflow111s/(Grayson Pfeifer): yo yo
+[11:22:47]SAY: space bear/ : RAWR!
+[11:22:49]ADMIN: PM: Wjcowart/(Shaun Rhinehart)->Santiagoflow111s/(Grayson Pfeifer): welcome to the unofficial dev team
+[11:23:35]ADMIN: PM: Wjcowart/(Shaun Rhinehart)->Santiagoflow111s/(Grayson Pfeifer): no real access on the doors yet, but I'mma give you an all access ID to explore
+[11:23:39]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[11:23:39]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:24:40]EMOTE: Poly/ : <B>Poly</B> squawks.
+[11:24:48]SAY: grey baby slime (968)/ : Rawr...
+[11:24:59]ADMIN: Wjcowart/(Shaun Rhinehart) created a /obj/item/weapon/card/id/captains_spare
+[11:25:05]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:25:07]ADMIN: Wjcowart/(Shaun Rhinehart) created a /obj/item/weapon/card/id/captains_spare
+[11:25:07]ADMIN: Wjcowart/(Shaun Rhinehart) created a /obj/item/weapon/card/id/captains_spare
+[11:25:07]ADMIN: Wjcowart/(Shaun Rhinehart) created a /obj/item/weapon/card/id/captains_spare
+[11:25:08]ADMIN: Wjcowart/(Shaun Rhinehart) created a /obj/item/weapon/card/id/captains_spare
+[11:25:12]ADMIN: Wjcowart/(Shaun Rhinehart) created a /obj/item/weapon/card/id/captains_spare
+[11:25:16]ADMIN: Wjcowart/(Shaun Rhinehart) created a /obj/item/weapon/card/id/captains_spare
+[11:25:40]ADMIN: PM: Wjcowart/(Shaun Rhinehart)->Santiagoflow111s/(Grayson Pfeifer): feel free to explore and tell me what you think
+[11:25:47]EMOTE: Poly/ : <B>Poly</B> looks in the captain's spare ID's direction and takes flight.
+[11:25:48]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[11:25:48]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:27:09]EMOTE: mouse/ : <B>The mouse</B> shakes
+[11:27:13]SAY: space bear/ : Rawr!
+[11:27:47]ADMIN: PM: Santiagoflow111s/(Grayson Pfeifer)->Wjcowart/(Shaun Rhinehart): What. .
+[11:27:51]SAY: Poly/ : Wire the solars, you lazy bums!
+[11:27:55]EMOTE: Grayson Pfeifer/Santiagoflow111s : <B>Grayson Pfeifer</B> gasps!
+[11:28:10]ADMIN: PM: Wjcowart/(Shaun Rhinehart)->Santiagoflow111s/(Grayson Pfeifer): I don't know if you've noticed yet, but the server is a work in progress...
+[11:28:16]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:28:25]EMOTE: Ian/ : <B>Ian</B> shivers.
+[11:28:35]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[11:28:45]ADMIN: Wjcowart/(Shaun Rhinehart) deleted Head of Personnel Office at (122,184,1)
+[11:28:48]EMOTE: Grayson Pfeifer/Santiagoflow111s : <B>Grayson Pfeifer</B> gasps!
+[11:28:50]SAY: space bear/ : RAWR!
+[11:29:11]EMOTE: monkey (220)/ : <B>The monkey (220)</B> jumps!
+[11:29:22]SAY: Grayson Pfeifer/Santiagoflow111s : Unm...
+[11:29:45]SAY: space bear/ : GRR!
+[11:29:49]SAY: space bear/ : RAWR!
+[11:30:08]SAY: Shaun Rhinehart/Wjcowart : Howdy
+[11:30:28]SAY: Grayson Pfeifer/Santiagoflow111s : A teleport ?
+[11:30:29]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[11:30:36]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:30:45]SAY: Shaun Rhinehart/Wjcowart : Yeah
+[11:30:46]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:31:05]EMOTE: monkey (220)/ : <B>The monkey (220)</B> jumps!
+[11:31:54]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[11:32:09]ACCESS: Logout: *no key*/(Grayson Pfeifer)
+[11:32:09]ACCESS: Login: Santiagoflow111s/(Grayson Pfeifer) from 186.86.103.11-3615202195 || BYOND v508
+[11:32:09]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[11:32:16]SAY: Ghost/Santiagoflow111s : Unmm..
+[11:32:36]SAY: Ghost/Santiagoflow111s : No energy..
+[11:33:06]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:33:08]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:33:14]SAY: mouse/ : Squeek!
+[11:33:22]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:33:23]SAY: Ghost/Santiagoflow111s : Oh good a Grenade Laucher, Is good
+[11:33:24]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:33:39]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:33:49]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[11:33:49]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:33:58]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:34:13]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:34:13]SAY: space bear/ : Rawr!
+[11:34:27]SAY: Ghost/Santiagoflow111s : Oh miner
+[11:34:30]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:34:32]SAY: Ghost/Santiagoflow111s : Is good
+[11:34:38]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:34:38]SAY: space bear/ : RAWR!
+[11:34:42]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:34:46]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:34:55]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:35:03]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:35:12]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:35:20]EMOTE: monkey (220)/ : <B>The monkey (220)</B> gasps!
+[11:35:35]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:35:49]OOC: Grayson Pfeifer/Santiagoflow111s : And the bananium ?
+[11:36:27]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:36:32]SAY: Ghost/Santiagoflow111s : Oh good drones . .
+[11:36:36]SAY: grey baby slime (35)/ : Blop...
+[11:36:46]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:37:49]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:38:05]OOC: Grayson Pfeifer/Santiagoflow111s : Oh god my favorite, Aliens hunter
+[11:39:30]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:39:36]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:39:52]OOC: Grayson Pfeifer/Santiagoflow111s : And the facehuggers .. ?
+[11:40:43]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:41:02]ACCESS: Login: Tristan63/(Tristan63) from 71.122.122.16-2411563578 || BYOND v507
+[11:41:02]SAY: space bear/ : GRR!
+[11:41:27]SAY: space bear/ : Growl!
+[11:41:36]ACCESS: Logout: Tristan63[DC]/(Tristan63)
+[11:42:04]OOC: Grayson Pfeifer/Santiagoflow111s : Room Russian, What good
+[11:42:09]SAY: space bear/ : GRR!
+[11:42:20]SAY: grey baby slime (968)/ : Blop...
+[11:42:22]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:42:28]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:43:06]SAY: space bear/ : Growl!
+[11:43:17]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[11:44:43]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:45:04]EMOTE: monkey (449)/ : <B>The monkey (449)</B> jumps!
+[11:45:55]SAY: mouse/ : SQUEEK!
+[11:46:07]SAY: grey baby slime (442)/ : Brother...
+[11:46:30]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:47:50]EMOTE: monkey (449)/ : <B>The monkey (449)</B> jumps!
+[11:47:52]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[11:48:03]SAY: space bear/ : Growl!
+[11:48:30]SAY: space bear/ : Growl!
+[11:48:40]SAY: mouse/ : Squeek!
+[11:49:10]SAY: space bear/ : Growl!
+[11:49:35]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:49:48]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:50:02]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:50:30]SAY: space bear/ : GRR!
+[11:52:02]SAY: Hudson/ : Growl!
+[11:52:02]SAY: space bear/ : Rawr!
+[11:52:10]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:52:27]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:52:40]OOC: Grayson Pfeifer/Santiagoflow111s : #4nd%-..... What &#39;
+[11:52:41]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[11:52:41]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:52:46]SAY: Hudson/ : GRR!
+[11:53:03]SAY: grey baby slime (968)/ : Blop...
+[11:53:05]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[11:53:26]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:53:39]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:54:54]ACCESS: Login: Waldoismissingagain/(Waldoismissingagain) from 74.110.232.44-1564562476 || BYOND v507
+[11:54:59]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:55:03]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:55:47]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[11:56:04]EMOTE: Ian/ : <B>Ian</B> yaps.
+[11:56:06]ACCESS: Logout: Santiagoflow111s[DC]/(Grayson Pfeifer)
+[11:56:14]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:56:58]SAY: grey baby slime (968)/ : Blorble...
+[11:57:15]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:57:51]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:57:53]SAY: space bear/ : Growl!
+[11:58:10]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:58:58]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[11:59:32]SAY: grey baby slime (968)/ : I want to eat...
+[11:59:44]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:00:24]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[12:00:43]SAY: grey baby slime (968)/ : Lonely...
+[12:01:06]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:01:23]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+[12:02:01]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[12:02:22]EMOTE: space bear/ : <B>The space bear</B> stomps
+[12:02:24]GAME: Explosion with size (-1, 0, 3, 4) in area Primary Tool Storage (162,135,1)
+[12:02:24]GAME: Explosion with size (0, 1, 5, 5) in area Primary Tool Storage (164,137,1)
+[12:02:24]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (164,137,1)
+[12:02:36]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[12:02:59]SAY: space bear/ : GRR!
+[12:03:13]ACCESS: Logout: Waldoismissingagain[DC]/(Waldoismissingagain)
+
+
+Starting up. 12:04.13
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[12:04:13]ADMIN: Loading Banlistjob
+[12:04:13]ADMIN: Loading jobban_rank
+[12:04:13]ADMIN: jobban_keylist was empty
+[12:04:13]ADMIN: Loading appearance_rank
+[12:04:13]ADMIN: appearance_keylist was empty
+[12:04:13]ADMIN: Updating jobbanfile!
+[12:04:13]ADMIN: Loading Banlist
+[12:16:24]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[12:16:39]ACCESS: Logout: Wjcowart[DC]/(Wjcowart)
+[14:31:21]ACCESS: Login: Banthebantz/(Banthebantz) from 81.151.237.87-2699272042 || BYOND v508
+[14:31:46]ACCESS: Logout: Banthebantz[DC]/(Banthebantz)
+[14:32:45]ACCESS: Login: Rodocks/(Rodocks) from 98.217.210.72-4054512915 || BYOND v507
+[14:34:17]GAME: Rodocks (ckey) has been selected as a traitor
+[14:34:17]ACCESS: Logout: *no key*/(Rodocks)
+[14:34:17]ACCESS: Login: Rodocks/(Alysha Garrison) from 98.217.210.72-4054512915 || BYOND v507
+[14:34:23]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[14:34:36]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[14:35:01]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[14:35:12]EMOTE: Ian/ : <B>Ian</B> dances around.
+[14:35:14]SAY: grey baby slime (985)/ : Rawr...
+[14:35:22]SAY: space bear/ : Growl!
+[14:35:29]EMOTE: Poly/ : <B>Poly</B> squawks.
+[14:35:41]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[14:35:50]SAY: space bear/ : GRR!
+[14:36:00]EMOTE: monkey (995)/ : <B>The monkey (995)</B> jumps!
+[14:36:40]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[14:37:18]SAY: space bear/ : Growl!
+[14:37:47]SAY: grey baby slime (985)/ : Blop...
+[14:37:47]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[14:38:00]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[14:38:06]SAY: space bear/ : GRR!
+[14:38:06]ACCESS: Logout: Rodocks[DC]/(Mlgclown)
+
+
+Starting up. 14:45.13
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[14:45:13]ADMIN: Loading Banlistjob
+[14:45:13]ADMIN: Loading jobban_rank
+[14:45:13]ADMIN: jobban_keylist was empty
+[14:45:13]ADMIN: Loading appearance_rank
+[14:45:13]ADMIN: appearance_keylist was empty
+[14:45:13]ADMIN: Updating jobbanfile!
+[14:45:13]ADMIN: Loading Banlist
