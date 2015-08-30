@@ -1,0 +1,353 @@
+
+
+Starting up. 02:56.13
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[02:56:13]ADMIN: Loading Banlistjob
+[02:56:13]ADMIN: Loading jobban_rank
+[02:56:13]ADMIN: jobban_keylist was empty
+[02:56:13]ADMIN: Loading appearance_rank
+[02:56:13]ADMIN: appearance_keylist was empty
+[02:56:13]ADMIN: Updating jobbanfile!
+[02:56:13]ADMIN: Loading Banlist
+[02:57:35]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[02:59:26]ADMIN: Wjcowart/(Wjcowart) delayed the game.
+[03:00:45]ACCESS: Login: Cairo283/(Cairo283) from 96.50.107.66-2795721299 || BYOND v508
+[03:01:10]ADMIN: Wjcowart has started the game.
+[03:01:10]GAME: Wjcowart (ckey) has been selected as a traitor
+[03:01:10]ACCESS: Logout: *no key*/(Wjcowart)
+[03:01:10]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[03:01:11]ACCESS: Logout: *no key*/(Cairo283)
+[03:01:11]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[03:01:11]SAY: Hudson/ : Rawr!
+[03:01:19]ADMIN: Cairo283/(Matthew Rhinehart) jumped to *no key*/(Bert)
+[03:01:34]SAY: Ian/ : Woof!
+[03:01:42]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[03:02:02]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived *no key*/(Alcatraz)
+[03:02:10]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[03:02:12]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived *no key*/(Alcatraz)
+[03:02:21]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived *no key*/(Alcatraz)
+[03:02:33]EMOTE: space bear/ : <B>The space bear</B> grawls
+[03:02:48]EMOTE: Proc/ : <B>Proc</B> shivers
+[03:02:50]ADMIN: Wjcowart/(Shaun Rhinehart) modified Alcatraz's health to 500
+[03:03:06]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[03:03:06]EMOTE: Ian/ : <B>Ian</B> woofs!
+[03:03:29]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived *no key*/(Alcatraz)
+[03:03:32]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived *no key*/(Alcatraz)
+[03:03:45]ADMIN: Wjcowart/(Shaun Rhinehart) modified Alcatraz's healths to 50
+[03:03:57]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:04:05]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:04:39]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:04:49]SAY: space bear/ : Rawr!
+[03:05:06]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[03:05:20]ADMIN: Cairo283/(Matthew Rhinehart) deleted the bed at (95,171,1)
+[03:05:29]SAY: space bear/ : RAWR!
+[03:05:42]SAY: grey baby slime (128)/ : Rawr...
+[03:05:59]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:06:15]EMOTE: Ian/ : <B>Ian</B> yaps.
+[03:06:18]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:06:24]EMOTE: monkey (396)/ : <B>The monkey (396)</B> jumps!
+[03:06:45]SAY: grey baby slime (128)/ : Rawr...
+[03:06:45]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[03:06:45]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[03:07:00]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[03:07:00]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:07:00]SAY: space bear/ : Rawr!
+[03:08:07]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:08:07]SAY: grey baby slime (869)/ : Rawr...
+[03:08:34]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[03:08:59]SAY: space bear/ : RAWR!
+[03:09:26]ADMIN: Cairo283/(Matthew Rhinehart) has possessed   (/obj/screen) at an unknown location
+[03:09:32]ACCESS: Logout: *no key*/( )
+[03:09:32]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[03:09:46]ADMIN: Cairo283/(Matthew Rhinehart) teleported @Cairo283[DC]/( )
+[03:09:48]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[03:09:48]ACCESS: Login: Cairo283/( ) from 96.50.107.66-2795721299 || BYOND v508
+[03:09:54]SAY: space bear/ : GRR!
+[03:10:10]ADMIN: Cairo283/( ) teleported Cairo283/( )
+[03:10:16]ADMIN: Cairo283/( ) jumped to Wjcowart/(Shaun Rhinehart)
+[03:10:19]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[03:10:23]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[03:10:38]ADMIN: Wjcowart/(Shaun Rhinehart) deleted   (as Matthew Rhinehart) at (127,135,1)
+[03:10:38]ACCESS: Logout: *no key*/( )
+[03:10:38]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[03:10:42]SAY: grey baby slime (128)/ : Lonely...
+[03:10:44]SAY: space bear/ : Growl!
+[03:10:53]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[03:11:00]ADMIN: Cairo283/(Matthew Rhinehart) assumed direct control of Eustace Hoenshell.
+[03:11:00]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[03:11:00]ACCESS: Login: cairo283/(Eustace Hoenshell) from 96.50.107.66-2795721299 || BYOND v508
+[03:11:35]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[03:11:54]SAY: Hudson/ : Rawr!
+[03:12:02]ADMIN: cairo283/(Eustace Hoenshell) changed the equipment of cairo283/(Eustace Hoenshell) to soviet admiral.
+[03:12:33]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[03:13:36]SAY: space bear/ : Rawr!
+[03:13:43]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:13:49]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[03:14:14]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[03:14:22]EMOTE: Eustace Hoenshell/cairo283 : <B>Eustace Hoenshell</B> screams!
+[03:14:52]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[03:15:19]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[03:15:21]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:15:32]EMOTE: Runtime/ : <B>Runtime</B> meows
+[03:15:34]SAY: Gus/ : MOOOOOO
+[03:15:34]EMOTE: monkey (396)/ : <B>The monkey (396)</B> jumps!
+[03:15:46]EMOTE: Eustace Hoenshell/cairo283 : <B>Eustace Hoenshell</B> screams!
+[03:15:55]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:15:55]EMOTE: Eustace Hoenshell/cairo283 : <B>Eustace Hoenshell</B> gasps!
+[03:15:57]EMOTE: Eustace Hoenshell/cairo283 : <B>Eustace Hoenshell</B> seizes up and falls limp, her eyes dead and lifeless...
+[03:16:00]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:16:01]SAY: space bear/ : GRR!
+[03:16:16]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[03:16:16]EMOTE: space bear/ : <B>The space bear</B> grawls
+[03:16:23]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:16:26]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:16:37]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:16:41]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:16:43]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[03:16:45]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:16:54]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:17:00]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:17:02]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:17:04]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:17:07]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:17:31]EMOTE: Eustace Hoenshell/cairo283 : <B>Eustace Hoenshell</B> screams!
+[03:17:34]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:17:36]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:17:41]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:17:44]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[03:17:44]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[03:18:05]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[03:18:05]SAY: space bear/ : RAWR!
+[03:18:16]SAY: Runtime/ : Purr!
+[03:18:24]SAY: Poly/ : Wire the solars, you lazy bums!
+[03:18:47]SAY: space bear/ : Rawr!
+[03:18:51]ADMIN: Wjcowart(wjcowart) smote Eustace Hoenshell (cairo283) in burn for 999 damage.
+[03:18:51]EMOTE: Eustace Hoenshell/cairo283 : <B>Eustace Hoenshell</B> seizes up and falls limp, her eyes dead and lifeless...
+[03:18:57]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:19:24]ADMIN: cairo283/(Eustace Hoenshell) teleported Wjcowart/(Shaun Rhinehart)
+[03:19:38]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[03:19:44]EMOTE: Eustace Hoenshell/cairo283 : <B>Eustace Hoenshell</B> screams!
+[03:20:02]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:20:27]EMOTE: Unknown/cairo283 : <B>Unknown</B> assists global warming!
+[03:20:27]ADMIN: Wjcowart/(Shaun Rhinehart) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:20:46]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:20:53]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[03:21:02]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[03:21:08]SAY: Gus/ : Moo
+[03:21:46]EMOTE: Runtime/ : <B>Runtime</B> meows
+[03:21:49]ADMIN: cairo283/(Eustace Hoenshell) teleported *no key*/(Mega Space Carp)
+[03:21:50]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Unknown!
+[03:22:00]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:22:03]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[03:22:09]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:22:09]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:22:15]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Unknown!
+[03:22:28]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Shaun Rhinehart!
+[03:22:34]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Unknown!
+[03:22:40]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Unknown!
+[03:22:45]EMOTE: space bear/ : <B>The space bear</B> stomps
+[03:22:45]SAY: Hudson/ : Rawr!
+[03:22:54]ADMIN: cairo283/(Eustace Hoenshell) teleported *no key*/(Hudson)
+[03:22:55]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Mega Space Carp
+[03:22:55]SAY: space bear/ : Growl!
+[03:22:55]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Hudson!
+[03:23:22]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Mega Space Carp
+[03:23:22]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Shaun Rhinehart!
+[03:23:31]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Shaun Rhinehart
+[03:23:31]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Hudson!
+[03:23:35]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[03:23:35]EMOTE: Hudson/ : <B>Hudson</B> stares alertly at Shaun Rhinehart
+[03:23:35]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Hudson!
+[03:23:58]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[03:24:02]EMOTE: space bear/ : <B>The space bear</B> stomps
+[03:24:27]EMOTE: Gus/ : <B>Gus</B> brays
+[03:24:39]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> screams!
+[03:24:48]SAY: grey baby slime (128)/ : Lonely...
+[03:24:51]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> screams!
+[03:24:53]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> whimpers.
+[03:25:00]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:25:41]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[03:25:54]EMOTE: Unknown/cairo283 : <B>Unknown</B> gasps!
+[03:26:00]EMOTE: Gus/ : <B>Gus</B> brays
+[03:26:21]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[03:26:21]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:26:29]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[03:26:35]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:26:39]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:26:40]EMOTE: space bear/ : <B>The space bear</B> stomps
+[03:26:46]SAY: grey baby slime (869)/ : Blorble...
+[03:26:48]ADMIN: Wjcowart/(Shaun Rhinehart) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:26:52]ADMIN: Wjcowart/(Shaun Rhinehart) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:26:58]ADMIN: Wjcowart/(Shaun Rhinehart) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:27:03]ADMIN: Wjcowart/(Shaun Rhinehart) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:27:06]ADMIN: Wjcowart/(Shaun Rhinehart) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:27:09]ADMIN: Wjcowart/(Shaun Rhinehart) healed / Revived Wjcowart/(Shaun Rhinehart)
+[03:27:24]ADMIN: cairo283/(Eustace Hoenshell) has triggered an event. (Meteor Wave)
+[03:27:28]SAY: Proc/ : HSSSSS
+[03:27:32]ADMIN: cairo283/(Eustace Hoenshell) has triggered an event. (Blob)
+[03:27:34]ADMIN: cairo283/(Eustace Hoenshell) has triggered an event. (Blob)
+[03:27:36]ADMIN: cairo283/(Eustace Hoenshell) has triggered an event. (Blob)
+[03:27:36]EMOTE: Unknown/cairo283 : <B>Unknown</B> seizes up and falls limp, her eyes dead and lifeless...
+[03:27:37]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:27:39]SAY: space bear/ : Growl!
+[03:28:06]SAY: mouse/ : Squeek?
+[03:28:16]EMOTE: space bear/ : <B>The space bear</B> grawls
+[03:28:18]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[03:28:18]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[03:28:31]SAY: space bear/ : Growl!
+[03:28:43]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:29:20]ADMIN: cairo283/(Eustace Hoenshell) jumped to @Wjcowart[DC]/(Shaun Rhinehart)
+[03:29:34]ACCESS: Logout: *no key*/(Eustace Hoenshell)
+[03:29:34]ACCESS: Login: cairo283/(Eustace Hoenshell) from 96.50.107.66-2795721299 || BYOND v508
+[03:29:36]GAME: <A HREF='?_src_=holder;adminmoreinfo=[0x2a000000]'>?</A>  has triggered a gibtonite deposit reaction <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=39;Z=1'>Mine (JMP)</a>.
+[03:29:42]SAY: Hudson/ : Growl!
+[03:29:57]SAY: space bear/ : Growl!
+[03:30:07]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[03:30:07]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[03:30:15]ACCESS: Logout: *no key*/(Eustace Hoenshell)
+[03:30:15]ACCESS: Login: cairo283/(Eustace Hoenshell) from 96.50.107.66-2795721299 || BYOND v508
+[03:30:18]EMOTE: monkey (396)/ : <B>The monkey (396)</B> jumps!
+[03:30:25]ADMIN: cairo283/(Eustace Hoenshell) jumped to Wjcowart/(Shaun Rhinehart)
+[03:31:11]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[03:31:34]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+[03:31:53]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:31:55]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[03:32:01]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[03:32:02]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[03:32:02]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[03:32:03]ADMIN: cairo283/(Eustace Hoenshell) created a /obj/item/weapon/storage/part_replacer
+[03:32:14]EMOTE: Shaun Rhinehart/@Wjcowart : <B>Shaun Rhinehart</B> coughs painfuly!
+[03:32:14]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[03:32:16]EMOTE: Shaun Rhinehart/@Wjcowart : <B>Shaun Rhinehart</B> whimpers.
+[03:32:18]EMOTE: Shaun Rhinehart/@Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[03:32:26]ADMIN: cairo283/(Eustace Hoenshell) created a /obj/structure/stool/bed/chair/janicart/lawnmower
+[03:32:26]EMOTE: Shaun Rhinehart/@Wjcowart : <B>Shaun Rhinehart</B> groans in pain!
+[03:32:41]EMOTE: Shaun Rhinehart/@Wjcowart : <B>Shaun Rhinehart</B> coughs painfuly!
+[03:32:49]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[03:32:51]EMOTE: Shaun Rhinehart/@Wjcowart : <B>Shaun Rhinehart</B> whimpers.
+[03:32:56]EMOTE: Shaun Rhinehart/@Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[03:32:59]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived @Wjcowart[DC]/(Shaun Rhinehart)
+[03:33:02]SAY: Gus/ : Moo
+[03:33:04]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[03:33:15]GAME: Explosion with size (3, 5, 7, 0) in area Cargo Office (161,148,1)
+[03:33:27]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[03:34:20]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:34:21]ADMIN: Cairo283/(Eustace Hoenshell) played sound Smashmouth_-_All_Star.mid
+[03:34:32]GAME: Explosion with size (-1, 3, 8, 0) in area Hydroponics (146,129,1)
+[03:34:32]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[03:34:33]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (128,171,1)
+[03:34:36]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (130,124,1)
+[03:34:36]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[03:34:48]ADMIN: Announce: Wjcowart/(Shaun Rhinehart) : DROPPIN ST8 FIRE
+
+[03:34:51]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (127,133,1)
+[03:34:53]GAME: Explosion with size (1, 2, 3, 0) in area Space (128,103,1)
+[03:34:56]GAME: Explosion with size (1, 2, 3, 0) in area Space (132,99,1)
+[03:34:59]GAME: Explosion with size (1, 2, 3, 0) in area Space (124,98,1)
+[03:35:03]GAME: Explosion with size (1, 2, 3, 0) in area Space (122,103,1)
+[03:35:06]GAME: Explosion with size (1, 2, 3, 0) in area Space (128,102,1)
+[03:35:10]GAME: Explosion with size (2, 3, 4, 0) in area Space (122,95,1)
+[03:35:14]GAME: Explosion with size (1, 2, 3, 0) in area Space (128,98,1)
+[03:35:17]GAME: Explosion with size (1, 2, 3, 0) in area Space (118,98,1)
+[03:35:22]GAME: Explosion with size (3, 5, 7, 0) in area Space (130,101,1)
+[03:35:25]GAME: Explosion with size (1, 2, 3, 0) in area Space (97,100,1)
+[03:35:31]GAME: Explosion with size (1, 2, 3, 0) in area Space (108,91,1)
+[03:35:34]GAME: Explosion with size (1, 2, 3, 0) in area Space (119,99,1)
+[03:35:44]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[03:35:45]GAME: Explosion with size (3, 5, 7, 0) in area Space (87,90,1)
+[03:35:49]ADMIN: cairo283/(Eustace Hoenshell) healed / Revived cairo283/(Eustace Hoenshell)
+[03:35:54]GAME: Explosion with size (1, 2, 3, 0) in area Space (86,96,1)
+[03:35:57]GAME: Explosion with size (1, 2, 3, 0) in area Detective's Office (78,104,1)
+[03:35:58]ACCESS: Logout: *no key*/(Eustace Hoenshell)
+[03:35:58]ACCESS: Login: cairo283/(Eustace Hoenshell) from 96.50.107.66-2795721299 || BYOND v508
+[03:36:14]ADMIN: cairo283/(Eustace Hoenshell) spawned /obj/structure/stool/bed/chair/janicart/lawnmower at (76,102,1)
+[03:36:20]GAME: Explosion with size (1, 2, 3, 0) in area Maintenance (179,156,1)
+[03:36:22]GAME: Explosion with size (1, 2, 3, 0) in area Maintenance (178,156,1)
+[03:36:34]ADMIN: cairo283/(Eustace Hoenshell) assumed direct control of Margaret Russell.
+[03:36:34]ACCESS: Logout: *no key*/(Eustace Hoenshell)
+[03:36:34]ACCESS: Login: cairo283/(Margaret Russell) from 96.50.107.66-2795721299 || BYOND v508
+[03:36:36]GAME: Explosion with size (1, 2, 3, 0) in area Brig (95,160,1)
+[03:37:17]SAY: mouse/ : Squeek?
+[03:37:19]EMOTE: space bear/ : <B>The space bear</B> stomps
+[03:37:19]GAME: Explosion with size (3, 7, 14, 0) in area Space (132,91,1)
+[03:37:33]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:37:41]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 4, 8, 16
+[03:37:41]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:44]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 5, 10, 20
+[03:37:44]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:45]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 7, 14, 28
+[03:37:45]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:46]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 14, 28, 56
+[03:37:46]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:46]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 32, 64, 128
+[03:37:46]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:48]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 3, 7, 14
+[03:37:48]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:49]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 4, 8, 16
+[03:37:49]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:49]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 5, 10, 20
+[03:37:49]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:49]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 7, 14, 28
+[03:37:49]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:51]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 14, 28, 56
+[03:37:51]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:52]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 32, 64, 128
+[03:37:52]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:52]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 3, 7, 14
+[03:37:52]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:53]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 4, 8, 16
+[03:37:53]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:54]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 5, 10, 20
+[03:37:54]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:54]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 7, 14, 28
+[03:37:54]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:55]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 14, 28, 56
+[03:37:55]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:56]ADMIN: Wjcowart/(Shaun Rhinehart) changed the bomb cap to 32, 64, 128
+[03:37:56]ADMIN: Wjcowart/(Shaun Rhinehart) used secret togglebombcap
+[03:37:56]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[03:38:20]SAY: grey baby slime (484)/ : Blop...
+[03:38:26]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:39:25]SAY: grey baby slime (128)/ : Lonely...
+[03:39:48]ADMIN: Cairo283/(Margaret Russell) played sound John Cena (The Time Is Now)(MyMp3Song.Com).mid
+[03:39:54]EMOTE: Margaret Russell/cairo283 : <B>Margaret Russell</B> gasps!
+[03:39:56]GAME: Explosion with size (-1, -1, 4, 0) in area north of SS13 (127,223,1)
+[03:39:57]GAME: Explosion with size (-1, -1, 4, 0) in area Space (215,27,1)
+[03:39:58]GAME: Explosion with size (-1, -1, 2, 0) in area Space (48,173,1)
+[03:39:59]GAME: Explosion with size (-1, -1, 2, 0) in area Space (26,175,1)
+[03:40:00]GAME: Explosion with size (-1, -1, 2, 0) in area Space (183,47,1)
+[03:40:01]GAME: Explosion with size (-1, -1, 3, 0) in area Chief Medical Officer's office (101,148,1)
+[03:40:03]GAME: Explosion with size (-1, -1, 4, 0) in area Space (208,88,1)
+[03:40:03]GAME: Explosion with size (-1, -1, 4, 0) in area supply shuttle (198,146,1)
+[03:40:05]GAME: Explosion with size (-1, -1, 4, 0) in area north of SS13 (120,213,1)
+[03:40:06]GAME: Explosion with size (-1, -1, 3, 0) in area Mine (8,144,1)
+[03:40:07]GAME: Explosion with size (-1, -1, 2, 0) in area Space (20,130,1)
+[03:40:08]GAME: Explosion with size (-1, -1, 4, 0) in area Space (149,208,1)
+[03:40:10]GAME: Explosion with size (32, 64, 128, 0) in area Space (168,86,1)
+[03:40:10]GAME: <A HREF='?_src_=holder;adminmoreinfo=[mob_98]'>?</A>  has triggered a gibtonite deposit reaction <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=104;Y=3;Z=1'>Mine (JMP)</a>.
+[03:40:11]GAME: <A HREF='?_src_=holder;adminmoreinfo=[mob_98]'>?</A>  has triggered a gibtonite deposit reaction <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=8;Z=1'>Mine (JMP)</a>.
+[03:40:12]GAME: <A HREF='?_src_=holder;adminmoreinfo=[mob_98]'>?</A>  has triggered a gibtonite deposit reaction <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=11;Z=1'>Mine (JMP)</a>.
+[03:40:12]GAME: <A HREF='?_src_=holder;adminmoreinfo=[mob_98]'>?</A>  has triggered a gibtonite deposit reaction <A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=223;Y=11;Z=1'>Mine (JMP)</a>.
+[03:45:59]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+[03:45:59]ACCESS: Logout: cairo283[DC]/(Margaret Russell)
