@@ -385,3 +385,57 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [05:04:52]ADMIN: Loading Banlist
 [05:05:34]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
 [05:07:32]ADMIN: Wjcowart/(Wjcowart) delayed the game.
+
+
+Starting up. 20:14.54
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[20:14:54]ADMIN: Loading Banlistjob
+[20:14:54]ADMIN: Loading jobban_rank
+[20:14:54]ADMIN: jobban_keylist was empty
+[20:14:54]ADMIN: Loading appearance_rank
+[20:14:54]ADMIN: appearance_keylist was empty
+[20:14:54]ADMIN: Updating jobbanfile!
+[20:14:54]ADMIN: Loading Banlist
+[20:15:40]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[20:16:18]ADMIN: Wjcowart has started the game.
+[20:16:19]GAME: Wjcowart (ckey) has been selected as a traitor
+[20:16:19]ACCESS: Logout: *no key*/(Wjcowart)
+[20:16:19]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[20:16:36]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the faggot.
+[20:17:49]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[20:17:54]SAY: space bear/ : GRR!
+[20:18:23]SAY: space bear/ : RAWR!
+[20:18:35]ADMIN: Wjcowart/(Shingle) created a /obj/item/weapon/card/id/admin
+[20:18:46]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[20:18:50]EMOTE: Poly/ : <B>Poly</B> bawks!
+[20:18:52]SAY: Proc/ : HSSSSS
+[20:19:07]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:19:34]SAY: grey baby slime (868)/ : Blop...
+[20:19:47]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[20:20:09]ADMIN: Wjcowart/(Shingle) made all areas powered
+[20:20:12]ADMIN: Wjcowart/(Shingle) used secret power
+[20:20:19]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[20:20:23]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:20:51]SAY: grey baby slime (868)/ : Blorble...
+[20:20:57]ACCESS: Logout: Wjcowart[DC]/(Shingle)

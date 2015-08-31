@@ -27,7 +27,7 @@
 //MINOR TWEAKS/MISC
 #define AGE_MIN				0	//youngest a character can be
 #define AGE_MAX				100	//oldest a character can be
-#define SHOES_SLOWDOWN		1	//How much shoes slow you down by default. Negative values speed you up
+#define SHOES_SLOWDOWN		0.1	//How much shoes slow you down by default. Negative values speed you up
 #define POCKET_STRIP_DELAY			40	//time taken (in deciseconds) to search somebody's pockets
 #define DOOR_CRUSH_DAMAGE	25	//the amount of damage that airlocks deal when they crush you
 
