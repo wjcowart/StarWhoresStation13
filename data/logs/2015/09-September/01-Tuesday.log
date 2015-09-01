@@ -1,0 +1,77 @@
+
+
+Starting up. 05:08.12
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[05:08:12]ADMIN: Loading Banlistjob
+[05:08:12]ADMIN: Loading jobban_rank
+[05:08:12]ADMIN: jobban_keylist was empty
+[05:08:12]ADMIN: Loading appearance_rank
+[05:08:12]ADMIN: appearance_keylist was empty
+[05:08:12]ADMIN: Updating jobbanfile!
+[05:08:12]ADMIN: Loading Banlist
+[05:08:36]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[05:08:56]ADMIN: Cairo283 has started the game.
+[05:08:57]GAME: Cairo283 (ckey) has been selected as a traitor
+[05:08:57]ACCESS: Logout: *no key*/(Cairo283)
+[05:08:57]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[05:09:03]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[05:09:16]SAY: Poly/ : Poly wanna cracker!
+[05:09:24]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[05:09:26]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[05:09:41]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to centcom official.
+[05:10:02]SAY: Hudson/ : Rawr!
+[05:10:08]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[05:10:15]EMOTE: monkey (697)/ : <B>The monkey (697)</B> jumps!
+[05:10:51]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[05:11:01]SAY: grey baby slime (257)/ : Blorble...
+[05:11:05]SAY: space bear/ : RAWR!
+[05:11:12]SAY: space bear/ : Growl!
+[05:11:35]EMOTE: mouse/ : <B>The mouse</B> shakes
+[05:11:37]EMOTE: space bear/ : <B>The space bear</B> stomps
+[05:11:41]SAY: grey baby slime (267)/ : Blop...
+[05:11:49]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[05:11:54]SAY: Ian/ : Woof!
+[05:12:25]SAY: Gus/ : Moo?
+[05:12:48]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[05:13:55]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[05:14:10]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[05:14:31]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:14:42]EMOTE: space bear/ : <B>The space bear</B> stomps
+[05:14:44]SAY: space bear/ : RAWR!
+[05:15:09]SAY: space bear/ : GRR!
+[05:15:17]EMOTE: space bear/ : <B>The space bear</B> grawls
+[05:15:17]SAY: Hudson/ : Rawr!
+[05:15:34]SAY: space bear/ : Rawr!
+[05:15:43]EMOTE: Gus/ : <B>Gus</B> brays
+[05:15:46]ADMIN: Cairo283/(Matthew Rhinehart) deleted the grille at (169,156,1)
+[05:16:16]SAY: mouse/ : SQUEEK!
+[05:16:43]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[05:17:07]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/flashlight/flare/torch at (172,148,1)
+[05:17:23]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[05:17:32]SAY: Hudson/ : Rawr!
+[05:18:39]EMOTE: Proc/ : <B>Proc</B> meows
+[05:19:15]SAY: space bear/ : Rawr!
+[05:19:52]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[05:19:52]EMOTE: monkey (697)/ : <B>The monkey (697)</B> jumps!
+[05:20:09]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)

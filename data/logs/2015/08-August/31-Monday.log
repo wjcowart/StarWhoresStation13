@@ -1,0 +1,32 @@
+
+
+Starting up. 22:00.58
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[22:00:59]ADMIN: Loading Banlistjob
+[22:00:59]ADMIN: Loading jobban_rank
+[22:00:59]ADMIN: jobban_keylist was empty
+[22:00:59]ADMIN: Loading appearance_rank
+[22:00:59]ADMIN: appearance_keylist was empty
+[22:00:59]ADMIN: Updating jobbanfile!
+[22:00:59]ADMIN: Loading Banlist
