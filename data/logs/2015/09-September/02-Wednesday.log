@@ -69,3 +69,123 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [00:14:27]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
 [00:15:01]EMOTE: space bear/ : <B>The space bear</B> grumbles
 [00:15:07]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+
+
+Starting up. 03:03.15
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[03:03:15]ADMIN: Loading Banlistjob
+[03:03:15]ADMIN: Loading jobban_rank
+[03:03:15]ADMIN: jobban_keylist was empty
+[03:03:15]ADMIN: Loading appearance_rank
+[03:03:15]ADMIN: appearance_keylist was empty
+[03:03:15]ADMIN: Updating jobbanfile!
+[03:03:15]ADMIN: Loading Banlist
+[03:03:47]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[03:04:03]ADMIN: Cairo283 has started the game.
+[03:04:03]ACCESS: Logout: *no key*/(Cairo283)
+[03:04:03]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[03:04:09]ACCESS: Logout: *no key*/(Goose McSunny)
+[03:04:09]ACCESS: Login: Cairo283/(Goose McSunny) from 127.0.0.1-2795721299 || BYOND v508
+[03:04:25]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[03:04:27]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the chief engineer's rubber stamp.
+[03:04:31]SAY: space bear/ : RAWR!
+[03:04:33]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[03:04:35]EMOTE: monkey (578)/ : <B>The monkey (578)</B> jumps!
+[03:04:35]ADMIN: Cairo283/(Goose McSunny) teleported @Cairo283[DC]/(Goose McSunny)
+[03:04:36]ACCESS: Logout: *no key*/(Goose McSunny)
+[03:04:36]ACCESS: Login: Cairo283/(Goose McSunny) from 127.0.0.1-2795721299 || BYOND v508
+[03:05:09]SAY: Runtime/ : Meow!
+[03:05:22]EMOTE: space bear/ : <B>The space bear</B> stomps
+[03:05:30]SAY: space bear/ : Growl!
+[03:05:36]ADMIN: Cairo283/(Goose McSunny) changed the equipment of Cairo283/(Goose McSunny) to centcom official.
+[03:05:43]SAY: space bear/ : GRR!
+[03:05:45]SAY: space bear/ : Growl!
+[03:05:49]ADMIN: Cairo283/(Goose McSunny) changed the equipment of Cairo283/(Goose McSunny) to special ops officer.
+[03:06:12]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:06:23]SAY: Gus/ : Moo?
+[03:06:37]SAY: space bear/ : Growl!
+[03:06:44]ADMIN: Cairo283/(Goose McSunny) deleted the grille at (150,118,1)
+[03:07:13]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:07:23]ADMIN: Cairo283/(Goose McSunny) deleted Virology Exterior Airlock at (146,84,1)
+[03:07:28]ADMIN: Cairo283/(Goose McSunny) deleted Virology Interior Airlock at (146,80,1)
+[03:07:28]SAY: Hudson/ : Rawr!
+[03:07:55]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[03:08:14]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[03:08:14]SAY: Hudson/ : Growl!
+[03:08:16]EMOTE: space bear/ : <B>The space bear</B> stomps
+[03:08:46]SAY: space bear/ : Rawr!
+[03:08:58]EMOTE: Runtime/ : <B>Runtime</B> meows
+[03:09:44]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[03:09:51]SAY: space bear/ : RAWR!
+[03:10:05]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[03:10:35]SAY: Ian/ : YAP!
+[03:10:41]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:10:41]SAY: mouse/ : Squeek!
+[03:11:27]SAY: Goose McSunny/Cairo283 : Well that&#39;s a problem
+[03:11:52]SAY: grey baby slime (442)/ : Blorble...
+[03:12:25]ACCESS: Logout: Cairo283[DC]/(Goose McSunny)
+
+
+Starting up. 03:52.48
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[03:52:48]ADMIN: Loading Banlistjob
+[03:52:48]ADMIN: Loading jobban_rank
+[03:52:48]ADMIN: jobban_keylist was empty
+[03:52:48]ADMIN: Loading appearance_rank
+[03:52:48]ADMIN: appearance_keylist was empty
+[03:52:48]ADMIN: Updating jobbanfile!
+[03:52:48]ADMIN: Loading Banlist
+[03:53:09]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[03:53:39]ADMIN: Cairo283 has started the game.
+[03:53:39]ACCESS: Logout: *no key*/(Cairo283)
+[03:53:39]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[03:53:57]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[03:54:00]EMOTE: space bear/ : <B>The space bear</B> grawls
+[03:54:07]SAY: space bear/ : GRR!
+[03:54:11]SAY: space bear/ : Rawr!
+[03:54:11]SAY: space bear/ : Rawr!
+[03:54:13]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[03:54:38]ADMIN: Cairo283/(Matthew Rhinehart) jumped to 40,193,3 in the Space debris
+[03:55:20]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
