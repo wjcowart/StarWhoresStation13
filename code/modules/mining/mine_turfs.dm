@@ -37,7 +37,7 @@
 		icon_state = rock_color
 	if(ore_overlay)
 		src.overlays += image('icons/turf/mining.dmi', ore_overlay)
-	
+
 	spawn(1)
 		var/turf/T
 		if((istype(get_step(src, NORTH), /turf/simulated/floor)) || (istype(get_step(src, NORTH), /turf/space)) || (istype(get_step(src, NORTH), /turf/simulated/shuttle/floor)))
@@ -433,7 +433,7 @@
 				new /obj/item/weapon/ore/mime(src)
 			if (src.mineralName == "Adamantine")
 				new /obj/item/weapon/ore/adamantine(src)
-	var/turf/simulated/floor/plating/asteroid/airless/N = ChangeTurf(/turf/simulated/floor/plating/asteroid/airless)
+	var/turf/simulated/floor/plating/asteroid/airless/N = ChangeTurf(/turf/simulated/floor/plating/asteroid)
 	N.fullUpdateMineralOverlays()
 	return
 
@@ -483,16 +483,21 @@
 	icon_plating = "asteroid"
 	var/dug = 0       //0 = has not yet been dug, 1 = has already been dug
 	stepsound = "concrete"
+	temperature = 175
+	thermal_conductivity = 0
 
 /turf/simulated/floor/plating/asteroid/airless
-	oxygen = 0.01
-	nitrogen = 0.01
-	temperature = TCMB
+	oxygen = 21.8366
+	nitrogen = 82.1472
+	temperature = 175
+	thermal_conductivity = 0
 
 /turf/simulated/floor/plating/asteroid/New()
 	var/proper_name = name
 	..()
 	name = proper_name
+	temperature = 100
+	thermal_conductivity = 0
 	//if (prob(50))
 	//	seedName = pick(list("1","2","3","4"))
 	//	seedAmt = rand(1,4)

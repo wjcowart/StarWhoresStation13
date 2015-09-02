@@ -56,7 +56,7 @@
 	switch(severity)
 		if(1.0)
 			//SN src = null
-			src.ChangeTurf(/turf/space)
+			src.ChangeTurf(/turf/simulated/floor/plating/asteroid)
 			return
 		if(2.0)
 			if (prob(50))

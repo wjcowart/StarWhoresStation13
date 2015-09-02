@@ -55,7 +55,7 @@ var/list/icons_to_ignore_at_floor_init = list("damaged1","damaged2","damaged3","
 		if(2.0)
 			switch(pick(1,2;75,3))
 				if(1)
-					src.ReplaceWithLattice()
+
 					if(prob(33)) new /obj/item/stack/sheet/metal(src)
 				if(2)
 					src.ChangeTurf(/turf/simulated/floor/plating/asteroid)

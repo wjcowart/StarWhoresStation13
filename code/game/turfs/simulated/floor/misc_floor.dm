@@ -91,6 +91,8 @@
 	icon = 'icons/turf/snow.dmi'
 	icon_state = "snow"
 	stepsound = "concrete" //no stepsound yet
+	temperature = 250
+	thermal_conductivity = 0
 
 /turf/simulated/floor/plating/snow/ex_act(severity, target)
 	contents_explosion(severity, target)

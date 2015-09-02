@@ -27,11 +27,11 @@
 //MINOR TWEAKS/MISC
 #define AGE_MIN				0	//youngest a character can be
 #define AGE_MAX				100	//oldest a character can be
-#define SHOES_SLOWDOWN		0.1	//How much shoes slow you down by default. Negative values speed you up
+#define SHOES_SLOWDOWN		0.01	//How much shoes slow you down by default. Negative values speed you up
 #define POCKET_STRIP_DELAY			40	//time taken (in deciseconds) to search somebody's pockets
 #define DOOR_CRUSH_DAMAGE	25	//the amount of damage that airlocks deal when they crush you
 
-#define	HUNGER_FACTOR		0.3	//factor at which mob nutrition decreases
+#define	HUNGER_FACTOR		0.15	//factor at which mob nutrition decreases
 #define	REAGENTS_METABOLISM 0.4	//How many units of reagent are consumed per tick, by default.
 #define REAGENTS_EFFECT_MULTIPLIER (REAGENTS_METABOLISM / 0.4)	// By defining the effect multiplier this way, it'll exactly adjust all effects according to how they originally were with the 0.4 metabolism
 

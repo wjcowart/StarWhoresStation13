@@ -75,3 +75,830 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [05:19:52]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
 [05:19:52]EMOTE: monkey (697)/ : <B>The monkey (697)</B> jumps!
 [05:20:09]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+
+
+Starting up. 11:19.52
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[11:19:52]ADMIN: Loading Banlistjob
+[11:19:52]ADMIN: Loading jobban_rank
+[11:19:52]ADMIN: jobban_keylist was empty
+[11:19:52]ADMIN: Loading appearance_rank
+[11:19:52]ADMIN: appearance_keylist was empty
+[11:19:52]ADMIN: Updating jobbanfile!
+[11:19:52]ADMIN: Loading Banlist
+[11:20:23]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[11:20:46]ADMIN: Wjcowart has started the game.
+[11:20:46]GAME: Wjcowart (ckey) has been selected as a traitor
+[11:20:46]ACCESS: Logout: *no key*/(Wjcowart)
+[11:20:46]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:20:46]SAY: space bear/ : Growl!
+[11:20:54]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:20:59]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:21:01]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:21:03]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[11:21:18]SAY: Proc/ : Purr!
+[11:21:27]GAME: Explosion with size (3, 5, 7, 0) in area Space (120,100,1)
+[11:21:28]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[11:21:28]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[11:21:53]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:21:59]GAME: Explosion with size (3, 5, 7, 0) in area Space (121,103,1)
+[11:22:06]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[11:22:06]GAME: Explosion with size (1, 2, 3, 0) in area Library (128,118,1)
+[11:22:33]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:22:42]SAY: space bear/ : RAWR!
+[11:23:01]GAME: Explosion with size (3, 7, 14, 0) in area Space (144,92,1)
+[11:23:03]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[11:23:11]SAY: space bear/ : GRR!
+[11:23:24]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:23:38]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:23:50]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+
+
+Starting up. 15:04.00
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[15:04:00]ADMIN: Loading Banlistjob
+[15:04:00]ADMIN: Loading jobban_rank
+[15:04:00]ADMIN: jobban_keylist was empty
+[15:04:00]ADMIN: Loading appearance_rank
+[15:04:00]ADMIN: appearance_keylist was empty
+[15:04:00]ADMIN: Updating jobbanfile!
+[15:04:00]ADMIN: Loading Banlist
+[15:04:13]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[15:04:33]ADMIN: Wjcowart has started the game.
+[15:04:33]GAME: Wjcowart (ckey) has been selected as a traitor
+[15:04:33]ACCESS: Logout: *no key*/(Wjcowart)
+[15:04:33]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[15:04:46]SAY: Hudson/ : Growl!
+[15:04:48]SAY: Hudson/ : RAWR!
+[15:04:51]GAME: Explosion with size (1, 2, 3, 0) in area Space (128,98,1)
+[15:04:53]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[15:04:53]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[15:05:11]GAME: Explosion with size (2, 3, 4, 0) in area Space (127,102,1)
+[15:05:17]GAME: Explosion with size (1, 2, 3, 0) in area Library (128,118,1)
+[15:05:20]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[15:05:21]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (128,130,1)
+[15:05:29]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[15:05:29]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[15:05:54]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+
+
+Starting up. 15:11.12
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[15:11:12]ADMIN: Loading Banlistjob
+[15:11:12]ADMIN: Loading jobban_rank
+[15:11:12]ADMIN: jobban_keylist was empty
+[15:11:12]ADMIN: Loading appearance_rank
+[15:11:12]ADMIN: appearance_keylist was empty
+[15:11:12]ADMIN: Updating jobbanfile!
+[15:11:12]ADMIN: Loading Banlist
+[15:11:28]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[15:11:48]ADMIN: Wjcowart has started the game.
+[15:11:48]GAME: Wjcowart (ckey) has been selected as a traitor
+[15:11:48]ACCESS: Logout: *no key*/(Wjcowart)
+[15:11:48]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[15:12:05]GAME: Explosion with size (3, 5, 7, 0) in area Space (128,99,1)
+[15:12:07]SAY: space bear/ : Rawr!
+[15:12:08]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[15:12:08]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[15:12:14]EMOTE: monkey (147)/ : <B>The monkey (147)</B> jumps!
+[15:12:16]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the faggot.
+[15:12:21]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (128,129,1)
+[15:12:30]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[15:12:31]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (128,143,1)
+[15:13:00]ADMIN: Wjcowart/(Shaun Rhinehart) assumed direct control of Phoebe Wilkinson.
+[15:13:00]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[15:13:00]ACCESS: Login: wjcowart/(Phoebe Wilkinson) from 127.0.0.1-3998006160 || BYOND v508
+[15:13:27]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[15:13:29]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[15:13:35]SAY: Runtime/ : Meow!
+[15:13:52]EMOTE: space bear/ : <B>The space bear</B> stomps
+[15:14:03]SAY: Proc/ : Esp!
+[15:14:24]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[15:14:45]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[15:14:53]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[15:14:55]SAY: space bear/ : Rawr!
+[15:15:25]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[15:15:39]EMOTE: space bear/ : <B>The space bear</B> stomps
+[15:16:14]ACCESS: Logout: wjcowart[DC]/(Admin)
+
+
+Starting up. 15:35.19
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[15:35:19]ADMIN: Loading Banlistjob
+[15:35:19]ADMIN: Loading jobban_rank
+[15:35:19]ADMIN: jobban_keylist was empty
+[15:35:19]ADMIN: Loading appearance_rank
+[15:35:19]ADMIN: appearance_keylist was empty
+[15:35:19]ADMIN: Updating jobbanfile!
+[15:35:19]ADMIN: Loading Banlist
+[15:35:35]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[15:35:55]ADMIN: Wjcowart has started the game.
+[15:35:56]GAME: Wjcowart (ckey) has been selected as a traitor
+[15:35:56]ACCESS: Logout: *no key*/(Wjcowart)
+[15:35:56]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[15:36:07]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[15:36:14]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the hanger checkpoint at (122,113,1)
+[15:36:37]EMOTE: Gus/ : <B>Gus</B> brays
+[15:37:06]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[15:37:15]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[15:37:17]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[15:37:25]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[15:37:38]EMOTE: Proc/ : <B>Proc</B> meows
+[15:37:46]SAY: Runtime/ : Meow!
+[15:37:57]EMOTE: Proc/ : <B>Proc</B> meows
+[15:37:57]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[15:38:24]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[15:38:24]EMOTE: space bear/ : <B>The space bear</B> grawls
+[15:38:39]EMOTE: space bear/ : <B>The space bear</B> grawls
+[15:39:14]SAY: space bear/ : GRR!
+[15:39:16]SAY: space bear/ : RAWR!
+[15:39:27]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[15:39:42]SAY: space bear/ : Rawr!
+[15:39:54]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[15:40:30]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[15:40:36]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[15:41:16]EMOTE: Runtime/ : <B>Runtime</B> meows
+[15:41:41]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[15:42:11]SAY: Gus/ : Moo
+[15:42:44]SAY: mouse/ : Squeek?
+[15:43:10]EMOTE: Ian/ : <B>Ian</B> dances around.
+[15:43:18]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[15:44:44]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[15:44:49]SAY: space bear/ : Growl!
+[15:44:57]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[15:45:31]EMOTE: Gus/ : <B>Gus</B> brays
+[15:45:43]EMOTE: Ian/ : <B>Ian</B> dances around.
+[15:45:58]SAY: space bear/ : GRR!
+[15:46:00]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[15:46:06]SAY: grey baby slime (185)/ : Rawr...
+[15:46:19]EMOTE: Runtime/ : <B>Runtime</B> meows
+[15:47:39]SAY: space bear/ : Rawr!
+[15:47:41]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[15:48:25]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[15:48:25]EMOTE: space bear/ : <B>The space bear</B> stomps
+[15:48:42]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[15:49:24]SAY: space bear/ : GRR!
+[15:49:51]SAY: Gus/ : Moo
+[15:50:08]EMOTE: Ian/ : <B>Ian</B> dances around.
+[15:50:20]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+
+
+Starting up. 15:51.48
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[15:51:48]ADMIN: Loading Banlistjob
+[15:51:48]ADMIN: Loading jobban_rank
+[15:51:48]ADMIN: jobban_keylist was empty
+[15:51:48]ADMIN: Loading appearance_rank
+[15:51:48]ADMIN: appearance_keylist was empty
+[15:51:48]ADMIN: Updating jobbanfile!
+[15:51:48]ADMIN: Loading Banlist
+[15:51:50]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[15:52:19]ADMIN: Wjcowart has started the game.
+[15:52:19]GAME: Wjcowart (ckey) has been selected as a traitor
+[15:52:19]ACCESS: Logout: *no key*/(Wjcowart)
+[15:52:19]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[15:52:20]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[15:52:22]SAY: grey baby slime (29)/ : Rawr...
+[15:52:24]EMOTE: Runtime/ : <B>Runtime</B> mews
+[15:52:26]EMOTE: space bear/ : <B>The space bear</B> stomps
+[15:52:53]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the faggot.
+[15:52:53]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the hanger checkpoint at (122,113,1)
+[15:53:28]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the mining outpost at (82,81,1)
+[15:53:41]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the mining outpost at (71,70,1)
+[15:53:58]SAY: space bear/ : GRR!
+[15:54:02]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[15:54:15]EMOTE: Gus/ : <B>Gus</B> brays
+[15:54:25]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+
+
+Starting up. 15:56.03
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[15:56:03]ADMIN: Loading Banlistjob
+[15:56:03]ADMIN: Loading jobban_rank
+[15:56:03]ADMIN: jobban_keylist was empty
+[15:56:03]ADMIN: Loading appearance_rank
+[15:56:03]ADMIN: appearance_keylist was empty
+[15:56:03]ADMIN: Updating jobbanfile!
+[15:56:03]ADMIN: Loading Banlist
+[15:57:20]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[15:57:31]ADMIN: Wjcowart has started the game.
+[15:57:31]GAME: Wjcowart (ckey) has been selected as a traitor
+[15:57:31]ACCESS: Logout: *no key*/(Wjcowart)
+[15:57:31]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[15:57:48]SAY: space bear/ : GRR!
+[15:58:14]SAY: Proc/ : Meow!
+[15:58:21]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the mining outpost at (82,81,1)
+[15:58:28]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[15:58:30]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the mining outpost at (71,70,1)
+[15:58:32]EMOTE: space bear/ : <B>The space bear</B> stomps
+[15:58:37]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[15:58:58]SAY: grey baby slime (81)/ : Rawr...
+[15:59:23]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[15:59:25]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[15:59:33]EMOTE: Ian/ : <B>Ian</B> dances around.
+[15:59:38]SAY: Hudson/ : GRR!
+[15:59:56]ADMIN: Wjcowart/(Shaun Rhinehart) modified Asteroid's temperature to 1
+[16:00:15]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[16:00:24]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[16:00:36]EMOTE: Ian/ : <B>Ian</B> barks!
+[16:00:41]SAY: Runtime/ : Meow!
+[16:01:54]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[16:02:03]EMOTE: space bear/ : <B>The space bear</B> stomps
+[16:02:38]EMOTE: space bear/ : <B>The space bear</B> grawls
+[16:02:47]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[16:02:57]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[16:03:09]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the reinforced table at (121,109,1)
+[16:03:24]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the botany at (130,130,1)
+[16:03:29]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the grille at (133,132,1)
+[16:03:30]ACCESS: Login: The Penatrator/(The Penatrator) from 45.21.82.212-4019992729 || BYOND v508
+[16:03:34]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the reinforced window at (133,132,1)
+[16:03:43]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[16:03:48]EMOTE: Ian/ : <B>Ian</B> barks!
+[16:03:50]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[16:03:52]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> gasps!
+[16:05:41]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[16:06:53]EMOTE: space bear/ : <B>The space bear</B> grawls
+[16:07:14]EMOTE: Ian/ : <B>Ian</B> woofs!
+[16:07:21]SAY: mouse/ : Squeek!
+[16:07:25]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[16:07:33]SAY: Runtime/ : Purr!
+[16:07:39]SAY: Ian/ : Woof!
+[16:07:52]EMOTE: space bear/ : <B>The space bear</B> stomps
+[16:07:56]EMOTE: Proc/ : <B>Proc</B> mews
+[16:08:13]EMOTE: space bear/ : <B>The space bear</B> grawls
+[16:08:21]SAY: Gus/ : Moo
+[16:08:38]SAY: space bear/ : Growl!
+[16:08:49]SAY: Runtime/ : Purr!
+[16:08:51]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[16:08:51]SAY: space bear/ : RAWR!
+[16:09:35]SAY: space bear/ : RAWR!
+[16:09:41]EMOTE: Poly/ : <B>Poly</B> squawks.
+[16:09:52]SAY: Runtime/ : HSSSSS
+[16:09:52]SAY: Ian/ : Bark!
+[16:10:04]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[16:10:11]SAY: Gus/ : MOOOOOO
+[16:10:32]SAY: Gus/ : Moo
+[16:10:46]SAY: space bear/ : GRR!
+[16:11:43]SAY: Runtime/ : HSSSSS
+[16:11:43]EMOTE: mouse/ : <B>The mouse</B> shakes
+[16:11:54]EMOTE: Hudson/ : <B>Hudson</B> stomps
+[16:12:31]SAY: Ian/ : YAP!
+[16:12:36]SAY: Proc/ : HSSSSS
+[16:12:46]SAY: Gus/ : Moo?
+[16:12:50]SAY: Gus/ : Moo
+[16:13:05]OOC: The Penatrator/The Penatrator : hey can i be eventmin?
+[16:13:14]OOC: Shaun Rhinehart/Wjcowart : HAH
+[16:13:19]OOC: Shaun Rhinehart/Wjcowart : fuck nope
+[16:13:32]OOC: The Penatrator/The Penatrator : you guys dont get past 2 players i meen, it wouldnt hurt
+[16:13:41]SAY: Gus/ : MOOOOOO
+[16:13:43]EMOTE: Ian/ : <B>Ian</B> dances around.
+[16:13:59]OOC: Shaun Rhinehart/Wjcowart : it would hurt my incredibly overinflated ego
+[16:14:10]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[16:14:10]EMOTE: space bear/ : <B>The space bear</B> grawls
+[16:14:41]OOC: The Penatrator/The Penatrator : How
+[16:14:44]SAY: space bear/ : GRR!
+[16:14:54]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[16:15:41]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+[16:15:46]OOC: The Penatrator/The Penatrator : do you want help with server or not man im a busy guy
+[16:15:52]ACCESS: Logout: The Penatrator[DC]/(The Penatrator)
+
+
+Starting up. 16:47.23
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[16:47:23]ADMIN: Loading Banlistjob
+[16:47:23]ADMIN: Loading jobban_rank
+[16:47:23]ADMIN: jobban_keylist was empty
+[16:47:23]ADMIN: Loading appearance_rank
+[16:47:23]ADMIN: appearance_keylist was empty
+[16:47:23]ADMIN: Updating jobbanfile!
+[16:47:23]ADMIN: Loading Banlist
+[16:47:40]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[16:48:06]ADMIN: Wjcowart has started the game.
+[16:48:06]GAME: Wjcowart (ckey) has been selected as a traitor
+[16:48:06]ACCESS: Logout: *no key*/(Wjcowart)
+[16:48:06]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[16:48:11]EMOTE: space bear/ : <B>The space bear</B> stomps
+[16:48:13]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[16:49:00]SAY: Gus/ : Moo?
+[16:49:06]EMOTE: Ian/ : <B>Ian</B> dances around.
+[16:49:11]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[16:49:17]SAY: Proc/ : Purr!
+[16:49:36]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[16:50:11]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[16:50:32]SAY: Ian/ : Bark!
+[16:50:35]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[16:50:51]SAY: grey baby slime (212)/ : Lonely...
+[16:50:56]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[16:51:12]SAY: space bear/ : GRR!
+[16:51:33]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[16:51:59]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+
+
+Starting up. 16:54.53
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[16:54:53]ADMIN: Loading Banlistjob
+[16:54:53]ADMIN: Loading jobban_rank
+[16:54:53]ADMIN: jobban_keylist was empty
+[16:54:53]ADMIN: Loading appearance_rank
+[16:54:53]ADMIN: appearance_keylist was empty
+[16:54:53]ADMIN: Updating jobbanfile!
+[16:54:53]ADMIN: Loading Banlist
+[16:56:22]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[16:56:41]ADMIN: Wjcowart has started the game.
+[16:56:41]GAME: Wjcowart (ckey) has been selected as a traitor
+[16:56:41]ACCESS: Logout: *no key*/(Wjcowart)
+[16:56:41]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[16:56:50]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the faggot.
+[16:57:05]SAY: Gus/ : MOOOOOO
+[16:57:14]ADMIN: Wjcowart/(Shaun Rhinehart) deleted Hanger Doors at (123,111,1)
+[16:57:35]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the mining outpost at (82,81,1)
+[16:57:44]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the mining outpost at (71,70,1)
+[16:57:45]EMOTE: Proc/ : <B>Proc</B> shivers
+[16:57:53]SAY: space bear/ : Rawr!
+[16:57:55]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[16:57:57]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[16:58:27]EMOTE: monkey (449)/ : <B>The monkey (449)</B> jumps!
+[16:58:30]GAME: Explosion with size (1, 2, 3, 0) in area Space (58,68,1)
+[16:58:32]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[16:58:32]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[16:58:39]SAY: Gus/ : MOOOOOO
+[16:58:48]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[16:58:50]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[16:59:03]ADMIN: Wjcowart/(Shaun Rhinehart) has used rudimentary transformation on Wjcowart/(Shaun Rhinehart). Transforming to monkey; deletemob=1
+[16:59:03]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[16:59:03]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[16:59:06]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[16:59:06]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[16:59:07]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[16:59:15]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[16:59:22]GAME: Explosion with size (1, 2, 3, 0) in area Space (55,71,1)
+[16:59:23]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[16:59:23]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[16:59:34]EMOTE: Ian/ : <B>Ian</B> shivers.
+[16:59:35]ADMIN: Wjcowart/(Shaun Rhinehart) assumed direct control of Arabella Barnes.
+[16:59:35]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[16:59:35]ACCESS: Login: wjcowart/(Arabella Barnes) from 127.0.0.1-3998006160 || BYOND v508
+[16:59:38]SAY: space bear/ : Rawr!
+[16:59:49]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[16:59:56]ADMIN: wjcowart/(Admin) has toggled wjcowart/(Admin)'s nodamage to Off
+[17:00:50]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[17:01:05]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[17:01:21]SAY: space bear/ : Rawr!
+[17:01:26]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[17:02:10]EMOTE: monkey (449)/ : <B>The monkey (449)</B> jumps!
+[17:02:14]SAY: Proc/ : Purr!
+[17:02:22]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[17:02:29]SAY: space bear/ : GRR!
+[17:02:41]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[17:02:47]SAY: mouse/ : SQUEEK!
+[17:03:04]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[17:03:19]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:03:53]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:04:22]SAY: space bear/ : GRR!
+[17:04:35]SAY: Proc/ : HSSSSS
+[17:04:47]EMOTE: Proc/ : <B>Proc</B> shakes its head
+[17:04:49]SAY: mouse/ : Squeek?
+[17:04:58]ACCESS: Logout: wjcowart[DC]/(Admin)
+
+
+Starting up. 17:07.26
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[17:07:26]ADMIN: Loading Banlistjob
+[17:07:26]ADMIN: Loading jobban_rank
+[17:07:26]ADMIN: jobban_keylist was empty
+[17:07:26]ADMIN: Loading appearance_rank
+[17:07:26]ADMIN: appearance_keylist was empty
+[17:07:26]ADMIN: Updating jobbanfile!
+[17:07:26]ADMIN: Loading Banlist
+[17:07:39]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[17:08:04]ADMIN: Wjcowart has started the game.
+[17:08:04]GAME: Wjcowart (ckey) has been selected as a traitor
+[17:08:04]ACCESS: Logout: *no key*/(Wjcowart)
+[17:08:04]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[17:08:24]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[17:08:29]ADMIN: Wjcowart/(Shaun Rhinehart) deleted Hanger Doors at (125,111,1)
+[17:08:47]ADMIN: Wjcowart/(Shaun Rhinehart) deleted the mining outpost at (82,81,1)
+[17:08:53]EMOTE: monkey (277)/ : <B>The monkey (277)</B> jumps!
+[17:09:02]ADMIN: Wjcowart/(Shaun Rhinehart) jumped to 71,69,1 in Space
+[17:09:10]SAY: space bear/ : Growl!
+[17:09:20]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[17:09:41]EMOTE: monkey (277)/ : <B>The monkey (277)</B> jumps!
+[17:09:56]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:09:58]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[17:10:15]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[17:10:17]SAY: grey baby slime (559)/ : Blorble...
+[17:10:21]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[17:10:38]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:10:47]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)
+
+
+Starting up. 20:12.46
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[20:12:46]ADMIN: Loading Banlistjob
+[20:12:46]ADMIN: Loading jobban_rank
+[20:12:46]ADMIN: jobban_keylist was empty
+[20:12:46]ADMIN: Loading appearance_rank
+[20:12:46]ADMIN: appearance_keylist was empty
+[20:12:46]ADMIN: Updating jobbanfile!
+[20:12:46]ADMIN: Loading Banlist
+[20:13:01]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[20:13:28]ADMIN: Wjcowart/(Wjcowart) toggled respawn to On.
+[20:13:30]ADMIN: Wjcowart has started the game.
+[20:13:31]GAME: Wjcowart (ckey) has been selected as a traitor
+[20:13:31]ACCESS: Logout: *no key*/(Wjcowart)
+[20:13:31]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[20:13:36]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[20:13:40]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:14:01]EMOTE: space bear/ : <B>The space bear</B> stomps
+[20:14:14]ADMIN: Wjcowart/(Shaun Rhinehart) changed the equipment of Wjcowart/(Shaun Rhinehart) to centcom official.
+[20:14:26]ADMIN: Wjcowart/(Shaun Rhinehart) changed the equipment of Wjcowart/(Shaun Rhinehart) to centcom commander.
+[20:14:31]ACCESS: Login: Dawson962/(Dawson962) from 74.196.0.60-2964836554 || BYOND v507
+[20:14:52]OOC: Dawson962/Dawson962 : Hey man
+[20:14:53]SAY: space bear/ : Growl!
+[20:14:58]OOC: Shaun Rhinehart/Wjcowart : yo
+[20:15:04]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:15:14]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[20:15:23]EMOTE: space bear/ : <B>The space bear</B> stomps
+[20:15:28]OOC: Dawson962/Dawson962 : Make any updates?
+[20:15:35]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[20:15:42]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:15:43]OOC: Shaun Rhinehart/Wjcowart : yeah
+[20:15:52]OOC: Shaun Rhinehart/Wjcowart : every day man
+[20:15:56]SAY: Poly/ : Poly wanna cracker!
+[20:16:00]OOC: Dawson962/Dawson962 : What did you update today?
+[20:16:11]SAY: space bear/ : RAWR!
+[20:16:15]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[20:16:24]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[20:16:30]EMOTE: Poly/ : <B>Poly</B> squawks.
+[20:16:34]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:16:46]OOC: Shaun Rhinehart/Wjcowart : a bunch of finishing touches, but mainly fixing space
+[20:16:59]SAY: Gus/ : Moo
+[20:17:04]OOC: Shaun Rhinehart/Wjcowart : so when there&#39;s an explosion it goes to ice, not space
+[20:17:16]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[20:17:41]EMOTE: Ian/ : <B>Ian</B> barks!
+[20:17:52]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:17:58]EMOTE: Hudson/ : <B>Hudson</B> rawrs
+[20:18:02]EMOTE: space bear/ : <B>The space bear</B> grawls
+[20:18:07]OOC: Shaun Rhinehart/Wjcowart : made the snow cold, made the ice even colder
+[20:18:14]ACCESS: Logout: *no key*/(Dawson962)
+[20:18:14]ACCESS: Login: Dawson962/(Dawson Chase) from 74.196.0.60-2964836554 || BYOND v507
+[20:18:17]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[20:18:32]OOC: Dawson Chase/Dawson962 : So you would need like a coat to be out there?
+[20:18:51]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:19:08]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:19:11]OOC: Shaun Rhinehart/Wjcowart : not exactly sure, the walkways are still warm, but if you go off in the snow you start to slowly get frostbite
+[20:19:35]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[20:19:37]OOC: Dawson Chase/Dawson962 : That sound cool
+[20:19:43]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:19:45]EMOTE: space bear/ : <B>The space bear</B> stomps
+[20:20:02]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:20:02]SAY: Hudson/ : RAWR!
+[20:20:02]EMOTE: Ian/ : <B>Ian</B> woofs!
+[20:20:17]SAY: space bear/ : Growl!
+[20:20:52]OOC: Shaun Rhinehart/Wjcowart : sadly I seem to have reintroduced a bit of lag, the cpu usage spikes a little every few seconds. but I think that&#39;s just hippie code being hippie code
+[20:21:26]SAY: mouse/ : Squeek!
+[20:21:47]SAY: grey baby slime (634)/ : Rawr...
+[20:21:52]SAY: Shaun Rhinehart/Wjcowart : Ayy
+[20:21:55]SAY: Dawson Chase/Dawson962 : Hey man
+[20:22:05]GAME: Wjcowart/(Shaun Rhinehart) has primed a smoke bomb for detonation at Vault (136,188,1).
+[20:22:09]EMOTE: Dawson Chase/Dawson962 : <B>Dawson Chase</B> coughs!
+[20:22:17]SAY: Dawson Chase/Dawson962 : Wha?
+[20:22:22]EMOTE: Dawson Chase/Dawson962 : <B>Dawson Chase</B> coughs!
+[20:22:50]SAY: grey baby slime (214)/ : Lonely...
+[20:22:50]SAY: Gus/ : Moo
+[20:23:24]SAY: space bear/ : Rawr!
+[20:23:47]EMOTE: Ian/ : <B>Ian</B> woofs!
+[20:23:55]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:24:03]ADMIN: Wjcowart/(Shaun Rhinehart) modified Cell 3's pixel_y to 32
+[20:24:48]SAY: Runtime/ : HSSSSS
+[20:25:09]SAY: Poly/ : Check the singlo, you chucklefucks!
+[20:25:21]EMOTE: mouse/ : <B>The mouse</B> shakes
+[20:26:03]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:26:08]OOC: Dawson Chase/Dawson962 : Could i be admin :)
+[20:26:18]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[20:26:22]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:26:24]EMOTE: space bear/ : <B>The space bear</B> stomps
+[20:26:29]SAY: space bear/ : RAWR!
+[20:26:33]SAY: space bear/ : RAWR!
+[20:27:44]ADMIN: Wjcowart/(Shaun Rhinehart) jumped to the Centcom Transport Shuttle
+[20:27:48]SAY: grey baby slime (81)/ : Blorble...
+[20:27:55]ADMIN: Wjcowart/(Shaun Rhinehart) jumped to 139,63,2 in the Transport Shuttle Centcom
+[20:27:59]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:28:05]EMOTE: Proc/ : <B>Proc</B> shakes its head
+[20:28:09]ADMIN: Wjcowart/(Shaun Rhinehart) moved the centcom ferry
+[20:28:09]ADMIN: Wjcowart/(Shaun Rhinehart) used secret moveferry
+[20:28:25]SAY: Shaun Rhinehart/Wjcowart : <i>And if you&#39;ll please come outside</i>
+[20:28:45]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[20:29:04]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:29:08]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:29:33]SAY: space bear/ : Rawr!
+[20:29:50]SAY: Proc/ : HSSSSS
+[20:29:52]SAY: Shaun Rhinehart/Wjcowart : <i>You&#39;ll see the centcom ferry</i>
+[20:30:03]SAY: Shaun Rhinehart/Wjcowart : <i>BRB</i>
+[20:30:24]SAY: grey baby slime (634)/ : Blorble...
+[20:30:47]SAY: space bear/ : GRR!
+[20:31:18]EMOTE: space bear/ : <B>The space bear</B> grawls
+[20:32:26]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:32:34]SAY: space bear/ : Rawr!
+[20:32:53]SAY: mouse/ : Squeek!
+[20:33:06]EMOTE: space bear/ : <B>The space bear</B> grawls
+[20:34:38]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[20:34:44]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:34:46]SAY: grey baby slime (634)/ : Lonely...
+[20:34:57]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:35:07]SAY: space bear/ : RAWR!
+[20:35:14]SAY: space bear/ : GRR!
+[20:35:43]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:36:31]SAY: Ian/ : Woof!
+[20:37:01]EMOTE: Proc/ : <B>Proc</B> mews
+[20:37:05]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:37:47]SAY: Poly/ : Check the singlo, you chucklefucks!
+[20:37:51]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:37:53]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:38:23]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:38:27]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:38:37]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:38:54]EMOTE: monkey (65)/ : <B>The monkey (65)</B> jumps!
+[20:38:56]SAY: space bear/ : Growl!
+[20:38:56]EMOTE: Gus/ : <B>Gus</B> brays
+[20:39:19]SAY: mouse/ : SQUEEK!
+[20:39:30]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[20:39:32]SAY: space bear/ : Rawr!
+[20:39:40]SAY: Gus/ : Moo?
+[20:39:45]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:39:51]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:40:03]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:41:42]SAY: grey baby slime (214)/ : Blorble...
+[20:41:46]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:42:03]EMOTE: Gus/ : <B>Gus</B> brays
+[20:42:05]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[20:42:28]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:42:49]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:42:56]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[20:43:06]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:43:17]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[20:43:21]SAY: grey baby slime (214)/ : Rawr...
+[20:43:36]SAY: Poly/ : Poly wanna cracker!
+[20:43:59]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[20:43:59]EMOTE: space bear/ : <B>The space bear</B> stomps
+[20:44:07]SAY: Runtime/ : Purr!
+[20:44:32]EMOTE: Gus/ : <B>Gus</B> brays
+[20:44:39]SAY: mouse/ : Squeek?
+[20:44:43]SAY: space bear/ : Growl!
+[20:45:23]SAY: Runtime/ : HSSSSS
+[20:45:29]SAY: grey baby slime (214)/ : Blop...
+[20:45:54]SAY: Ian/ : Woof!
+[20:46:34]SAY: space bear/ : RAWR!
+[20:46:40]SAY: space bear/ : Rawr!
+[20:46:47]EMOTE: Runtime/ : <B>Runtime</B> mews
+[20:46:51]EMOTE: space bear/ : <B>The space bear</B> stomps
+[20:47:03]OOC: Dawson Chase/Dawson962 : Wjcowart could i be admin?
+[20:47:14]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:47:39]EMOTE: space bear/ : <B>The space bear</B> grawls
+[20:48:00]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:48:27]SAY: Runtime/ : HSSSSS
+[20:49:01]EMOTE: Ian/ : <B>Ian</B> shivers.
+[20:49:05]SAY: Hudson/ : Growl!
+[20:49:18]EMOTE: monkey (65)/ : <B>The monkey (65)</B> jumps!
+[20:49:37]EMOTE: space bear/ : <B>The space bear</B> grawls
+[20:50:08]EMOTE: Dawson Chase/Dawson962 : <B>Dawson Chase</B> gasps!
+[20:50:21]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:50:54]SAY: Proc/ : HSSSSS
+[20:50:58]ADMIN: HELP: Dawson962/(Dawson Chase): Hey man want to check out my Capn&#39;s bar? - heard by 0 non-AFK admins who have +BAN.
+[20:50:59]SAY: space bear/ : Growl!
+[20:52:01]EMOTE: Ian/ : <B>Ian</B> barks!
+[20:52:09]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[20:52:45]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:52:59]ACCESS: Logout: Dawson962[DC]/(Dawson Chase)
+[20:53:21]SAY: space bear/ : Growl!
+[20:53:29]EMOTE: Proc/ : <B>Proc</B> mews
+[20:53:29]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:53:37]EMOTE: space bear/ : <B>The space bear</B> grawls
+[20:53:58]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[20:54:09]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[20:54:17]SAY: Proc/ : Purr!
+[20:54:17]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[20:54:22]SAY: Gus/ : Moo?
+[20:55:04]SAY: Poly/ : Wire the solars, you lazy bums!
+[20:55:06]EMOTE: Hudson/ : <B>Hudson</B> rawrs
+[20:55:25]EMOTE: monkey (65)/ : <B>The monkey (65)</B> jumps!
+[20:55:50]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[20:55:52]EMOTE: monkey (65)/ : <B>The monkey (65)</B> jumps!
+[20:56:19]SAY: space bear/ : RAWR!
+[20:56:23]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[20:56:27]ACCESS: Logout: *no key*/(Shaun Rhinehart)
+[20:56:27]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[20:56:27]ADMIN: @Wjcowart[DC]/(Shaun Rhinehart) jumped to Dawson962[DC]/(Dawson Chase)
+[20:56:32]SAY: space bear/ : Growl!
+[20:56:40]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:56:47]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)

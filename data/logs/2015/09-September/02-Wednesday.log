@@ -1,0 +1,71 @@
+
+
+Starting up. 00:05.03
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'secret'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[00:05:04]ADMIN: Loading Banlistjob
+[00:05:04]ADMIN: Loading jobban_rank
+[00:05:04]ADMIN: jobban_keylist was empty
+[00:05:04]ADMIN: Loading appearance_rank
+[00:05:04]ADMIN: appearance_keylist was empty
+[00:05:04]ADMIN: Updating jobbanfile!
+[00:05:04]ADMIN: Loading Banlist
+[00:05:16]ACCESS: Login: Wjcowart/(Wjcowart) from 127.0.0.1-3998006160 || BYOND v508
+[00:05:48]ADMIN: Wjcowart/(Wjcowart) set the mode as extended.
+[00:05:54]ADMIN: Wjcowart has started the game.
+[00:05:54]ACCESS: Logout: *no key*/(Wjcowart)
+[00:05:54]ACCESS: Login: Wjcowart/(Shaun Rhinehart) from 127.0.0.1-3998006160 || BYOND v508
+[00:06:05]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[00:06:11]SAY: space bear/ : Growl!
+[00:06:15]ADMIN: Wjcowart/(Shaun Rhinehart) modified Cell 3's pixel_y to 32
+[00:06:15]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[00:07:25]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[00:07:49]EMOTE: Shaun Rhinehart/Wjcowart : <B>Shaun Rhinehart</B> screams!
+[00:08:01]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[00:08:05]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[00:08:07]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[00:08:11]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[00:08:13]SAY: Ian/ : Woof!
+[00:08:53]EMOTE: space bear/ : <B>The space bear</B> grawls
+[00:09:04]SAY: space bear/ : GRR!
+[00:09:08]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[00:09:50]SAY: space bear/ : RAWR!
+[00:10:03]SAY: Hudson/ : Growl!
+[00:10:09]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[00:10:21]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[00:11:10]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[00:11:16]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[00:11:18]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[00:12:00]EMOTE: Poly/ : <B>Poly</B> squawks.
+[00:12:04]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[00:12:13]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[00:12:44]EMOTE: space bear/ : <B>The space bear</B> stomps
+[00:13:33]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[00:13:43]SAY: Ian/ : Bark!
+[00:13:51]SAY: space bear/ : RAWR!
+[00:14:04]EMOTE: pine tree/ : <B>The pine tree</B> growls at Shaun Rhinehart.
+[00:14:06]EMOTE: pine tree/ : <B>The pine tree</B> growls at Shaun Rhinehart.
+[00:14:06]EMOTE: pine tree/ : <B>The pine tree</B> growls at Shaun Rhinehart.
+[00:14:27]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[00:15:01]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[00:15:07]ACCESS: Logout: Wjcowart[DC]/(Shaun Rhinehart)

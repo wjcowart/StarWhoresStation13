@@ -116,20 +116,20 @@ Detective
 /datum/job/detective
 	title = "Detective"
 	flag = DETECTIVE
-	department_head = list("Head of Security")
+	department_head = list("Captain")
 	department_flag = ENGSEC
 	faction = "Station"
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "the head of security"
+	supervisors = "the Captain"
 	selection_color = "#ffeeee"
 	minimal_player_age = 7
 
 	default_pda = /obj/item/device/pda/detective
 	default_headset = /obj/item/device/radio/headset/headset_sec
 
-	access = list(access_sec_doors, access_forensics_lockers, access_morgue, access_maint_tunnels, access_court, access_weapons)
-	minimal_access = list(access_sec_doors, access_forensics_lockers, access_morgue, access_maint_tunnels, access_court, access_weapons)
+	access = list(access_sec_doors, access_forensics_lockers, access_morgue, access_armory, access_maint_tunnels, access_court, access_weapons)
+	minimal_access = list(access_sec_doors, access_forensics_lockers, access_armory, access_morgue, access_maint_tunnels, access_court, access_weapons)
 
 /datum/job/detective/equip_items(var/mob/living/carbon/human/H)
 	H.equip_to_slot_or_del(new /obj/item/clothing/under/rank/det(H), slot_w_uniform)
