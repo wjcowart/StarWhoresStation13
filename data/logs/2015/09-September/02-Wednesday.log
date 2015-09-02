@@ -189,3 +189,220 @@ Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
 [03:54:13]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
 [03:54:38]ADMIN: Cairo283/(Matthew Rhinehart) jumped to 40,193,3 in the Space debris
 [03:55:20]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+
+
+Starting up. 11:36.07
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[11:36:07]ADMIN: Loading Banlistjob
+[11:36:07]ADMIN: Loading jobban_rank
+[11:36:07]ADMIN: jobban_keylist was empty
+[11:36:07]ADMIN: Loading appearance_rank
+[11:36:07]ADMIN: appearance_keylist was empty
+[11:36:07]ADMIN: Updating jobbanfile!
+[11:36:07]ADMIN: Loading Banlist
+[11:37:08]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[11:39:53]ADMIN: Cairo283 has started the game.
+[11:39:53]ACCESS: Logout: *no key*/(Cairo283)
+[11:39:53]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:40:11]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the chief engineer's rubber stamp.
+[11:40:23]SAY: space bear/ : Growl!
+[11:41:14]SAY: Ian/ : Woof!
+[11:41:26]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[11:41:41]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:42:06]EMOTE: monkey (114)/ : <B>The monkey (114)</B> jumps!
+[11:42:08]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:42:13]SAY: grey baby slime (576)/ : Blop...
+[11:42:25]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[11:42:42]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:43:01]SAY: Proc/ : HSSSSS
+[11:43:28]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[11:43:39]SAY: grey baby slime (576)/ : Lonely...
+[11:43:45]SAY: space bear/ : Growl!
+[11:44:00]SAY: Proc/ : Purr!
+[11:44:33]SAY: Gus/ : MOOOOOO
+[11:44:46]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:44:50]SAY: Matthew Rhinehart/Cairo283 : <i>Test</i>
+[11:45:01]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[11:45:01]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:45:09]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[11:45:59]EMOTE: monkey (26)/ : <B>The monkey (26)</B> jumps!
+[11:45:59]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[11:46:54]SAY: Gus/ : Moo?
+[11:47:57]SAY: grey baby slime (576)/ : Lonely...
+[11:48:20]SAY: space bear/ : Rawr!
+[11:49:08]SAY: Poly/ : Wire the solars, you lazy bums!
+[11:49:08]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[11:49:15]SAY: Gus/ : Moo
+[11:49:27]EMOTE: Runtime/ : <B>Runtime</B> mews
+[11:49:27]EMOTE: monkey (114)/ : <B>The monkey (114)</B> jumps!
+[11:49:29]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:49:44]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[11:49:46]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:49:59]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[11:50:01]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:50:01]SAY: grey baby slime (742)/ : Blorble...
+[11:50:58]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[11:52:28]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[11:52:30]EMOTE: monkey (26)/ : <B>The monkey (26)</B> jumps!
+[11:52:30]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[11:53:02]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[11:53:02]SAY: grey baby slime (193)/ : Blorble...
+[11:53:31]SAY: Runtime/ : Meow!
+[11:53:39]EMOTE: Poly/ : <B>Poly</B> squawks.
+[11:53:44]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:54:51]SAY: grey baby slime (193)/ : Lonely...
+[11:55:01]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:55:20]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:55:22]SAY: Runtime/ : HSSSSS
+[11:55:22]SAY: mouse/ : Squeek?
+[11:55:33]EMOTE: cow/ : <B>The cow</B> shakes its head
+[11:56:00]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[11:57:05]SAY: cow/ : MOOOOOO
+[11:57:33]EMOTE: monkey (26)/ : <B>The monkey (26)</B> jumps!
+[11:57:33]EMOTE: monkey (770)/ : <B>The monkey (770)</B> jumps!
+[11:57:56]EMOTE: cow/ : <B>The cow</B> brays
+[11:58:08]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[11:58:08]SAY: Matthew Rhinehart/Cairo283 : Oh good lord what have I done
+[11:58:24]SAY: Matthew Rhinehart/Cairo283 : Honk
+[11:58:27]EMOTE: cow/ : <B>The cow</B> shakes its head
+[11:58:31]SAY: cow/ : MOOOOOO
+[11:58:57]SAY: grey baby slime (742)/ : Blop...
+[11:59:01]SAY: cow/ : MOOOOOO
+[11:59:18]EMOTE: Clown/ : <B>Clown</B> honks
+[11:59:26]EMOTE: monkey (274)/ : <B>The monkey (274)</B> jumps!
+[11:59:26]SAY: Proc/ : Purr!
+[11:59:30]SAY: Clown/ : Welcome to clown planet!
+[11:59:35]ADMIN: Cairo283/(Matthew Rhinehart) admin-called the emergency shuttle.
+[11:59:39]EMOTE: monkey (58)/ : <B>The monkey (58)</B> jumps!
+[11:59:43]SAY: grey baby slime (742)/ : Rawr...
+[11:59:47]ADMIN: Cairo283 deadmined themself.
+[11:59:57]SAY: Clown/ : HONK
+[12:00:00]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:00:00]SAY: cow/ : Moo
+[12:00:02]SAY: cow/ : Moo?
+[12:00:02]SAY: Clown/ : Welcome to clown planet!
+[12:00:06]EMOTE: Clown/ : <B>Clown</B> honks
+[12:00:12]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[12:00:16]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[12:00:18]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[12:00:18]EMOTE: cow/ : <B>The cow</B> shakes its head
+[12:00:25]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[12:00:42]SAY: cow/ : MOOOOOO
+[12:00:44]SAY: Clown/ : Honk!
+[12:00:52]EMOTE: cow/ : <B>The cow</B> shakes its head
+[12:01:09]SAY: Runtime/ : Esp!
+[12:01:30]SAY: grey baby slime (576)/ : Lonely...
+[12:01:34]EMOTE: Clown/ : <B>Clown</B> honks
+[12:01:36]EMOTE: cow/ : <B>The cow</B> shakes its head
+[12:01:53]SAY: space bear/ : GRR!
+[12:02:06]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:02:06]EMOTE: Clown/ : <B>Clown</B> honks
+[12:02:18]EMOTE: Clown/ : <B>Clown</B> honks
+[12:02:24]EMOTE: monkey (770)/ : <B>The monkey (770)</B> jumps!
+[12:02:29]SAY: Hudson/ : RAWR!
+[12:03:09]EMOTE: Clown/ : <B>Clown</B> honks
+[12:03:09]SAY: cow/ : Moo
+[12:03:34]SAY: Clown/ : Honk!
+[12:03:42]EMOTE: cow/ : <B>The cow</B> brays
+[12:04:09]EMOTE: Proc/ : <B>Proc</B> meows
+[12:04:09]SAY: cow/ : MOOOOOO
+[12:04:54]EMOTE: cow/ : <B>The cow</B> brays
+[12:04:56]SAY: cow/ : MOOOOOO
+[12:05:00]SAY: grey baby slime (576)/ : Blop...
+[12:05:12]SAY: Clown/ : HONK
+[12:05:19]SAY: cow/ : Moo?
+[12:05:21]EMOTE: monkey (594)/ : <B>The monkey (594)</B> jumps!
+[12:05:25]EMOTE: space bear/ : <B>The space bear</B> stomps
+[12:05:29]SAY: Clown/ : Honk!
+[12:05:31]SAY: Proc/ : Purr!
+[12:05:42]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:05:42]SAY: cow/ : Moo
+[12:05:48]SAY: space bear/ : Growl!
+[12:06:01]SAY: space bear/ : RAWR!
+[12:06:01]SAY: Clown/ : HONK
+[12:06:07]SAY: cow/ : MOOOOOO
+[12:06:09]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:06:22]SAY: space bear/ : RAWR!
+[12:06:22]EMOTE: cow/ : <B>The cow</B> shakes its head
+[12:06:26]SAY: Proc/ : Purr!
+[12:06:39]SAY: cow/ : Moo
+[12:06:41]SAY: space bear/ : Rawr!
+[12:06:43]EMOTE: cow/ : <B>The cow</B> brays
+[12:06:45]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[12:07:02]EMOTE: monkey (58)/ : <B>The monkey (58)</B> jumps!
+[12:07:27]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:07:33]SAY: cow/ : Moo?
+[12:07:42]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:07:48]SAY: cow/ : Moo?
+[12:07:52]EMOTE: cow/ : <B>The cow</B> brays
+[12:08:00]SAY: cow/ : MOOOOOO
+[12:08:05]EMOTE: monkey (770)/ : <B>The monkey (770)</B> jumps!
+[12:08:05]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:08:09]EMOTE: Gus/ : <B>Gus</B> brays
+[12:08:11]SAY: cow/ : Moo
+[12:08:13]EMOTE: cow/ : <B>The cow</B> brays
+[12:08:15]SAY: cow/ : Moo?
+[12:08:19]EMOTE: cow/ : <B>The cow</B> shakes its head
+[12:08:21]SAY: Ian/ : AUUUUUU!
+[12:08:26]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:08:30]EMOTE: space bear/ : <B>The space bear</B> grawls
+[12:08:36]SAY: space bear/ : GRR!
+[12:08:40]EMOTE: monkey (834)/ : <B>The monkey (834)</B> jumps!
+[12:08:40]SAY: cow/ : MOOOOOO
+[12:08:51]SAY: Clown/ : Honk!
+[12:08:51]SAY: cow/ : MOOOOOO
+[12:08:53]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[12:09:01]SAY: Clown/ : HONK
+[12:09:03]EMOTE: monkey (274)/ : <B>The monkey (274)</B> jumps!
+[12:09:03]SAY: space bear/ : GRR!
+[12:09:33]SAY: space bear/ : GRR!
+[12:09:33]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:09:37]SAY: Clown/ : Welcome to clown planet!
+[12:09:39]SAY: Hudson/ : Rawr!
+[12:09:45]GAME: cairo283(Matthew Rhinehart) has authorized early shuttle launch in (121,85,1)
+[12:09:45]EMOTE: cow/ : <B>The cow</B> shakes its head
+[12:09:47]GAME: cairo283(Matthew Rhinehart) has authorized early shuttle launch in (121,85,1)
+[12:09:50]GAME: cairo283(Unknown) has launched the emergency shuttle in (121,85,1) 165 seconds before launch.
+[12:09:56]EMOTE: cow/ : <B>The cow</B> brays
+[12:10:06]SAY: Clown/ : Honk!
+[12:10:09]SAY: cow/ : Moo
+[12:10:13]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[12:10:15]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:10:19]EMOTE: monkey (274)/ : <B>The monkey (274)</B> jumps!
+[12:10:30]EMOTE: Ian/ : <B>Ian</B> dances around.
+[12:10:32]SAY: cow/ : Moo?
+[12:10:34]SAY: space bear/ : GRR!
+[12:10:48]EMOTE: cow/ : <B>The cow</B> brays
+[12:11:03]EMOTE: mouse/ : <B>The mouse</B> shakes
+[12:11:20]EMOTE: cow/ : <B>The cow</B> brays
+[12:11:20]EMOTE: Clown/ : <B>Clown</B> honks
+[12:11:37]SAY: space bear/ : Rawr!
+[12:11:45]SAY: grey baby slime (576)/ : Blop...
+[12:11:54]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[12:11:56]SAY: cow/ : MOOOOOO
+[12:12:00]GAME: Antagonists at round end were...
+[12:12:17]EMOTE: cow/ : <B>The cow</B> shakes its head
+[12:12:33]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[12:12:44]EMOTE: monkey (26)/ : <B>The monkey (26)</B> jumps!
+[12:12:46]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
