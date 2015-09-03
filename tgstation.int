@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1441218669
-DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\MockupStation _maps\map_files\TgStation code code\game code\game\gamemodes\blob code\game\gamemodes\changeling code\game\jobs code\game\jobs\job code\game\turfs code\game\turfs\simulated 
+LAST_COMPILE_TIME: 1441268938
+DIR: _maps _maps\map_files _maps\map_files\Asteroidstation _maps\map_files\generic _maps\map_files\MiniStation _maps\map_files\MockupStation _maps\map_files\TgStation code code\game code\game\gamemodes\blob code\game\gamemodes\changeling code\game\jobs code\game\jobs\job code\game\turfs code\game\turfs\simulated code\modules code\modules\reagents 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 508.1296
