@@ -1,0 +1,649 @@
+
+
+Starting up. 10:13.05
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[10:13:05]ADMIN: Loading Banlistjob
+[10:13:05]ADMIN: Loading jobban_rank
+[10:13:05]ADMIN: jobban_keylist was empty
+[10:13:05]ADMIN: Loading appearance_rank
+[10:13:05]ADMIN: appearance_keylist was empty
+[10:13:05]ADMIN: Updating jobbanfile!
+[10:13:05]ADMIN: Loading Banlist
+[10:13:29]ACCESS: Login: Guest-3998006160/(Guest-3998006160) from 127.0.0.1-3998006160 || BYOND v508
+[10:14:48]ACCESS: Login: Cairo283/(Cairo283) from 96.50.107.66-2795721299 || BYOND v508
+[10:15:48]ADMIN: Cairo283 has started the game.
+[10:15:48]ACCESS: Logout: *no key*/(Guest-3998006160)
+[10:15:48]ACCESS: Login: Guest-3998006160/(Johnathan Harding) from 127.0.0.1-3998006160 || BYOND v508
+[10:15:49]ACCESS: Logout: *no key*/(Cairo283)
+[10:15:49]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[10:16:02]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[10:16:12]SAY: Runtime/ : Purr!
+[10:16:21]SAY: space bear/ : Rawr!
+[10:16:38]EMOTE: monkey (660)/ : <B>The monkey (660)</B> jumps!
+[10:16:44]EMOTE: monkey (646)/ : <B>The monkey (646)</B> jumps!
+[10:16:46]SAY: space bear/ : GRR!
+[10:16:48]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[10:16:50]SAY: space bear/ : GRR!
+[10:17:13]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[10:17:15]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[10:17:34]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:17:43]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:18:12]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[10:18:31]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Guest-3998006160/(Johnathan Harding)
+[10:18:46]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:19:09]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[10:19:15]EMOTE: monkey (819)/ : <B>The monkey (819)</B> jumps!
+[10:19:23]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[10:19:40]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:19:44]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[10:20:00]ADMIN: Cairo283/(Matthew Rhinehart) deleted the canister [CO2] at (168,50,1)
+[10:20:02]ADMIN: Cairo283/(Matthew Rhinehart) deleted the canister [CO2] at (167,50,1)
+[10:20:05]SAY: mouse/ : Squeek?
+[10:20:06]ADMIN: Cairo283/(Matthew Rhinehart) deleted the canister: [N2O] at (168,51,1)
+[10:20:09]ADMIN: Cairo283/(Matthew Rhinehart) deleted the canister: [N2O] at (167,51,1)
+[10:20:10]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:20:14]SAY: space bear/ : RAWR!
+[10:20:22]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:20:26]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:20:29]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[10:20:33]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:20:37]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[10:20:40]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:20:43]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:20:43]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> seizes up and falls limp, his eyes dead and lifeless...
+[10:21:02]ADMIN: Cairo283/(Matthew Rhinehart) deleted the reinforced wall at (166,50,1)
+[10:21:03]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[10:21:03]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[10:21:04]EMOTE: Matthew Rhinehart/@Cairo283 : <B>Matthew Rhinehart</B> coughs painfuly!
+[10:21:07]EMOTE: Matthew Rhinehart/@Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[10:21:09]EMOTE: Matthew Rhinehart/@Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[10:21:13]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/fancy at (166,50,1)
+[10:21:13]EMOTE: Matthew Rhinehart/@Cairo283 : <B>Matthew Rhinehart</B> seizes up and falls limp, his eyes dead and lifeless...
+[10:21:18]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[10:21:18]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[10:21:30]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Johnathan Harding)
+[10:21:30]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[10:21:30]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[10:21:32]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived *no key*/(Matthew Rhinehart)
+[10:21:35]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[10:21:35]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[10:21:36]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:21:43]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:21:55]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:22:00]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[10:22:07]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:22:10]SAY: mouse/ : SQUEEK!
+[10:22:14]SAY: Proc/ : Esp!
+[10:22:18]SAY: Ian/ : YAP!
+[10:22:37]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[10:22:44]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Johnathan Harding)
+[10:22:50]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[10:22:58]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:23:03]SAY: Ian/ : AUUUUUU!
+[10:23:22]ADMIN: Cairo283/(Matthew Rhinehart) deleted the robotics at (169,97,1)
+[10:23:55]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[10:24:01]SAY: Poly/ : Poly wanna cracker!
+[10:24:58]SAY: Gus/ : Moo?
+[10:25:29]ADMIN: Cairo283/(Matthew Rhinehart) deleted the reinforced window at (134,128,1)
+[10:25:42]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:25:42]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[10:25:46]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[10:25:48]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:25:48]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[10:26:01]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:26:07]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:26:33]SAY: Gus/ : Moo?
+[10:26:58]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:27:40]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[10:28:01]SAY: space bear/ : RAWR!
+[10:28:03]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[10:28:32]EMOTE: Proc/ : <B>Proc</B> shakes its head
+[10:29:41]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> assists global warming!
+[10:29:41]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts!
+[10:29:42]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and pretends nothing happened.
+[10:29:42]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and pretends nothing happened.
+[10:29:42]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and waves their hand dismissively.
+[10:29:42]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> <B><font color='red'>f</font><font color='blue'>a</font><font color='red'>r</font><font color='blue'>t</font><font color='red'>s</font></B>
+[10:29:42]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and pretends nothing happened.
+[10:29:43]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and waves their hand dismissively.
+[10:29:43]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> assists global warming!
+[10:29:43]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> assists global warming!
+[10:29:43]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and pretends nothing happened.
+[10:29:43]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and pretends nothing happened.
+[10:29:43]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> assists global warming!
+[10:29:43]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> <B><font color='red'>f</font><font color='blue'>a</font><font color='red'>r</font><font color='blue'>t</font><font color='red'>s</font></B>
+[10:29:43]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> farts and pretends nothing happened.
+[10:29:43]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> harvests methane from uranus at mach 3!
+[10:29:43]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> harvests methane from uranus at mach 3!
+[10:29:44]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> assists global warming!
+[10:29:44]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> farts and waves their hand dismissively.
+[10:29:44]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> harvests methane from uranus at mach 3!
+[10:29:44]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> assists global warming!
+[10:29:44]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> harvests methane from uranus at mach 3!
+[10:29:44]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> is a <b>farting</b> motherfucker!
+[10:29:47]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:29:58]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> rears up and lets loose a fart of tremendous magnitude!
+[10:29:58]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> farts and waves their hand dismissively.
+[10:29:58]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> farts and pretends nothing happened.
+[10:29:58]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> harvests methane from uranus at mach 3!
+[10:29:59]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> farts!
+[10:29:59]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> farts!
+[10:30:01]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Johnathan Harding)
+[10:30:03]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:30:17]EMOTE: monkey (819)/ : <B>The monkey (819)</B> jumps!
+[10:30:59]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[10:31:04]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:31:16]SAY: space bear/ : GRR!
+[10:31:39]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Coffee!
+[10:31:39]EMOTE: space carp/ : <B>The space carp</B> nashes at Coffee!
+[10:31:39]EMOTE: space carp/ : <B>The space carp</B> nashes at the grey baby slime (362)!
+[10:31:39]EMOTE: space carp/ : <B>The space carp</B> nashes at Gus!
+[10:31:39]EMOTE: space carp/ : <B>The space carp</B> nashes at Gus!
+[10:31:39]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Gus!
+[10:31:43]SAY: space bear/ : Growl!
+[10:31:50]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[10:32:03]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:32:07]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:32:07]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:32:11]EMOTE: space carp/ : <B>The space carp</B> nashes at Coffee!
+[10:32:19]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:32:19]SAY: space bear/ : RAWR!
+[10:32:19]EMOTE: space carp/ : <B>The space carp</B> nashes at Coffee!
+[10:32:25]EMOTE: pine tree/ : <B>The pine tree</B> growls at the space carp.
+[10:32:25]EMOTE: space carp/ : <B>The space carp</B> nashes at the pine tree!
+[10:32:28]EMOTE: space carp/ : <B>The space carp</B> nashes at the grey baby slime (362)!
+[10:32:29]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:32:30]EMOTE: pine tree/ : <B>The pine tree</B> growls at the space carp.
+[10:32:30]EMOTE: pine tree/ : <B>The pine tree</B> growls at the space carp.
+[10:32:30]EMOTE: space carp/ : <B>The space carp</B> nashes at the pine tree!
+[10:32:32]EMOTE: space carp/ : <B>The space carp</B> nashes at the pine tree!
+[10:32:32]EMOTE: pine tree/ : <B>The pine tree</B> growls at the space carp.
+[10:32:36]EMOTE: pine tree/ : <B>The pine tree</B> growls at the space carp.
+[10:32:38]EMOTE: pine tree/ : <B>The pine tree</B> growls at the space carp.
+[10:32:38]EMOTE: space carp/ : <B>The space carp</B> nashes at the pine tree!
+[10:32:40]EMOTE: space carp/ : <B>The space carp</B> nashes at the pine tree!
+[10:32:40]EMOTE: pine tree/ : <B>The pine tree</B> growls at the space carp.
+[10:32:42]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:32:42]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:32:42]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Johnathan Harding!
+[10:32:48]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Johnathan Harding!
+[10:32:51]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:32:53]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:32:53]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:32:55]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:32:59]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:33:01]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:33:03]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:33:05]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:33:05]SAY: space bear/ : RAWR!
+[10:33:12]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:33:18]EMOTE: Poly/ : <B>Poly</B> squawks.
+[10:33:18]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:33:33]SAY: space bear/ : Rawr!
+[10:33:33]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:33:35]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:33:39]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:33:39]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:33:40]GAME: Guest-3998006160/(Johnathan Harding) triggered a fueltank explosion.
+[10:33:40]GAME: Explosion with size (-1, 0, 2, 2) in area Library (134,112,1)
+[10:33:40]GAME: Explosion with size (-1, 0, 2, 2) in area Library (134,112,1)
+[10:33:41]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:33:42]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:33:44]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:33:46]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:00]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:02]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:02]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:05]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:08]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[10:34:08]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:10]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:15]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[10:34:19]EMOTE: Runtime/ : <B>Runtime</B> meows
+[10:34:31]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:36]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:38]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:34:50]ADMIN: Cairo283/(Matthew Rhinehart) deleted Sub-Armory at (82,104,1)
+[10:35:03]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:35:03]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:35:03]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:35:11]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[10:35:18]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:35:18]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:35:24]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:35:32]SAY: grey baby slime (760)/ : Lonely...
+[10:35:45]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:35:47]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:35:51]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Matthew Rhinehart!
+[10:35:51]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:36:00]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Matthew Rhinehart!
+[10:36:04]EMOTE: space carp/ : <B>The space carp</B> nashes at Johnathan Harding!
+[10:36:06]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Johnathan Harding!
+[10:36:06]EMOTE: space carp/ : <B>The space carp</B> nashes at Coffee!
+[10:36:12]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Johnathan Harding!
+[10:36:12]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[10:36:16]EMOTE: space carp/ : <B>The space carp</B> nashes at Matthew Rhinehart!
+[10:36:17]EMOTE: Mega Space Carp/ : <B>Mega Space Carp</B> nashes at Johnathan Harding!
+[10:36:35]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[10:36:41]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:36:42]EMOTE: monkey (660)/ : <B>The monkey (660)</B> jumps!
+[10:36:46]SAY: space bear/ : Rawr!
+[10:36:54]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:36:56]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:37:01]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:37:01]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:37:03]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:37:04]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:37:09]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[10:37:14]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:15]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[10:37:17]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:19]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:25]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:28]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:37:30]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:32]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:36]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> whimpers.
+[10:37:36]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:38]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:40]WHISPER: Johnathan Harding/Guest-3998006160 : TAP ROOP
+[10:37:40]WHISPER: Johnathan Harding/Guest-3998006160 : TAP ROOP
+[10:37:40]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Johnathan Harding)
+[10:37:46]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:51]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:57]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:37:57]EMOTE: monkey (819)/ : <B>The monkey (819)</B> jumps!
+[10:37:59]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/storage/belt/champion at (58,107,1)
+[10:38:04]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:14]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Johnathan Harding)
+[10:38:16]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:38:16]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:38:25]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:29]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:31]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:35]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:40]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:43]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:47]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:47]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:38:49]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:49]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:38:50]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:51]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:51]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:38:54]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:55]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:38:57]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:38:59]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:38:59]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:01]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:01]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:02]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:05]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:06]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:09]EMOTE: Johnathan Harding/Guest-3998006160 : <B>Johnathan Harding</B> coughs painfuly!
+[10:39:10]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Johnathan Harding)
+[10:39:11]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:39:13]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:23]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:26]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:28]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:29]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:31]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:32]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:39:33]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:34]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:35]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:37]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:39]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:41]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:43]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:39:46]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:49]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:50]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:51]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:39:52]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:54]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:39:58]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:40:00]SAY: space bear/ : Growl!
+[10:40:00]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:40:01]EMOTE: pine tree/ : <B>The pine tree</B> growls at Johnathan Harding.
+[10:40:02]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:40:04]EMOTE: pine tree/ : <B>The pine tree</B> growls at Matthew Rhinehart.
+[10:40:19]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Johnathan Harding)
+[10:40:20]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[10:40:29]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:40:33]SAY: space bear/ : RAWR!
+[10:41:00]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:41:34]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[10:41:51]SAY: grey baby slime (760)/ : Blorble...
+[10:41:54]ACCESS: Logout: Guest-3998006160[DC]/(Johnathan Harding)
+[10:42:08]EMOTE: space bear/ : <B>The space bear</B> grawls
+[10:42:13]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+
+
+Starting up. 10:49.29
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[10:49:29]ADMIN: Loading Banlistjob
+[10:49:29]ADMIN: Loading jobban_rank
+[10:49:29]ADMIN: jobban_keylist was empty
+[10:49:29]ADMIN: Loading appearance_rank
+[10:49:29]ADMIN: appearance_keylist was empty
+[10:49:29]ADMIN: Updating jobbanfile!
+[10:49:29]ADMIN: Loading Banlist
+[10:49:40]ACCESS: Login: Guest-3998006160/(Guest-3998006160) from 127.0.0.1-3998006160 || BYOND v508
+[10:49:52]ACCESS: Login: Cairo283/(Cairo283) from 96.50.107.66-2795721299 || BYOND v508
+[10:50:19]ADMIN: Cairo283 has started the game.
+[10:50:19]ACCESS: Logout: *no key*/(Guest-3998006160)
+[10:50:19]ACCESS: Login: Guest-3998006160/(Kristopher Johnson) from 127.0.0.1-3998006160 || BYOND v508
+[10:50:20]ACCESS: Logout: *no key*/(Cairo283)
+[10:50:20]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[10:50:22]SAY: space bear/ : RAWR!
+[10:50:26]SAY: grey baby slime (241)/ : Lonely...
+[10:50:29]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[10:50:34]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Guest-3998006160/(Kristopher Johnson)
+[10:51:06]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:52:02]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Guest-3998006160/(Kristopher Johnson)
+[10:52:22]SAY: grey baby slime (287)/ : Blorble...
+[10:52:26]SAY: grey baby slime (287)/ : Rawr...
+[10:52:47]SAY: space bear/ : GRR!
+[10:52:54]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[10:53:08]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[10:53:23]ADMIN: Cairo283/(Matthew Rhinehart) jumped to Guest-3998006160/(Kristopher Johnson)
+[10:53:27]EMOTE: monkey (172)/ : <B>The monkey (172)</B> jumps!
+[10:53:50]EMOTE: monkey (664)/ : <B>The monkey (664)</B> jumps!
+[10:53:50]SAY: space bear/ : RAWR!
+[10:53:51]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[10:54:05]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[10:54:07]SAY: Hudson/ : Rawr!
+[10:54:20]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Guest-3998006160/(Kristopher Johnson) to standard space gear.
+[10:54:22]SAY: space bear/ : GRR!
+[10:54:26]SAY: Runtime/ : Meow!
+[10:54:35]EMOTE: monkey (734)/ : <B>The monkey (734)</B> jumps!
+[10:54:37]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Guest-3998006160/(Kristopher Johnson) to Scientist.
+[10:54:43]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[10:54:58]SAY: space bear/ : Growl!
+[10:55:04]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:55:10]EMOTE: monkey (448)/ : <B>The monkey (448)</B> jumps!
+[10:55:27]SAY: space bear/ : Growl!
+[10:55:59]EMOTE: Hudson/ : <B>Hudson</B> grawls
+[10:56:03]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/flashlight/lamp/bananalamp at (173,64,1)
+[10:56:06]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:56:08]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/analyzer at (173,65,1)
+[10:56:37]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[10:56:41]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[10:56:52]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:56:58]SAY: Gus/ : MOOOOOO
+[10:57:00]EMOTE: Ian/ : <B>Ian</B> yaps.
+[10:57:02]EMOTE: Proc/ : <B>Proc</B> meows
+[10:57:09]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:57:30]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[10:57:42]EMOTE: monkey (448)/ : <B>The monkey (448)</B> jumps!
+[10:57:53]EMOTE: monkey (895)/ : <B>The monkey (895)</B> jumps!
+[10:57:53]SAY: Runtime/ : Meow!
+[10:58:05]EMOTE: monkey (734)/ : <B>The monkey (734)</B> jumps!
+[10:58:33]EMOTE: monkey (650)/ : <B>The monkey (650)</B> jumps!
+[10:59:23]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[10:59:52]SAY: Hudson/ : Rawr!
+[11:00:11]SAY: grey baby slime (287)/ : Blop...
+[11:00:28]SAY: Ian/ : AUUUUUU!
+[11:00:30]SAY: space bear/ : GRR!
+[11:00:36]SAY: space bear/ : GRR!
+[11:00:51]EMOTE: monkey (895)/ : <B>The monkey (895)</B> jumps!
+[11:01:10]EMOTE: Ian/ : <B>Ian</B> shivers.
+[11:01:23]EMOTE: monkey (172)/ : <B>The monkey (172)</B> jumps!
+[11:03:31]SAY: space bear/ : GRR!
+[11:03:37]EMOTE: monkey (650)/ : <B>The monkey (650)</B> jumps!
+[11:04:27]EMOTE: Proc/ : <B>Proc</B> meows
+[11:05:07]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[11:05:15]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/lighter/grayscale at (170,66,1)
+[11:05:18]SAY: Poly/ : Check the singlo, you chucklefucks!
+[11:05:22]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:05:26]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/lighter at (174,66,1)
+[11:05:26]EMOTE: monkey (172)/ : <B>The monkey (172)</B> jumps!
+[11:05:26]SAY: space bear/ : RAWR!
+[11:05:56]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:05:58]SAY: space bear/ : GRR!
+[11:06:04]SAY: mouse/ : Squeek!
+[11:06:44]EMOTE: monkey (664)/ : <B>The monkey (664)</B> jumps!
+[11:06:47]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/clothing/suit/fire/heavy at (173,65,1)
+[11:06:59]EMOTE: Ian/ : <B>Ian</B> yaps.
+[11:07:24]ADMIN: Cairo283/(Matthew Rhinehart) deleted the heavy firesuit at (173,64,1)
+[11:07:30]EMOTE: Proc/ : <B>Proc</B> meows
+[11:07:36]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/veilrender/honkrender at (173,65,1)
+[11:07:45]SAY: space bear/ : RAWR!
+[11:08:38]GAME: Bomb valve opened in  Space(256,1,1) with no device attacher: Unknown  Last touched by: cairo283
+[11:08:39]GAME: Explosion with size (3, 7, 14, 0) in area Space (238,80,1)
+[11:08:47]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:08:50]SAY: Runtime/ : Meow!
+[11:09:00]EMOTE: monkey (664)/ : <B>The monkey (664)</B> jumps!
+[11:09:07]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/flashlight/lantern at (241,80,1)
+[11:09:19]SAY: space bear/ : Rawr!
+[11:09:24]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[11:09:38]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Kristopher Johnson)
+[11:09:40]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[11:09:55]EMOTE: Gus/ : <B>Gus</B> brays
+[11:10:01]SAY: space bear/ : RAWR!
+[11:10:03]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Kristopher Johnson)
+[11:10:12]ADMIN: Cairo283/(Matthew Rhinehart) teleported Guest-3998006160/(Kristopher Johnson)
+[11:10:14]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Kristopher Johnson)
+[11:10:33]GAME: Bomb valve opened in  Xenobiology Lab(162,69,1) with no device attacher: Unknown  Last touched by: cairo283
+[11:10:33]GAME: Explosion with size (2, 5, 10, 0) in area Xenobiology Lab (164,80,1)
+[11:10:35]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> seizes up and falls limp, his eyes dead and lifeless...
+[11:10:37]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:10:38]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Kristopher Johnson)
+[11:10:56]SAY: Gus/ : Moo?
+[11:11:04]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[11:11:06]EMOTE: monkey (664)/ : <B>The monkey (664)</B> jumps!
+[11:11:15]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:11:19]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[11:12:03]SAY: space bear/ : RAWR!
+[11:12:09]SAY: Gus/ : Moo?
+[11:12:49]SAY: space bear/ : Growl!
+[11:12:54]SAY: space bear/ : Rawr!
+[11:13:00]GAME: Bomb valve opened in  Library(117,107,1) with no device attacher: Unknown  Last touched by: cairo283
+[11:13:02]GAME: Explosion with size (3, 6, 12, 0) in area Library (124,116,1)
+[11:13:04]GAME: Explosion with size (-1, 0, 2, 2) in area Library (121,118,1)
+[11:13:05]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> seizes up and falls limp, his eyes dead and lifeless...
+[11:13:13]ADMIN: Cairo283/(Matthew Rhinehart) teleported Guest-3998006160/(Kristopher Johnson)
+[11:13:16]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Kristopher Johnson)
+[11:13:19]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[11:13:20]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:13:33]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[11:13:40]EMOTE: Clown/ : <B>Clown</B> honks
+[11:13:46]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:13:54]EMOTE: Gus/ : <B>Gus</B> shakes its head
+[11:14:07]SAY: space bear/ : RAWR!
+[11:14:22]GAME: Bomb valve opened in  Quartermasters(161,142,1) with no device attacher: Unknown  Last touched by: guest3998006160
+[11:14:24]GAME: Explosion with size (2, 4, 9, 0) in area Quartermasters (167,142,1)
+[11:14:25]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (164,137,1)
+[11:14:27]ACCESS: Logout: *no key*/(Kristopher Johnson)
+[11:14:27]ACCESS: Login: Guest-3998006160/(Kristopher Johnson) from 127.0.0.1-3998006160 || BYOND v508
+[11:14:30]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:14:36]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:14:41]SAY: space bear/ : Growl!
+[11:15:12]EMOTE: monkey (650)/ : <B>The monkey (650)</B> jumps!
+[11:15:15]ACCESS: Logout: *no key*/(Kristopher Johnson)
+[11:15:15]ACCESS: Login: Guest-3998006160/(Maximus Clark) from 127.0.0.1-3998006160 || BYOND v508
+[11:15:15]ADMIN: Cairo283/(Matthew Rhinehart) modified Maximus Clark's ckey to guest3998006160
+[11:15:16]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:15:31]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:15:33]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Guest-3998006160/(Maximus Clark) to Scientist.
+[11:15:44]SAY: Clown/ : HONK
+[11:16:08]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:16:08]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[11:16:23]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/flashlight/lamp/bananalamp at (170,80,1)
+[11:16:25]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:16:25]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[11:16:40]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:16:45]SAY: Clown/ : Welcome to clown planet!
+[11:16:47]SAY: Gus/ : MOOOOOO
+[11:16:49]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:16:51]SAY: space bear/ : Growl!
+[11:16:52]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 4, 8, 16
+[11:16:52]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:53]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 5, 10, 20
+[11:16:53]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:55]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 7, 14, 28
+[11:16:55]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:56]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 14, 28, 56
+[11:16:56]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:56]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 32, 64, 128
+[11:16:56]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:57]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 3, 7, 14
+[11:16:57]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:58]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 4, 8, 16
+[11:16:58]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:58]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 5, 10, 20
+[11:16:58]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:16:59]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 7, 14, 28
+[11:16:59]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:17:00]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 14, 28, 56
+[11:17:00]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:17:00]ADMIN: Cairo283/(Matthew Rhinehart) changed the bomb cap to 32, 64, 128
+[11:17:00]ADMIN: Cairo283/(Matthew Rhinehart) used secret togglebombcap
+[11:17:01]SAY: space bear/ : Growl!
+[11:17:09]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:17:09]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[11:17:14]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:17:14]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[11:17:40]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:17:43]EMOTE: Proc/ : <B>Proc</B> mews
+[11:17:58]SAY: Gus/ : MOOOOOO
+[11:18:00]SAY: Clown/ : Honk!
+[11:18:15]EMOTE: Maximus Clark/Guest-3998006160 : <B>Maximus Clark</B> coughs painfuly!
+[11:18:17]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:18:17]SAY: Ian/ : Bark!
+[11:18:20]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Maximus Clark)
+[11:18:23]SAY: space bear/ : GRR!
+[11:18:33]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:18:36]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Maximus Clark)
+[11:18:36]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:18:38]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:18:57]SAY: space bear/ : GRR!
+[11:18:59]EMOTE: monkey (448)/ : <B>The monkey (448)</B> jumps!
+[11:19:09]SAY: Clown/ : Welcome to clown planet!
+[11:19:20]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:19:26]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:19:30]GAME: Bomb valve opened in  Toxins Test Area(173,64,1) with no device attacher: Unknown  Last touched by: cairo283
+[11:19:30]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[11:19:30]GAME: Explosion with size (3, 7, 15, 0) in area Toxins Test Area (168,68,1)
+[11:19:31]GAME: Explosion with size (-1, 0, 2, 2) in area Toxins Test Area (172,63,1)
+[11:19:33]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> seizes up and falls limp, his eyes dead and lifeless...
+[11:19:34]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:19:35]SAY: Clown/ : Welcome to clown planet!
+[11:19:35]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Maximus Clark)
+[11:19:39]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[11:19:41]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:19:45]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Maximus Clark)
+[11:19:49]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:19:51]SAY: Clown/ : Welcome to clown planet!
+[11:19:58]EMOTE: Hudson/ : <B>Hudson</B> stares ferociously
+[11:20:03]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:20:04]EMOTE: Maximus Clark/Guest-3998006160 : <B>Maximus Clark</B> coughs!
+[11:20:06]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[11:20:12]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[11:20:25]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:20:38]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:20:38]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:20:38]EMOTE: Maximus Clark/Guest-3998006160 : <B>Maximus Clark</B> gasps!
+[11:20:41]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:20:51]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/flashlight/lamp/green at (172,57,1)
+[11:20:52]EMOTE: Maximus Clark/Guest-3998006160 : <B>Maximus Clark</B> whimpers.
+[11:20:54]EMOTE: Maximus Clark/Guest-3998006160 : <B>Maximus Clark</B> groans in pain!
+[11:21:01]EMOTE: Maximus Clark/Guest-3998006160 : <B>Maximus Clark</B> gasps!
+[11:21:03]ADMIN: Cairo283/(Matthew Rhinehart) teleported Guest-3998006160/(Maximus Clark)
+[11:21:03]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Maximus Clark)
+[11:21:05]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:21:20]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> coughs!
+[11:21:35]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:21:36]EMOTE: monkey (172)/ : <B>The monkey (172)</B> jumps!
+[11:21:43]EMOTE: monkey (895)/ : <B>The monkey (895)</B> jumps!
+[11:21:50]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/ore/glass at (172,57,1)
+[11:21:51]SAY: grey baby slime (287)/ : Rawr...
+[11:22:03]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/stack/sheet/rglass at (173,57,1)
+[11:22:16]ADMIN: Cairo283/(Matthew Rhinehart) modified reinforced glass's amount to 5000
+[11:22:18]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:22:34]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:22:35]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Guest-3998006160/(Maximus Clark)
+[11:23:45]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:23:49]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[11:23:57]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to syndie space operative melee.
+[11:24:03]EMOTE: Poly/ : <B>Poly</B> squawks.
+[11:24:08]EMOTE: monkey (895)/ : <B>The monkey (895)</B> jumps!
+[11:24:54]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[11:25:12]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/flashlight/lamp at (171,55,1)
+[11:25:29]ACCESS: Logout: *no key*/(Maximus Clark)
+[11:25:29]ACCESS: Login: Guest-3998006160/(Maximus Clark) from 127.0.0.1-3998006160 || BYOND v508
+[11:25:34]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:25:34]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 96.50.107.66-2795721299 || BYOND v508
+[11:26:16]SAY: space bear/ : Growl!
+[11:26:23]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/machinery/atmospherics/unary/tank/toxins at (169,62,1)
+[11:26:33]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/structure/reagent_dispensers/peppertank at (168,62,1)
+[11:26:37]EMOTE: monkey (734)/ : <B>The monkey (734)</B> jumps!
+[11:26:45]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/machinery/portable_atmospherics/canister/toxins at (170,62,1)
+[11:26:51]SAY: Hudson/ : RAWR!
+[11:26:52]ADMIN: Cairo283/(Matthew Rhinehart) assumed direct control of Rowan Leach.
+[11:26:52]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:26:52]ACCESS: Login: cairo283/(Rowan Leach) from 96.50.107.66-2795721299 || BYOND v508
+[11:27:01]ADMIN: cairo283/(Admin) deleted Mixer Room Vent at (170,60,1)
+[11:27:04]ADMIN: cairo283/(Admin) deleted Mixer Room Vent at (169,60,1)
+[11:27:04]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:27:07]ADMIN: cairo283/(Admin) deleted Mixer Room Vent at (168,60,1)
+[11:27:33]ADMIN: cairo283/(Admin) spawned /obj/item/weapon/gun/magic/wand/fireball at (170,59,1)
+[11:27:39]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:27:43]SAY: space bear/ : Rawr!
+[11:27:56]SAY: Ian/ : Bark!
+[11:28:18]ADMIN: cairo283/(Admin) spawned /obj/machinery/wish_granter at (169,58,1)
+[11:28:48]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:29:06]ADMIN: cairo283/(Admin) spawned /obj/machinery/wish_granter_dark at (169,59,1)
+[11:29:22]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:29:27]SAY: Admin/cairo283 : <i>AAAAAAARRRGH!!!</i>
+[11:29:28]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:29:32]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[11:29:39]EMOTE: Runtime/ : <B>Runtime</B> mews
+[11:30:03]SAY: Admin/cairo283 : <i>RAAAAAAAARGH!!!</i>
+[11:30:04]ACCESS: Logout: cairo283[DC]/(Admin)
+[11:30:11]ACCESS: Logout: Guest-3998006160[DC]/(Maximus Clark)
