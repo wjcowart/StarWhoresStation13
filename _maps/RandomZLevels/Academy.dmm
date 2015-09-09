@@ -30,7 +30,7 @@
 "aD" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/fancy/carpet,/area/awaymission/academy/headmaster)
 "aE" = (/obj/structure/filingcabinet,/turf/simulated/floor/wood,/area/awaymission/academy/headmaster)
 "aF" = (/turf/simulated/floor/wood,/area/awaymission/academy/headmaster)
-"aG" = (/obj/structure/safe/floor,/turf/simulated/floor/wood,/area/awaymission/academy/headmaster)
+"aG" = (/obj/structure/safe/floor,/obj/item/weapon/gun/magic/wand/resurrection,/obj/item/weapon/spellbook/oneuse/charge,/turf/simulated/floor/wood,/area/awaymission/academy/headmaster)
 "aH" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0; tag = ""},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/fancy/carpet,/area/awaymission/academy/headmaster)
 "aI" = (/obj/structure/table/reinforced,/obj/item/device/laser_pointer/upgraded,/turf/simulated/floor/fancy/carpet,/area/awaymission/academy/headmaster)
 "aJ" = (/obj/structure/cult/tome,/obj/item/weapon/staff,/turf/simulated/floor/wood,/area/awaymission/academy/headmaster)

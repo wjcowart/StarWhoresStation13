@@ -416,7 +416,7 @@
 "hZ" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/grille,/obj/item/weapon/shard{icon_state = "small"},/turf/simulated/floor/plating/airless,/area/awaymission/BMPship/Fore)
 "ia" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated,/area/awaymission/BMPship/Fore)
 "ib" = (/turf/simulated/floor/plating/airless,/area/awaymission/BMPship/Fore)
-"ic" = (/obj/effect/gibspawner/robot,/turf/simulated,/area/awaymission/BMPship/Fore)
+"ic" = (/obj/effect/gibspawner/robot,/turf/simulated/floor/plating/airless,/area/awaymission/BMPship/Fore)
 "id" = (/turf/simulated/floor/plating/airless{tag = "icon-platingdmg2"; icon_state = "platingdmg2"},/area/awaymission)
 "ie" = (/obj/structure/mecha_wreckage/ripley,/turf/simulated/floor/plating/airless,/area/awaymission)
 "if" = (/obj/effect/landmark{name = "awaystart"},/turf/simulated/floor/plating/asteroid/airless,/area/awaymission)
@@ -459,7 +459,7 @@
 "iQ" = (/turf/simulated/floor/plating,/turf/simulated/shuttle/wall{tag = "icon-swall_f6"; icon_state = "swall_f6"; dir = 2},/area/awaymission/BMPship/Fore)
 "iR" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/grille,/turf/simulated/floor/engine,/area/awaymission/BMPship/Fore)
 "iS" = (/turf/simulated/mineral/diamond,/area/awaymission)
-"iT" = (/turf/simulated/mineral/clown,/area/awaymission)
+"iT" = (/obj/structure/falsewall/clown,/turf/space,/area/awaymission)
 
 (1,1,1) = {"
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

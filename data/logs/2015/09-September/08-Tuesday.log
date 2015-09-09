@@ -1,0 +1,571 @@
+
+
+Starting up. 10:09.15
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[10:09:15]ADMIN: Loading Banlistjob
+[10:09:15]ADMIN: Loading jobban_rank
+[10:09:15]ADMIN: jobban_keylist was empty
+[10:09:15]ADMIN: Loading appearance_rank
+[10:09:15]ADMIN: appearance_keylist was empty
+[10:09:15]ADMIN: Updating jobbanfile!
+[10:09:15]ADMIN: Loading Banlist
+[10:09:38]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[10:12:55]ACCESS: Logout: *no key*/(Cairo283)
+[10:12:55]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[10:13:07]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[10:13:13]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[10:13:47]EMOTE: monkey (698)/ : <B>The monkey (698)</B> jumps!
+[10:14:33]EMOTE: monkey (901)/ : <B>The monkey (901)</B> jumps!
+[10:14:41]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[10:14:50]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:15:24]EMOTE: monkey (369)/ : <B>The monkey (369)</B> jumps!
+[10:15:40]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[10:15:42]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[10:16:24]EMOTE: monkey (350)/ : <B>The monkey (350)</B> jumps!
+[10:16:31]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[10:17:17]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[10:17:21]SAY: grey baby slime (725)/ : Blop...
+[10:17:21]EMOTE: space bear/ : <B>The space bear</B> stomps
+[10:17:21]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:17:25]EMOTE: Poly/ : <B>Poly</B> squawks.
+[10:17:36]SAY: grey baby slime (725)/ : Blop...
+[10:18:16]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:19:02]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[10:19:15]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:19:27]SAY: space bear/ : Growl!
+[10:19:31]SAY: Proc/ : Esp!
+[10:19:33]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[10:19:38]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[10:19:42]SAY: mouse/ : Squeek?
+[10:19:44]SAY: Runtime/ : Purr!
+[10:19:46]EMOTE: monkey (901)/ : <B>The monkey (901)</B> jumps!
+[10:20:14]GAME: Cairo283/(Matthew Rhinehart) has primed a smoke bomb for detonation at Bridge (126,189,1).
+[10:20:34]SAY: space bear/ : GRR!
+[10:20:41]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:20:49]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[10:22:24]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+
+
+Starting up. 11:13.07
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[11:13:07]ADMIN: Loading Banlistjob
+[11:13:07]ADMIN: Loading jobban_rank
+[11:13:07]ADMIN: jobban_keylist was empty
+[11:13:07]ADMIN: Loading appearance_rank
+[11:13:07]ADMIN: appearance_keylist was empty
+[11:13:07]ADMIN: Updating jobbanfile!
+[11:13:07]ADMIN: Loading Banlist
+[11:13:37]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[11:16:46]ACCESS: Logout: *no key*/(Cairo283)
+[11:16:46]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:16:58]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[11:17:17]SAY: space bear/ : GRR!
+[11:17:23]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[11:17:38]ADMIN: Cairo283/(Matthew Rhinehart) deleted the suit storage unit at (166,122,1)
+[11:17:40]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:18:07]SAY: Gus/ : MOOOOOO
+[11:18:11]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[11:18:20]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:18:49]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:19:31]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[11:19:56]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:20:32]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[11:20:43]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[11:20:49]ADMIN: Cairo283/(Matthew Rhinehart) deleted Matthew Rhinehart's ID Card (Chief Engineer) at (135,100,1)
+[11:20:57]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:21:27]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:21:33]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[11:21:37]EMOTE: Ian/ : <B>Ian</B> woofs!
+[11:21:37]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:21:46]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[11:22:07]SAY: space bear/ : Growl!
+[11:22:20]EMOTE: monkey (74)/ : <B>The monkey (74)</B> jumps!
+[11:22:30]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[11:22:34]SAY: space bear/ : GRR!
+[11:22:38]EMOTE: monkey (915)/ : <B>The monkey (915)</B> jumps!
+[11:22:41]EMOTE: space carp/ : <B>The space carp</B> nashes at the hivebot!
+[11:22:49]EMOTE: monkey (915)/ : <B>The monkey (915)</B> jumps!
+[11:22:55]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:23:14]EMOTE: Ian/ : <B>Ian</B> shivers.
+[11:23:14]SAY: mouse/ : Squeek!
+[11:23:25]SAY: space bear/ : Growl!
+[11:23:46]EMOTE: monkey (489)/ : <B>The monkey (489)</B> jumps!
+[11:24:00]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:24:11]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/card/emag at (134,100,1)
+[11:24:14]SAY: space bear/ : Rawr!
+[11:24:20]EMOTE: monkey (915)/ : <B>The monkey (915)</B> jumps!
+[11:24:49]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:24:53]SAY: space bear/ : Growl!
+[11:25:00]SAY: grey baby slime (467)/ : Blop...
+[11:25:10]SAY: Gus/ : Moo?
+[11:25:14]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:25:17]EMOTE: monkey (489)/ : <B>The monkey (489)</B> jumps!
+[11:25:42]EMOTE: monkey (489)/ : <B>The monkey (489)</B> jumps!
+[11:25:44]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[11:26:45]SAY: space bear/ : RAWR!
+[11:27:10]SAY: space bear/ : RAWR!
+[11:27:20]EMOTE: Hudson/ : <B>Hudson</B> grumbles
+[11:28:15]ADMIN: Cairo283/(Matthew Rhinehart) has triggered an event. (Robeless Casting)
+[11:28:27]ADMIN: Cairo283/(Matthew Rhinehart) has wizard'ed Matthew Rhinehart.
+[11:28:28]EMOTE: space carp/ : <B>The space carp</B> nashes at the hivebot!
+[11:28:34]SAY: grey baby slime (467)/ : Blorble...
+[11:28:37]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/spellbook at (126,116,1)
+[11:28:49]EMOTE: space carp/ : <B>The space carp</B> nashes at the hivebot!
+[11:28:51]ADMIN: Cairo283/(Matthew Rhinehart) deleted the spell book at (129,116,1)
+[11:28:57]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:29:14]EMOTE: Proc/ : <B>Proc</B> mews
+[11:29:29]EMOTE: monkey (489)/ : <B>The monkey (489)</B> jumps!
+[11:29:41]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[11:29:59]ADMIN: Cairo283/(Matthew Rhinehart) has triggered an event. (Robeless Casting)
+[11:30:15]EMOTE: monkey (915)/ : <B>The monkey (915)</B> jumps!
+[11:30:38]EMOTE: Runtime/ : <B>Runtime</B> mews
+[11:30:49]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to naked.
+[11:31:49]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:31:56]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:32:12]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:32:23]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:32:29]SAY: grey baby slime (939)/ : Lonely...
+[11:32:48]SAY: grey baby slime (467)/ : Blorble...
+[11:33:07]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[11:33:07]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:35:05]SAY: Ian/ : Woof!
+[11:35:53]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[11:35:53]SAY: Ian/ : Woof!
+[11:37:02]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:37:06]EMOTE: Proc/ : <B>Proc</B> meows
+[11:37:13]EMOTE: monkey (761)/ : <B>The monkey (761)</B> jumps!
+[11:37:13]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/pda/ai at (122,141,1)
+[11:37:25]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/pda at (121,141,1)
+[11:37:29]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[11:37:32]EMOTE: Proc/ : <B>Proc</B> mews
+[11:37:34]SAY: space bear/ : GRR!
+[11:37:40]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:37:42]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/pda/clear at (122,141,1)
+[11:37:55]ADMIN: Cairo283/(Matthew Rhinehart) deleted the PDA at (121,141,1)
+[11:37:58]ADMIN: Cairo283/(Matthew Rhinehart) deleted the PDA at (123,142,1)
+[11:38:09]SAY: space bear/ : GRR!
+[11:38:11]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:38:24]SAY: space bear/ : RAWR!
+[11:38:26]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:38:53]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[11:39:00]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/reagent_containers/food/snacks/sliceable/store/meatbread at (127,132,1)
+[11:39:14]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:39:17]SAY: mouse/ : Squeek?
+[11:39:35]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/contraband/poster/legit at (138,143,1)
+[11:40:20]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:40:20]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:40:24]SAY: Hudson/ : GRR!
+[11:40:38]SAY: grey baby slime (939)/ : Rawr...
+[11:41:06]SAY: mouse/ : Squeek!
+[11:41:20]SAY: Proc/ : Purr!
+[11:41:31]SAY: mouse/ : Squeek!
+[11:41:34]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/mecha_parts/spod_equipment/engine at (135,86,1)
+[11:41:46]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:41:47]ADMIN: Cairo283/(Matthew Rhinehart) deleted the mecha equipment at (135,84,1)
+[11:41:55]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/mecha/spacepod/syndie at (135,87,1)
+[11:42:10]GAME: cairo283(Matthew Rhinehart) used a Wormhole Generator in (138,84,1)
+[11:42:13]SAY: space bear/ : Rawr!
+[11:42:40]ADMIN: Cairo283/(Matthew Rhinehart) deleted the syndicate space pod at (135,87,1)
+[11:42:40]GAME: Explosion with size (0, 1, 3, 0) in area Emergency Shuttle Station (135,87,1)
+[11:42:44]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:42:57]EMOTE: Ian/ : <B>Ian</B> yaps.
+[11:43:12]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[11:43:24]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/plasteel at (136,87,1)
+[11:43:24]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[11:43:26]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[11:43:27]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:43:27]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:43:35]EMOTE: Matthew Rhinehart/@Cairo283 : <B>Matthew Rhinehart</B> coughs painfuly!
+[11:43:39]EMOTE: Matthew Rhinehart/@Cairo283 : <B>Matthew Rhinehart</B> coughs painfuly!
+[11:43:41]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (135,87,1)
+[11:43:41]EMOTE: Matthew Rhinehart/@Cairo283 : <B>Matthew Rhinehart</B> coughs painfuly!
+[11:43:42]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:43:42]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:43:47]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[11:43:47]EMOTE: Matthew Rhinehart/Cairo283 : <B>Matthew Rhinehart</B> gasps!
+[11:43:58]EMOTE: monkey (761)/ : <B>The monkey (761)</B> jumps!
+[11:44:04]EMOTE: Proc/ : <B>Proc</B> shivers
+[11:44:14]SAY: Matthew Rhinehart/Cairo283 : RECILE`UMO`AMU
+[11:44:30]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (128,121,1)
+[11:44:33]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (128,118,1)
+[11:44:36]EMOTE: monkey (74)/ : <B>The monkey (74)</B> jumps!
+[11:44:36]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (124,121,1)
+[11:44:39]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (128,124,1)
+[11:44:42]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (127,124,1)
+[11:44:42]EMOTE: monkey (761)/ : <B>The monkey (761)</B> jumps!
+[11:45:25]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/card/emag at (165,148,1)
+[11:45:32]SAY: space bear/ : Growl!
+[11:45:39]SAY: Proc/ : Purr!
+[11:45:56]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:46:23]EMOTE: Ian/ : <B>Ian</B> shivers.
+[11:46:29]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[11:46:33]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:46:40]SAY: space bear/ : GRR!
+[11:46:52]EMOTE: monkey (489)/ : <B>The monkey (489)</B> jumps!
+[11:46:59]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[11:47:07]SAY: Runtime/ : Meow!
+[11:47:15]SAY: Hudson/ : RAWR!
+[11:47:28]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:48:20]SAY: space bear/ : GRR!
+[11:48:32]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/storage/backpack/mountainbag_med at (173,151,1)
+[11:48:36]ADMIN: Cairo283/(Matthew Rhinehart) deleted the medical backpack at (173,151,1)
+[11:48:37]EMOTE: monkey (915)/ : <B>The monkey (915)</B> jumps!
+[11:48:52]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/crowbar/large at (182,149,1)
+[11:49:13]EMOTE: monkey (761)/ : <B>The monkey (761)</B> jumps!
+[11:49:13]SAY: space bear/ : Growl!
+[11:49:21]SAY: Gus/ : Moo?
+[11:49:28]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/clothing/mask/gas at (167,137,1)
+[11:49:30]EMOTE: Ian/ : <B>Ian</B> barks!
+[11:49:40]EMOTE: Ian/ : <B>Ian</B> woofs!
+[11:49:42]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:49:55]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[11:50:16]SAY: space bear/ : RAWR!
+[11:50:40]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/stack/sheet/mineral/plasma at (200,149,1)
+[11:50:51]ADMIN: Cairo283/(Matthew Rhinehart) modified solid plasma's amount to 5e+006
+[11:51:25]SAY: Proc/ : Esp!
+[11:51:34]EMOTE: Ian/ : <B>Ian</B> dances around.
+[11:52:09]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:53:04]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:53:14]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:53:14]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:53:21]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[11:53:23]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (199,148,1)
+[11:53:25]EMOTE: space bear/ : <B>The space bear</B> grawls
+[11:53:31]EMOTE: Proc/ : <B>Proc</B> meows
+[11:53:40]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[11:53:47]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (198,148,1)
+[11:53:53]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (200,149,1)
+[11:53:57]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (199,149,1)
+[11:54:00]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (198,149,1)
+[11:54:05]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (197,149,1)
+[11:54:05]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[11:54:05]SAY: Hudson/ : Growl!
+[11:54:08]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (197,148,1)
+[11:54:11]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[11:54:13]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (197,147,1)
+[11:54:17]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (197,146,1)
+[11:54:17]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[11:54:20]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (197,145,1)
+[11:54:23]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (198,145,1)
+[11:54:27]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (198,146,1)
+[11:54:28]SAY: Poly/ : Breaking news from Station Announcements!
+[11:54:31]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (198,147,1)
+[11:54:34]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (199,147,1)
+[11:54:37]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (199,146,1)
+[11:54:42]ADMIN: Cairo283/(Matthew Rhinehart) spawned /turf/simulated/floor/engine at (200,146,1)
+[11:54:48]ADMIN: Cairo283/(Matthew Rhinehart) has entered build mode.
+[11:54:48]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (200,147,1)
+[11:54:49]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (200,148,1)
+[11:54:49]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,148,1)
+[11:54:50]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,147,1)
+[11:54:50]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,146,1)
+[11:54:50]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the wall at (201,146,1)
+[11:54:51]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,146,1)
+[11:54:51]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) deleted the wall at (201,146,1)
+[11:54:52]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,145,1)
+[11:54:52]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,145,1)
+[11:54:53]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,147,1)
+[11:54:53]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,148,1)
+[11:54:53]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,149,1)
+[11:54:54]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,149,1)
+[11:54:54]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the wall at (201,149,1)
+[11:54:54]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the reinforced wall at (201,149,1)
+[11:54:54]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the reinforced wall at (201,149,1)
+[11:54:55]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) deleted the reinforced wall at (201,149,1)
+[11:54:56]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,150,1)
+[11:54:56]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,151,1)
+[11:54:56]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,150,1)
+[11:54:57]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (200,150,1)
+[11:54:57]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (198,150,1)
+[11:54:58]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (197,150,1)
+[11:54:58]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (197,151,1)
+[11:54:58]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (197,152,1)
+[11:54:59]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (197,153,1)
+[11:54:59]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (198,153,1)
+[11:54:59]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (198,154,1)
+[11:55:00]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (199,154,1)
+[11:55:00]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (200,154,1)
+[11:55:00]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (199,153,1)
+[11:55:01]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the wall at (198,153,1)
+[11:55:01]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (198,152,1)
+[11:55:02]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) deleted the wall at (198,153,1)
+[11:55:02]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (199,152,1)
+[11:55:02]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (198,151,1)
+[11:55:03]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (199,150,1)
+[11:55:03]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (199,151,1)
+[11:55:04]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,151,1)
+[11:55:04]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (200,151,1)
+[11:55:04]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (200,152,1)
+[11:55:05]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,153,1)
+[11:55:05]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (200,153,1)
+[11:55:06]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,154,1)
+[11:55:06]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,153,1)
+[11:55:06]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (202,152,1)
+[11:55:07]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the floor at (201,152,1)
+[11:55:11]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:55:11]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:55:13]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) built the wall at (179,149,1)
+[11:55:14]ADMIN: Build Mode: Cairo283/(Matthew Rhinehart) deleted the wall at (179,149,1)
+[11:55:16]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:55:16]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:55:21]SAY: Gus/ : Moo
+[11:55:21]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[11:55:21]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:55:22]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+[11:55:25]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[11:55:27]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[11:55:30]EMOTE: Ian/ : <B>Ian</B> barks!
+[11:55:32]EMOTE: space bear/ : <B>The space bear</B> stomps
+[11:55:38]SAY: Runtime/ : HSSSSS
+[11:55:38]SAY: space bear/ : Rawr!
+[11:55:51]SAY: grey baby slime (939)/ : Blorble...
+[11:57:02]SAY: mouse/ : SQUEEK!
+[11:57:13]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[11:57:27]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[11:57:46]SAY: Poly/ : Breaking news from Station Announcements!
+[11:57:48]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[11:58:05]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[11:58:07]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[11:58:39]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[11:58:47]SAY: Matthew Rhinehart/Cairo283 : RECILE UMO AMU
+[11:58:47]EMOTE: monkey (525)/ : <B>The monkey (525)</B> jumps!
+[11:58:50]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (179,147,1)
+[11:58:53]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (177,150,1)
+[11:58:56]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (179,151,1)
+[11:58:59]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (179,147,1)
+[11:59:03]ADMIN: Cairo283/(Matthew Rhinehart) deleted Wizard's Bees at (177,147,1)
+[11:59:08]EMOTE: Ian/ : <B>Ian</B> yaps.
+[12:00:04]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[12:00:30]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[12:01:31]SAY: mouse/ : Squeek!
+[12:01:39]EMOTE: monkey (482)/ : <B>The monkey (482)</B> jumps!
+[12:01:39]SAY: space bear/ : Growl!
+[12:02:36]EMOTE: Poly/ : <B>Poly</B> squawks.
+[12:02:47]EMOTE: space bear/ : <B>The space bear</B> stares ferociously
+[12:02:53]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[12:03:22]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+
+
+Starting up. 14:16.20
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[14:16:20]ADMIN: Loading Banlistjob
+[14:16:20]ADMIN: Loading jobban_rank
+[14:16:20]ADMIN: jobban_keylist was empty
+[14:16:20]ADMIN: Loading appearance_rank
+[14:16:20]ADMIN: appearance_keylist was empty
+[14:16:20]ADMIN: Updating jobbanfile!
+[14:16:20]ADMIN: Loading Banlist
+[14:16:41]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[14:16:59]ADMIN: Cairo283 has started the game.
+[14:16:59]ACCESS: Logout: *no key*/(Cairo283)
+[14:16:59]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[14:17:12]ADMIN: Cairo283/(Matthew Rhinehart) jumped to *no key*/(Syndicate Operative)
+[14:17:14]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)
+
+
+Starting up. 14:27.07
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode Ragin' Mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'use_recursive_explosions'
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+[14:27:07]ADMIN: Loading Banlistjob
+[14:27:07]ADMIN: Loading jobban_rank
+[14:27:07]ADMIN: jobban_keylist was empty
+[14:27:07]ADMIN: Loading appearance_rank
+[14:27:07]ADMIN: appearance_keylist was empty
+[14:27:07]ADMIN: Updating jobbanfile!
+[14:27:07]ADMIN: Loading Banlist
+[14:28:29]ACCESS: Login: Cairo283/(Cairo283) from 127.0.0.1-2795721299 || BYOND v508
+[14:28:59]ADMIN: Cairo283 has started the game.
+[14:28:59]ACCESS: Logout: *no key*/(Cairo283)
+[14:28:59]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[14:29:00]EMOTE: space bear/ : <B>The space bear</B> grawls
+[14:29:01]GAME: The nuclear authentication disk has been destroyed in (86, 97 ,8). Moving it to (142, 151, 1).
+[14:29:06]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[14:29:06]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[14:29:10]ADMIN: Cairo283/(Matthew Rhinehart) deleted the nuclear authentication disk at (142,151,1)
+[14:29:10]GAME: The nuclear authentication disk has been destroyed in (142, 151 ,1). Moving it to (109, 172, 1).
+[14:29:15]SAY: space bear/ : Growl!
+[14:29:23]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the chief engineer's rubber stamp.
+[14:29:28]EMOTE: Ian/ : <B>Ian</B> woofs!
+[14:29:38]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[14:29:52]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (69,71,8)
+[14:29:54]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (76,69,8)
+[14:29:59]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (65,67,8)
+[14:30:02]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (63,75,8)
+[14:30:11]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (55,70,8)
+[14:30:13]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (59,71,8)
+[14:30:16]EMOTE: monkey (524)/ : <B>The monkey (524)</B> jumps!
+[14:30:17]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (53,65,8)
+[14:30:20]SAY: Hudson/ : Rawr!
+[14:30:22]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (54,62,8)
+[14:30:25]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (63,52,8)
+[14:30:27]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (60,52,8)
+[14:30:33]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (54,54,8)
+[14:30:35]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (57,49,8)
+[14:30:42]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (54,58,8)
+[14:30:44]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (47,59,8)
+[14:30:50]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (47,72,8)
+[14:30:58]EMOTE: space bear/ : <B>The space bear</B> grawls
+[14:30:59]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (53,80,8)
+[14:31:01]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (59,78,8)
+[14:31:11]ADMIN: Cairo283/(Matthew Rhinehart) deleted the plasma mine at (72,83,8)
+[14:31:14]ADMIN: Cairo283/(Matthew Rhinehart) deleted the N2O mine at (68,85,8)
+[14:31:15]EMOTE: monkey (905)/ : <B>The monkey (905)</B> jumps!
+[14:31:19]EMOTE: Poly/ : <B>Poly</B> looks in the faggot's direction and takes flight.
+[14:31:20]ACCESS: Logout: *no key*/(Matthew Rhinehart)
+[14:31:20]ACCESS: Login: Cairo283/(Matthew Rhinehart) from 127.0.0.1-2795721299 || BYOND v508
+[14:31:23]SAY: space bear/ : GRR!
+[14:31:30]ADMIN: Cairo283/(Matthew Rhinehart) made all SMESs powered
+[14:31:30]ADMIN: Cairo283/(Matthew Rhinehart) used secret quickpower
+[14:31:30]SAY: Old Clown/ : Those syndicates sure don&#39;t have a taste for bananas! Honk!
+[14:32:03]SAY: space bear/ : Rawr!
+[14:32:05]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[14:32:14]EMOTE: Ian/ : <B>Ian</B> dances around.
+[14:32:18]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[14:32:20]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[14:32:58]ADMIN: Cairo283/(Matthew Rhinehart) changed the equipment of Cairo283/(Matthew Rhinehart) to special ops officer.
+[14:33:06]EMOTE: Coffee/ : <B>Coffee</B> clicks
+[14:33:08]SAY: Poly/ : Check the singlo, you chucklefucks!
+[14:33:18]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/gun/energy/pulse_rifle/destroyer at (128,161,1)
+[14:33:32]SAY: Proc/ : Esp!
+[14:33:33]ADMIN: Cairo283/(Matthew Rhinehart) deleted the leather satchel at (129,127,1)
+[14:33:34]EMOTE: space bear/ : <B>The space bear</B> stomps
+[14:33:36]SAY: Ian/ : Woof!
+[14:33:57]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[14:34:16]ADMIN: Cairo283/(Matthew Rhinehart) jumped to *no key*/(Dead assistant)
+[14:34:27]EMOTE: space bear/ : <B>The space bear</B> stomps
+[14:34:39]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[14:34:56]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[14:35:16]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:35:27]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:35:40]SAY: space bear/ : RAWR!
+[14:35:59]EMOTE: Coffee/ : <B>Coffee</B> clacks
+[14:36:35]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:36:41]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[14:36:42]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/clothing/suit/welder at (56,64,8)
+[14:36:50]EMOTE: space bear/ : <B>The space bear</B> grumbles
+[14:36:51]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/device/flashlight/flare/torch at (55,64,8)
+[14:36:58]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/weldingtool/experimental at (54,63,8)
+[14:37:02]EMOTE: monkey (457)/ : <B>The monkey (457)</B> jumps!
+[14:37:30]SAY: space bear/ : GRR!
+[14:37:34]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/clothing/mask/gas at (47,59,8)
+[14:37:44]EMOTE: Ian/ : <B>Ian</B> yaps.
+[14:37:58]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/tank/emergency_oxygen at (56,58,8)
+[14:38:09]ADMIN: Cairo283/(Matthew Rhinehart) spawned /obj/item/weapon/tank/oxygen/red at (55,58,8)
+[14:38:12]SAY: space bear/ : Rawr!
+[14:38:18]SAY: Old Clown/ : HONK
+[14:38:35]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:38:49]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:39:23]SAY: space bear/ : Growl!
+[14:39:43]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:40:03]EMOTE: Ian/ : <B>Ian</B> dances around.
+[14:40:40]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:40:55]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:41:00]EMOTE: space bear/ : <B>The space bear</B> rawrs
+[14:41:02]EMOTE: monkey (375)/ : <B>The monkey (375)</B> jumps!
+[14:41:10]EMOTE: Ian/ : <B>Ian</B> dances around.
+[14:41:18]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:41:29]SAY: space bear/ : GRR!
+[14:42:13]SAY: space bear/ : GRR!
+[14:42:26]EMOTE: space bear/ : <B>The space bear</B> grawls
+[14:42:29]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:42:34]EMOTE: monkey (905)/ : <B>The monkey (905)</B> jumps!
+[14:43:13]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:43:22]EMOTE: Ian/ : <B>Ian</B> shivers.
+[14:43:25]SAY: space bear/ : Growl!
+[14:43:43]SAY: space bear/ : Rawr!
+[14:43:47]GAME: Cairo283/(Matthew Rhinehart) triggered a fueltank explosion.
+[14:43:47]GAME: Explosion with size (-1, 0, 2, 2) in area XCC-P5831 Maintenance (84,79,8)
+[14:43:50]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:44:19]SAY: space bear/ : GRR!
+[14:44:23]SAY: space bear/ : RAWR!
+[14:44:36]EMOTE: monkey (905)/ : <B>The monkey (905)</B> jumps!
+[14:44:36]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[14:45:03]EMOTE: mouse/ : <B>The mouse</B> shakes
+[14:45:10]ADMIN: Cairo283/(Matthew Rhinehart) deleted the table at (87,78,8)
+[14:45:32]ADMIN: Cairo283/(Matthew Rhinehart) healed / Revived Cairo283/(Matthew Rhinehart)
+[14:45:41]SAY: grey baby slime (728)/ : Lonely...
+[14:45:49]EMOTE: Gus/ : <B>Gus</B> brays
+[14:46:24]ACCESS: Logout: Cairo283[DC]/(Matthew Rhinehart)

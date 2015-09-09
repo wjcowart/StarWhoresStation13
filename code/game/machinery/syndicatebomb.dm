@@ -62,7 +62,7 @@
 		else
 			if(!active)
 				user << "<span class='notice'>You wrench the bomb from the floor</span>"
-				playsound(loc, 'sound/items/ratchet.ogg', 50, 1)
+
 				anchored = 0
 			else
 				user << "<span class='warning'>The bolts are locked down!</span>"
