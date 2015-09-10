@@ -448,7 +448,7 @@
 "iF" = (/obj/machinery/sleeper,/turf/simulated/floor/plasteel/airless{tag = "icon-floor4 (SOUTHWEST)"; icon_state = "floor4"; dir = 10},/area/space)
 "iG" = (/turf/simulated/floor/plasteel/airless{tag = "icon-floor4 (SOUTHWEST)"; icon_state = "floor4"; dir = 10},/area/space)
 "iH" = (/obj/effect/landmark/corpse/syndicatesoldier,/turf/simulated/floor/plasteel/airless{tag = "icon-floor4 (SOUTHWEST)"; icon_state = "floor4"; dir = 10},/area/space)
-"iI" = (/turf/simulated/mineral/clown,/area/space)
+"iI" = (/obj/structure/falsewall/clown,/area/space)
 "iJ" = (/obj/machinery/door/airlock/external,/turf/simulated/floor/plasteel/airless{tag = "icon-floor4 (SOUTHWEST)"; icon_state = "floor4"; dir = 10},/area/space)
 "iK" = (/obj/item/stack/rods,/turf/simulated/floor/plasteel/airless{tag = "icon-floor4 (SOUTHWEST)"; icon_state = "floor4"; dir = 10},/area/space)
 "iL" = (/turf/space,/turf/simulated/shuttle/wall{dir = 8; icon_state = "diagonalWall3"},/area/awaymission/spacebattle/syndicate5)
